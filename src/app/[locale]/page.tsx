@@ -127,7 +127,10 @@ export default async function Home({
                   </a>
                 </h3>
                 <p>{description}</p>
-                <OptionLink option={name} label={c.discuss} />
+                <OptionLink
+                  option={entries[Number(num) - 1].copy[locale].title}
+                  label={c.discuss}
+                />
               </article>
             ))}
           </div>
@@ -230,7 +233,10 @@ export default async function Home({
                     </a>
                   </h3>
                   <p>{description}</p>
-                  <OptionLink option={name} label={c.discuss} />
+                  <OptionLink
+                    option={entries[5 + i].copy[locale].title}
+                    label={c.discuss}
+                  />
                 </div>
               </article>
             ))}
@@ -242,7 +248,12 @@ export default async function Home({
           </SectionHeading>
           <div className="region-list">
             {regions.map((r) => (
-              <a key={r.id} href={sectionPath(locale, "quote")}>
+              <a
+                key={r.id}
+                href={
+                  (byId(`metro-${r.id}`) || byId("locations"))!.paths[locale]
+                }
+              >
                 {r[locale]}
                 <Arrow />
               </a>

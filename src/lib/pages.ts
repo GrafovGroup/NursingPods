@@ -1,3 +1,4 @@
+import { locationEntries, locationQuality } from "./location-content";
 import { industries } from "./industries";
 import type { Locale } from "./config";
 import { catalogue } from "./catalogue/data";
@@ -235,3 +236,56 @@ pages.push({
   },
   indexable: true,
 });
+pages.push({
+  id: "locations",
+  section: "locations",
+  paths: {
+    en: sectionPath("en", "locations"),
+    fr: sectionPath("fr", "locations"),
+  },
+  title: {
+    en: "Plan a nursing-space project in Canada",
+    fr: "Planifiez un espace d’allaitement au Canada",
+  },
+  description: {
+    en: "Prepare a location-specific project brief for any province or territory. Explore regional planning considerations and major markets without assuming local inventory or installation availability.",
+    fr: "Préparez un brief adapté à votre province ou territoire. Explorez les éléments régionaux et les principaux marchés sans présumer de stock local ni de disponibilité d’installation.",
+  },
+  sections: {
+    en: [
+      {
+        title: "National inquiry, site-specific scope",
+        body: "The location directory helps organize project questions across Canada. It does not represent a network of offices or a promise of local fulfillment. Identify the building, receiving contact, access requirements and timing so supply and installation can be assessed for the actual destination.",
+      },
+    ],
+    fr: [
+      {
+        title: "Une demande nationale, une portée locale",
+        body: "Le répertoire aide à organiser les questions de projet au Canada. Il ne représente pas un réseau de bureaux ni une promesse de service local. Indiquez le bâtiment, le contact, les accès et l’échéancier pour évaluer la fourniture et l’installation selon la destination réelle.",
+      },
+    ],
+  },
+  indexable: true,
+});
+for (const location of locationEntries) {
+  const parent = locationEntries.find((l) => l.id === location.parentId);
+  const path = (locale: Locale) =>
+    `${sectionPath(locale, "locations")}${parent ? parent.slugs[locale] + "/" : ""}${location.slugs[locale]}/`;
+  pages.push({
+    id: location.id,
+    section: "locations",
+    parentId: location.parentId,
+    paths: { en: path("en"), fr: path("fr") },
+    title: {
+      en: `Nursing-space planning — ${location.name.en}`,
+      fr: `Planification d’espaces d’allaitement — ${location.name.fr}`,
+    },
+    description: {
+      en: `Prepare a project in ${location.name.en}: review building access, intended users, receiving arrangements and the responsibilities to confirm in a proposal.`,
+      fr: `Préparez un projet — ${location.name.fr} : examinez l’accès, les usagers, la réception et les responsabilités à confirmer dans une proposition.`,
+    },
+    sections: location.sections,
+    related: ["freestanding", "rooms", "installation"],
+    indexable: locationQuality(location),
+  });
+}

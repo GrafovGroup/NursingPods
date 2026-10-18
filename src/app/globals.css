@@ -1536,3 +1536,17 @@ table a {
 .form-grid [aria-invalid="true"] {
   border-color: #8d2727;
 }
+.location-communities {
+  background: #e7ece5;
+}
+.location-communities h2 {
+  font-size: 36px;
+}
+.location-communities > p {
+  max-width: 750px;
+  margin-top: 20px;
+}
+.detail-body > div:only-child {
+  grid-column: 1/-1;
+  max-width: 900px;
+}

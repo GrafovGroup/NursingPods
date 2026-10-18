@@ -7,6 +7,7 @@ import {
   type PageRecord,
 } from "@/lib/pages";
 import { sectionPath } from "@/lib/paths";
+import { locationEntries } from "@/lib/location-content";
 import Header from "./Header";
 import Footer from "./Footer";
 import InquiryForm from "./InquiryForm";
@@ -20,6 +21,7 @@ export default function ContentPage({
   const quoteHref = ["quote", "contact"].includes(page.id)
     ? "#project-form"
     : `${sectionPath(locale, "quote")}?interest=${encodeURIComponent(page.id)}`;
+  const location = locationEntries.find((l) => l.id === page.id);
   const entry = entries.find((e) => e.id === page.entryId);
   const children = pages.filter((p) => p.parentId === page.id);
   const parent = page.parentId ? byId(page.parentId) : undefined;
@@ -193,6 +195,30 @@ export default function ContentPage({
               </aside>
             )}
           </div>
+        )}
+        {location && (
+          <section className="section location-communities">
+            <h2>
+              {locale === "en"
+                ? "Include your municipality"
+                : "Précisez votre municipalité"}
+            </h2>
+            <p>
+              {locale === "en"
+                ? "Choose a community to add it to your project brief. These links are inquiry starting points, not local office listings."
+                : "Choisissez une communauté pour l’ajouter au descriptif. Ces liens amorcent une demande; ils ne désignent pas des bureaux locaux."}
+            </p>
+            <div className="related-links">
+              {location.municipalities.map((city) => (
+                <a
+                  key={city}
+                  href={`${sectionPath(locale, "quote")}?city=${encodeURIComponent(city)}`}
+                >
+                  {city} ↗
+                </a>
+              ))}
+            </div>
+          </section>
         )}
         {page.faq && (
           <section className="section faq">
