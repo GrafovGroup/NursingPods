@@ -44,6 +44,12 @@ export default function Footer({ locale }: { locale: Locale }) {
               {business.phoneDisplay}
             </a>
           )}
+          {business.emailVerified &&
+            /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(business.email) && (
+              <a className="public-email" href={`mailto:${business.email}`}>
+                {business.email}
+              </a>
+            )}
           <a className="text-link" href={sectionPath(locale, "quote")}>
             {c.quote} ↗
           </a>

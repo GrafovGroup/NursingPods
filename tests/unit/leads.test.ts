@@ -24,6 +24,8 @@ const settings = leadSettings({
   NEXT_PUBLIC_PRIVACY_EMAIL: "privacy@example.com",
   NEXT_PUBLIC_LEGAL_NAME: "Test organization",
   LEAD_RETENTION_DAYS: "30",
+  NEXT_PUBLIC_RETENTION_DAYS: "30",
+  NEXT_PUBLIC_DELIVERY_PROVIDER_LABEL: "Test provider",
   LEAD_SIGNING_SECRET: secret,
   LEAD_RATE_LIMIT_DIR: "/tmp/test-only",
   NEXT_PUBLIC_SITE_URL: "https://nursingpods.ca",
@@ -257,4 +259,38 @@ test("CRM failure does not erase verified email acceptance", async () => {
   });
   assert.equal(result.status, 202);
   assert.ok(events.includes("inquiry_crm_forward_failed"));
+});
+test("privacy disclosure and retention consistency are required for readiness", () => {
+  const env = {
+    INQUIRIES_ENABLED: "true",
+    OUTBOUND_DELIVERY_AUTHORIZED: "true",
+    PRIVACY_POLICY_APPROVED: "true",
+    LEAD_PROVIDER: "resend",
+    RESEND_API_KEY: "test",
+    LEAD_FROM_EMAIL: "a@example.com",
+    LEAD_TO_EMAIL: "b@example.com",
+    NEXT_PUBLIC_PRIVACY_EMAIL: "p@example.com",
+    NEXT_PUBLIC_LEGAL_NAME: "Test",
+    LEAD_RETENTION_DAYS: "30",
+    LEAD_SIGNING_SECRET: secret,
+    LEAD_RATE_LIMIT_DIR: "/tmp/test",
+    NEXT_PUBLIC_SITE_URL: "https://nursingpods.ca",
+  };
+  assert.equal(leadSettings(env).ready, false);
+  assert.equal(
+    leadSettings({
+      ...env,
+      NEXT_PUBLIC_RETENTION_DAYS: "31",
+      NEXT_PUBLIC_DELIVERY_PROVIDER_LABEL: "Test",
+    }).ready,
+    false,
+  );
+  assert.equal(
+    leadSettings({
+      ...env,
+      NEXT_PUBLIC_RETENTION_DAYS: "30",
+      NEXT_PUBLIC_DELIVERY_PROVIDER_LABEL: "Test",
+    }).ready,
+    true,
+  );
 });

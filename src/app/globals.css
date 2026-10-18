@@ -1606,3 +1606,10 @@ table a {
   width: 100%;
   height: auto;
 }
+.public-email {
+  display: block;
+  overflow-wrap: anywhere;
+  text-decoration: underline;
+  margin: 8px 0 15px;
+  font-size: 14px;
+}

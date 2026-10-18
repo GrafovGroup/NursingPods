@@ -1,0 +1,48 @@
+name: Site checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      INQUIRIES_ENABLED: "false"
+      OUTBOUND_DELIVERY_AUTHORIZED: "false"
+      NEXT_PUBLIC_PHONE_VERIFIED: "false"
+      NEXT_PUBLIC_SITE_URL: https://nursingpods.ca
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.25.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm build
+      - run: pnpm typecheck
+      - run: pnpm test
+      - run: pnpm exec playwright install --with-deps chromium
+      - name: Production HTTP, browser and accessibility checks
+        run: |
+          pnpm start > /tmp/nursingpods-server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          for attempt in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:3000/api/health > /dev/null; then break; fi
+            sleep 1
+          done
+          pnpm test:http
+          pnpm test:browser
+          pnpm test:a11y
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: qa-results
+          path: artifacts/
+          retention-days: 7

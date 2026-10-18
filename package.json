@@ -8,9 +8,12 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "test": "node --test tests/*.test.mjs",
+    "test": "tsx --test tests/unit/*.test.ts",
     "test:browser": "node scripts/browser-check.cjs",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test:http": "tsx scripts/check-site.ts",
+    "test:a11y": "node scripts/accessibility-check.cjs",
+    "check": "sh scripts/check-phase.sh"
   },
   "dependencies": {
     "next": "^16.4.2",
@@ -33,5 +36,6 @@
   },
   "engines": {
     "node": ">=22"
-  }
+  },
+  "packageManager": "pnpm@11.25.0"
 }

@@ -16,6 +16,8 @@ export function leadSettings(
     origin: env.NEXT_PUBLIC_SITE_URL || "https://nursingpods.ca",
     privacyApproved: env.PRIVACY_POLICY_APPROVED === "true",
     privacyEmail: env.NEXT_PUBLIC_PRIVACY_EMAIL || "",
+    publicRetention: env.NEXT_PUBLIC_RETENTION_DAYS || "",
+    providerLabel: env.NEXT_PUBLIC_DELIVERY_PROVIDER_LABEL || "",
     legalName: env.NEXT_PUBLIC_LEGAL_NAME || "",
     retentionDays: Number(env.LEAD_RETENTION_DAYS || 0),
     proxyHeader: env.TRUSTED_PROXY_HEADER || "",
@@ -55,6 +57,8 @@ export function leadSettings(
     Number.isInteger(settings.retentionDays) &&
     settings.retentionDays >= 1 &&
     settings.retentionDays <= 3650 &&
+    settings.publicRetention === String(settings.retentionDays) &&
+    !!settings.providerLabel.trim() &&
     providerReady;
   return { ...settings, ready };
 }

@@ -35,6 +35,7 @@ export function verifyToken(
     const value = JSON.parse(Buffer.from(payload, "base64url").toString());
     const age = now - value.at;
     if (
+      !Number.isFinite(value.at) ||
       value.purpose !== purpose ||
       typeof value.nonce !== "string" ||
       age < 0 ||
