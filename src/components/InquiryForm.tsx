@@ -3,7 +3,7 @@ import { useEffect, useRef, useState, type FormEvent } from "react";
 import { business, type Locale } from "@/lib/config";
 import { content } from "@/lib/content";
 import { provinces } from "@/lib/locations";
-import { entries } from "@/lib/pages";
+import { leadOptions } from "@/lib/lead-options";
 import { sectionPath } from "@/lib/paths";
 import { validateLead, fieldLimits } from "@/lib/leads/validation";
 import { leadMessages } from "@/lib/leads/messages";
@@ -30,10 +30,10 @@ export default function InquiryForm({ locale }: { locale: Locale }) {
       })
       .catch(() => {});
     const params = new URLSearchParams(window.location.search);
-    const selected = entries.find((e) => e.id === params.get("interest"));
+    const selected = leadOptions.find((e) => e.id === params.get("interest"));
     const productSelect = form.current?.elements.namedItem("interest");
     if (selected && productSelect instanceof HTMLSelectElement)
-      productSelect.value = selected.copy[locale].title;
+      productSelect.value = selected.title[locale];
     const city = form.current?.elements.namedItem("city");
     if (city instanceof HTMLInputElement)
       city.value = (params.get("city") || "").slice(0, 120);
@@ -190,7 +190,7 @@ export default function InquiryForm({ locale }: { locale: Locale }) {
       )}
       <div className="honeypot" aria-hidden="true">
         <label htmlFor="website">
-          Website
+          {locale === "en" ? "Website" : "Site Web"}
           <input id="website" name="website" tabIndex={-1} autoComplete="off" />
         </label>
       </div>
@@ -236,8 +236,8 @@ export default function InquiryForm({ locale }: { locale: Locale }) {
           <label htmlFor="interest">{f.interest}</label>
           <select id="interest" name="interest" defaultValue="">
             <option value="">{f.select}</option>
-            {entries.map((e) => (
-              <option key={e.id}>{e.copy[locale].title}</option>
+            {leadOptions.map((e) => (
+              <option key={e.id}>{e.title[locale]}</option>
             ))}
             <option>{f.other}</option>
           </select>

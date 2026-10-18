@@ -115,14 +115,7 @@ export default async function Home({
                   </span>
                 </div>
                 <h3>
-                  <a
-                    href={
-                      byId(
-                        entries.find((e) => e.copy[locale].title === name)
-                          ?.id || "products",
-                      )!.paths[locale]
-                    }
-                  >
+                  <a href={byId(entries[Number(num) - 1].id)?.paths[locale]}>
                     {name}
                   </a>
                 </h3>
@@ -172,7 +165,7 @@ export default async function Home({
                       "industrial",
                       "hospitality",
                     ][i],
-                  )!.paths[locale]
+                  )?.paths[locale]
                 }
                 key={industry}
               >
@@ -221,16 +214,7 @@ export default async function Home({
                 <span className="solution-number">0{i + 1}</span>
                 <div>
                   <h3>
-                    <a
-                      href={
-                        byId(
-                          entries.find((e) => e.copy[locale].title === name)
-                            ?.id || "products",
-                        )!.paths[locale]
-                      }
-                    >
-                      {name}
-                    </a>
+                    <a href={byId(entries[5 + i].id)?.paths[locale]}>{name}</a>
                   </h3>
                   <p>{description}</p>
                   <OptionLink
@@ -251,7 +235,7 @@ export default async function Home({
               <a
                 key={r.id}
                 href={
-                  (byId(`metro-${r.id}`) || byId("locations"))!.paths[locale]
+                  (byId(`metro-${r.id}`) || byId("locations"))?.paths[locale]
                 }
               >
                 {r[locale]}

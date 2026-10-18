@@ -25,11 +25,15 @@ export default function ContentPage({
   const entry = entries.find((e) => e.id === page.entryId);
   const children = pages.filter((p) => p.parentId === page.id);
   const parent = page.parentId ? byId(page.parentId) : undefined;
+  const ancestors: PageRecord[] = [];
+  let ancestor = parent;
+  while (ancestor) {
+    ancestors.unshift(ancestor);
+    ancestor = ancestor.parentId ? byId(ancestor.parentId) : undefined;
+  }
   const breadcrumb = [
     { name: locale === "en" ? "Home" : "Accueil", path: `/${locale}/` },
-    ...(parent
-      ? [{ name: parent.title[locale], path: parent.paths[locale] }]
-      : []),
+    ...ancestors.map((p) => ({ name: p.title[locale], path: p.paths[locale] })),
     { name: page.title[locale], path: page.paths[locale] },
   ];
   const schema = {
@@ -138,7 +142,7 @@ export default function ContentPage({
                     .map((e) => (
                       <tr key={e.id}>
                         <th scope="row">
-                          <a href={byId(e.id)!.paths[locale]}>
+                          <a href={byId(e.id)?.paths[locale]}>
                             {e.copy[locale].title}
                           </a>
                         </th>

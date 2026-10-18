@@ -1,9 +1,9 @@
+import { LocaleProvider } from "@/components/LocaleProvider";
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
 import { business, isLocale, locales } from "@/lib/config";
 import { content } from "@/lib/content";
 import "../globals.css";
-export const dynamicParams = false;
+export const dynamicParams = true;
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
@@ -13,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  if (!isLocale(locale)) notFound();
+  if (!isLocale(locale)) return {title:"Page not found | NursingPods.ca",robots:{index:false,follow:false}};
   const c = content[locale];
   return {
     metadataBase: new URL(business.url),
@@ -48,10 +48,12 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  if (!isLocale(locale)) notFound();
+  const resolvedLocale = isLocale(locale) ? locale : "en";
   return (
-    <html lang={locale === "en" ? "en-CA" : "fr-CA"}>
-      <body>{children}</body>
+    <html lang={resolvedLocale === "en" ? "en-CA" : "fr-CA"}>
+      <body>
+        <LocaleProvider locale={resolvedLocale}>{children}</LocaleProvider>
+      </body>
     </html>
   );
 }

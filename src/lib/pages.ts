@@ -289,3 +289,9 @@ for (const location of locationEntries) {
     indexable: locationQuality(location),
   });
 }
+const contactPage = byId("contact");
+if (contactPage)
+  contactPage.description = {
+    en: "Prepare your questions for NursingPods.ca, organize your project details and use the available contact options for your workplace or public facility.",
+    fr: "Préparez vos questions pour NursingPods.ca, rassemblez les détails du projet et utilisez les options de contact pour votre milieu de travail ou lieu public.",
+  };

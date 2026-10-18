@@ -1550,3 +1550,41 @@ table a {
   grid-column: 1/-1;
   max-width: 900px;
 }
+/* Minimum practical target sizes and clearer focus across pointer and keyboard use. */
+.navigation > a:not(.button) {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+.text-link {
+  min-height: 44px;
+}
+.footer-main nav a {
+  min-height: 32px;
+  display: inline-flex;
+  align-items: center;
+}
+.breadcrumbs a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+}
+.inquiry-form [aria-invalid="true"] {
+  outline-color: #8d2727;
+}
+.inquiry-form h2 {
+  white-space: normal;
+}
+.product-number,
+.industry-number,
+.solution-number,
+.step-number,
+.section-index {
+  color: #506957;
+}
+.product-glyph {
+  color: #536e5c;
+}
+.detail-hero .eyebrow {
+  margin-top: 20px;
+}

@@ -20,6 +20,7 @@ export function pageMetadata(page: PageRecord, locale: Locale): Metadata {
       siteName: business.name,
       type: "website",
       locale: locale === "en" ? "en_CA" : "fr_CA",
+      alternateLocale: locale === "en" ? "fr_CA" : "en_CA",
     },
     twitter: {
       card: "summary",

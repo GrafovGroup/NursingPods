@@ -637,7 +637,7 @@ const metros: MetroBrief[] = [
     id: "quebec-city",
     province: "qc",
     slugs: { en: "quebec-city", fr: "ville-de-quebec" },
-    name: { en: "Québec City", fr: "Québec" },
+    name: { en: "Québec City", fr: "Ville de Québec" },
     places: ["Québec", "Lévis"],
     focus: {
       en: "For Québec City, prepare the intended room use and French operating information together so both can be reviewed before selection. If the project also includes Lévis, keep the site addresses and delivery requirements separate. For an existing building, ask the responsible team to assess the actual route, room services and any restrictions before assuming a particular enclosure fits. Identify the people who will approve the proposal, oversee work on site and manage the space after handover.",

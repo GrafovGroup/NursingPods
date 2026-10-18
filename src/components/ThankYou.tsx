@@ -16,7 +16,10 @@ export default async function ThankYou({ locale }: { locale: Locale }) {
     redirect(sectionPath(locale, "quote"));
   return (
     <>
-      <Header locale={locale} />
+      <Header
+        locale={locale}
+        alternatePaths={{ en: "/en/thank-you/", fr: "/fr/merci/" }}
+      />
       <main id="main" className="section detail-hero">
         <p className="eyebrow">NursingPods.ca</p>
         <h1>
