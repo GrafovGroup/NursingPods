@@ -1,33 +1,29 @@
-# Hosting and WHC deployment guidance
+# WHC deployment
 
-No hosting, subscription, DNS or certificate changes have been made. Obtain owner authorization before applying this guide.
+Deployed on 2026-10-18 with the owner's authorization to connect the existing WHC domain and hosting. No hosting purchase or nameserver migration was needed.
 
-## Runtime requirement
+## Current configuration
 
-This is a Next.js Node application with server-side inquiry routes, not an HTML-only export. It requires a maintained Node 24 runtime, an HTTPS reverse proxy, a persistent writable limiter directory and a process supervisor. Do not assume a PHP/shared-hosting plan supports those requirements. Confirm the actual account's capabilities with the host before deployment.
+- Canonical URL: https://nursingpods.ca (root redirects to `/en/`).
+- Existing WHC Web Hosting Pro account; Node.js 24.21.0 in production mode under CloudLinux Passenger.
+- Application directory: `nursingpods-live`; separate document root: `nursingpods.ca`.
+- Startup file: `server.cjs`. Passenger manages the process; standalone execution binds only to loopback.
+- `next.config.mjs` avoids runtime TypeScript/SWC compilation on the host's older glibc.
+- Root A record: `51.161.57.68`, TTL 300; `www` remains a CNAME to `nursingpods.ca`.
+- Nameservers remain `parking1.whc.ca` and `parking2.whc.ca`. Existing email forwarding A, MX and SPF records were preserved.
+- Let’s Encrypt requested through cPanel's SSL/TLS Certificates wizard; valid TLS verified for apex and www.
+- Document-root `.htaccess` preserves the generated Passenger configuration and redirects HTTP and www to canonical HTTPS, retaining path/query. ACME challenge paths are exempt.
 
-WHC lists a self-managed Linux VPS with root access and Linux OS choices. That can provide control to install an appropriate runtime, but application administration remains a separate responsibility; no existing account or plan has been verified. [WHC self-managed VPS](https://whc.ca/self-managed-virtual-private-servers/).
+## Release procedure
 
-Next.js supports self-hosting and recommends placing a reverse proxy in front of the application. The repository's configuration must still be validated on the chosen host. [Next.js self-hosting guide](https://nextjs.org/docs/app/guides/self-hosting).
+The shared account could not complete a full development dependency installation within its memory limit. Build and test on the development machine with the lockfile, then transfer `.next` (excluding cache/dev), `server.cjs`, `next.config.mjs`, source and `public` assets through cPanel File Manager. Install only production runtime dependencies on WHC. The first release used `npm install --omit=dev --ignore-scripts --no-audit --no-fund --legacy-peer-deps`; verify installed versions against the tested build for each release rather than allowing dependency drift.
 
-## Deployment choices prepared
+Activate the app's Node virtual environment using the command displayed in cPanel's Node.js application editor. Restart only NursingPods using its Restart button or the application's `tmp/restart.txt`. Never restart unrelated hosted applications. Keep the previous build outside the document root for rollback. Public environment changes require rebuilding.
 
-- Normal Node process: `pnpm install --frozen-lockfile`, configure public build values, `pnpm build`, then run `pnpm start` under a process supervisor as a non-root application user.
-- Container: `Dockerfile` builds and prunes development dependencies. `deploy/compose.example.yaml` binds the app to loopback and preserves `/app/runtime` in a volume. Fill all approved public build arguments and runtime secrets before building. Docker configuration is supplied but has not been executed if Docker is unavailable locally.
+DNS and document-root configuration backups are retained privately outside the public document root. The previous root A value was `149.56.225.6` (WHC parking). Restoring that value returns visitors to parking; restoring the previous tested build is preferred for application regressions.
 
-Use a separate private staging release first. Keep it authenticated or noindex at the host; the application defaults to production canonical URLs. Never point the real domain at a staging build merely to test it.
+## Verification and remaining configuration
 
-## Reverse proxy and filesystem
+Live HTTPS checks passed for 108 bilingual routes and 3,484 internal links, sitemap/robots, canonical metadata, API health and security headers. HTTP/www redirects preserve paths and queries. Protected dotfile requests return 403. The English hero image loaded in the live browser.
 
-Terminate HTTPS at the host/proxy. Forward the correct Host and protocol information; overwrite any trusted client-IP header rather than passing through user-supplied values. Limit request size and request rates at the edge. Keep the Node port private. Use one persistent shared filesystem for all workers of this deployment; independent serverless instances require a distributed limiter replacement.
-
-Give the application user access only to its runtime/cache directories and deployment files. Do not place the rate-limit directory in `public/`, a static web root or Git. Schedule `node scripts/prune-operational-data.mjs` with the same runtime directory after reviewing the maintenance instructions.
-
-## DNS and redirects — owner action
-
-1. Confirm `nursingpods.ca` as the canonical domain and whether `www` should redirect to it.
-2. Obtain the exact A/AAAA/CNAME targets from the chosen host. No IP or DNS target is invented here.
-3. Inventory existing records and preserve email MX/TXT records. Back up the DNS zone before changes.
-4. Configure host-level HTTP→HTTPS and www→canonical redirects, preserving the path/query and avoiding loops. The application already redirects `/` to `/en/`.
-5. Provision and verify the certificate before cutover. Check both languages, sitemap, robots, canonical URLs, and image delivery on the final host.
-6. Enable inquiries only after the authorized delivery test and policy/config review. Keep a rollback release and prior DNS values available.
+Inquiry delivery remains disabled. Complete `TOMORROW_OWNER_CHECKLIST.md` before configuring contacts, privacy approval, provider credentials, persistent rate-limit storage and an authorized internal delivery test. Email DNS preservation does not mean a receiving inbox or inquiry provider has been configured. Docker is an alternative deployment format and is not used on WHC.

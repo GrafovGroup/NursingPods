@@ -1,3 +1,5 @@
+> Deployment update — 2026-10-18: WHC domain, Node hosting, valid HTTPS and canonical redirects are connected. Live checks passed for 108 routes and 3,484 links. See `docs/operations/HOSTING_WHC.md`. Earlier deployment limitations below describe the pre-deployment implementation handoff. Inquiry delivery still requires owner inputs.
+
 # NursingPods.ca — final implementation report
 
 ## Result

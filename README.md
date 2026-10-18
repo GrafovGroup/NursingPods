@@ -38,4 +38,4 @@ The typed page registry is `src/lib/pages.ts`; catalogue, industries and geograp
 
 Two distinct original hero images occupy separate EN/FR placements. Provenance and uniqueness evidence are internal in `docs/asset-register.json` and `docs/image-uniqueness-check.json`. No completed-project claim is implied. Additional photography requires a new unique asset per placement.
 
-Start with `TOMORROW_OWNER_CHECKLIST.md` for pending decisions and `FINAL_IMPLEMENTATION_REPORT.md` for phase status and verification limits. No public deployment or DNS change has been performed.
+Start with `TOMORROW_OWNER_CHECKLIST.md` for pending decisions and `FINAL_IMPLEMENTATION_REPORT.md` for phase status and verification limits. The site is deployed at https://nursingpods.ca on WHC; see `docs/operations/HOSTING_WHC.md` for runtime, DNS, HTTPS and release details. Inquiry delivery remains disabled pending owner inputs.
