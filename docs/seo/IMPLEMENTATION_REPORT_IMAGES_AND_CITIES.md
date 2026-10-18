@@ -34,7 +34,7 @@
 
 ## Deployment
 
-The tested build archive has been uploaded to the existing WHC application. Its SHA-256 matches locally and remotely. A rollback snapshot of the previous build/assets is retained at `nursingpods-release-backups/pre-cities-20261018.tar.gz` outside the public document root. Activation and live verification are the remaining release steps.
+The tested build archive has been uploaded to the existing WHC application. Its SHA-256 matches locally and remotely. A rollback snapshot of the previous build/assets is retained at `nursingpods-release-backups/pre-cities-20261018.tar.gz` outside the public document root. Activation is complete at source commit `91b12d5`, build `WiamoEPI4iqqDT9-vQzzk`. Initial live checks passed (Regina HTTP 200; French Oshawa/Durham page and image rendered). Subsequent TCP timeouts affecting the public website and cPanel prevented completion of the full live crawl. Cause remains unconfirmed. The 180-route crawl above was against the local production build. See `docs/operations/HOSTING_WHC.md` for recovery details.
 
 ## Owner-only inputs
 

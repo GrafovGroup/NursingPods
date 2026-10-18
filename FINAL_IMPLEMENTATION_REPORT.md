@@ -55,3 +55,11 @@ node scripts/verify-delivery.mjs
 ```
 
 Start tomorrow with `TOMORROW_OWNER_CHECKLIST.md`. Enter credentials only in host secret settings. `docs/operations/LAUNCH_VERIFICATION.md` covers owner-authorized internal delivery testing, staging, DNS/canonical checks and optional Search Console/analytics. No outstanding owner item requires guessing or inventing business information.
+
+
+## WHC release activated — 2026-10-18
+Source commit `91b12d56165c73e1c7f974f8f72087fbb01139a4` and build `WiamoEPI4iqqDT9-vQzzk` are installed in the existing WHC application. The build archive checksum matched, the source fast-forward succeeded, and Passenger was restarted using the app restart file. Regina returned HTTP 200 and the new French Oshawa/Durham page and image loaded in the live browser.
+
+Full public verification is incomplete: subsequent TCP connections from this Mac to the website on ports 80/443 and srv48 cPanel on 2083 timed out. WHC's client dashboard remains reachable. This does not establish a global outage or an application error; the cause remains unconfirmed. The bulk crawl was stopped. Resume with low-rate checks after connectivity is restored. The 180-route/6,072-link pass is a **local production-build** result, not a full live result. No DNS changes were made during this release.
+
+Rollback archive: `/home/nvfglyl5/nursingpods-release-backups/pre-cities-20261018.tar.gz`; previous build also retained as `next-pre-cities-20261018`. Live browser evidence: `.runtime/whc/live-cities-release.jpg`.

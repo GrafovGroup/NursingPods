@@ -1,22 +1,19 @@
 {
-  "status": "validated_ready_to_deploy",
+  "status": "deployed_live_verification_blocked_by_connection_timeouts",
   "planned_standard_routes": 180,
   "metro_capital_pages_per_locale": 47,
   "province_territory_pages_per_locale": 13,
   "completed_new_images": 183,
   "pending_images": [],
-  "live_site_changed": false,
+  "live_site_changed": true,
   "next_steps": [
-    "Resolve local storage constraint; do not delete original generated images without explicit user instruction.",
-    "Resume built-in image generation using docs/page-image-plan.json, skip verified existing images; save optimized output using scripts/save-page-image.cjs.",
-    "Register images; finish exact/perceptual duplicate audit and inspect contact sheets.",
-    "Run full unit tests including page-imagery, production build, typecheck, 180-route HTTP/image checks, accessibility and mobile browser checks.",
-    "Update reports and commit/push GitHub branch; deploy source, public assets and tested build to existing WHC app; restart only NursingPods and verify live URLs."
+    "Restore connectivity to WHC srv48 and complete a low-rate public HTTPS verification.",
+    "Owner selects logo and supplies confirmed contact/business details and inquiry delivery configuration."
   ],
   "storage_cleanup": {
-    "removed_originals": 58,
-    "bytes_recovered": 141672735,
-    "report": "docs/seo/GENERATED_ORIGINALS_CLEANUP.json"
+    "removed_originals": 191,
+    "report": "docs/seo/GENERATED_ORIGINALS_CLEANUP.json",
+    "approx_mib_recovered": 429.7
   },
   "validation": {
     "unit_tests_passed": 25,
@@ -29,7 +26,13 @@
     "visual_similarity_candidates": 0
   },
   "resume_steps": [
-    "Publish the validated GitHub commit, activate the uploaded WHC build, and verify live HTTPS pages and all 180 routes.",
-    "Leave owner-only contact, delivery, business confirmation and logo selection inputs in TOMORROW_OWNER_CHECKLIST.md."
-  ]
+    "Restore connectivity to WHC srv48 and complete a low-rate public HTTPS verification.",
+    "Owner selects logo and supplies confirmed contact/business details and inquiry delivery configuration."
+  ],
+  "deployment": {
+    "commit": "91b12d56165c73e1c7f974f8f72087fbb01139a4",
+    "build_id": "WiamoEPI4iqqDT9-vQzzk",
+    "initial_live_checks": "Regina HTTP 200; French Oshawa/Durham page and image loaded in browser",
+    "remaining": "Full live crawl interrupted after TCP connection timeouts affecting HTTP, HTTPS and cPanel. Cause unconfirmed; local crawl passed."
+  }
 }
