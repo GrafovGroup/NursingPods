@@ -1,3 +1,6 @@
+# Repository agent instructions
+Read CODEX_START_HERE.md first, then PHASE_1A_CODEX_MASTER_PROMPT.md and docs/phases in sequence. Implement all feasible phases autonomously. Do not stop between phases for routine approvals. Maintain BUILD_PROGRESS.md and phase implementation reports. Collect owner-only decisions in TOMORROW_OWNER_CHECKLIST.md. Never invent business details or pretend integrations work. Never deploy or alter DNS without authorization.
+
 # NursingPods.ca project instructions
 
 ## Website defaults
