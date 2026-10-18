@@ -1,6 +1,6 @@
 import { locationEntries, locationQuality } from "./location-content";
 import { industries } from "./industries";
-import type { Locale } from "./config";
+import { business, type Locale } from "./config";
 import { catalogue } from "./catalogue/data";
 import { solutions } from "./catalogue/solutions";
 import { sectionPath, itemPath, type Section } from "./paths";
@@ -295,3 +295,83 @@ if (contactPage)
     en: "Prepare your questions for NursingPods.ca, organize your project details and use the available contact options for your workplace or public facility.",
     fr: "Préparez vos questions pour NursingPods.ca, rassemblez les détails du projet et utilisez les options de contact pour votre milieu de travail ou lieu public.",
   };
+const privacyPage = byId("privacy");
+if (privacyPage) {
+  if (business.legalName)
+    for (const locale of ["en", "fr"] as const)
+      privacyPage.sections[locale].push({
+        title:
+          locale === "en"
+            ? "Responsible organization"
+            : "Organisation responsable",
+        body:
+          locale === "en"
+            ? `The organization responsible for this website is ${business.legalName}.${business.mailingAddress ? " Mailing address: " + business.mailingAddress : ""}`
+            : `L’organisation responsable du site est ${business.legalName}.${business.mailingAddress ? " Adresse postale : " + business.mailingAddress : ""}`,
+      });
+  if (business.privacyEmail)
+    for (const locale of ["en", "fr"] as const)
+      privacyPage.sections[locale].push({
+        title:
+          locale === "en"
+            ? "Privacy questions"
+            : "Questions de confidentialité",
+        body:
+          locale === "en"
+            ? `For questions about your inquiry information or a request to access, correct or remove it, contact ${business.privacyEmail}. Please provide only what is necessary to identify the inquiry.`
+            : `Pour une question sur vos renseignements ou une demande d’accès, de correction ou de suppression, contactez ${business.privacyEmail}. Fournissez uniquement ce qui est nécessaire pour identifier la demande.`,
+      });
+  if (business.retentionDays && business.deliveryProviderLabel)
+    for (const locale of ["en", "fr"] as const)
+      privacyPage.sections[locale].push({
+        title:
+          locale === "en"
+            ? "Processing and retention"
+            : "Traitement et conservation",
+        body:
+          locale === "en"
+            ? `Inquiry delivery uses ${business.deliveryProviderLabel}. The configured retention period for inquiry records is ${business.retentionDays} days, unless an ongoing project or an applicable obligation requires a different period. Operational rate-limit records use hashed keys and are removed through the maintenance process. No inquiry body is stored in the website application logs.`
+            : `La transmission des demandes utilise ${business.deliveryProviderLabel}. La période de conservation configurée est de ${business.retentionDays} jours, sauf si un projet en cours ou une obligation applicable exige une autre durée. Les données de limitation des demandes utilisent des clés hachées et sont retirées lors de l’entretien. Aucun contenu de demande n’est conservé dans les journaux de l’application.`,
+      });
+}
+pages.push({
+  id: "terms",
+  section: "terms",
+  paths: { en: sectionPath("en", "terms"), fr: sectionPath("fr", "terms") },
+  title: { en: "Using this website", fr: "Utilisation du site" },
+  description: {
+    en: "How to use NursingPods.ca planning information, project inquiries and product-category guidance.",
+    fr: "Comment utiliser les renseignements de planification, les demandes de projet et les guides de catégories de NursingPods.ca.",
+  },
+  sections: {
+    en: [
+      {
+        title: "Planning information",
+        body: "The pages on this website explain categories and considerations for private nursing spaces. They do not provide product-specific measurements, certifications or engineering approval. Confirm the actual product information and site requirements in a written project scope.",
+      },
+      {
+        title: "Inquiries and proposals",
+        body: "Preparing a project brief or submitting an inquiry requests a discussion. It does not reserve equipment, establish availability or create an order. Pricing, supply, installation, warranties and any rental arrangements must be addressed in the applicable written proposal or agreement.",
+      },
+      {
+        title: "Responsible use",
+        body: "Provide accurate business contact information and only the project details needed for a response. Do not submit another person’s health information, payment details, harmful material or automated abusive requests. The website may limit requests to protect availability.",
+      },
+    ],
+    fr: [
+      {
+        title: "Renseignements de planification",
+        body: "Les pages présentent des catégories et des éléments à considérer pour les espaces d’allaitement privés. Elles ne fournissent pas de dimensions propres aux produits, de certifications ni d’approbation technique. Confirmez les renseignements réels et les exigences du site dans une portée écrite.",
+      },
+      {
+        title: "Demandes et propositions",
+        body: "Préparer un descriptif ou envoyer une demande amorce une discussion. Cela ne réserve pas d’équipement, ne confirme pas sa disponibilité et ne constitue pas une commande. Les prix, la fourniture, l’installation, les garanties et la location doivent être précisés dans la proposition ou l’entente applicable.",
+      },
+      {
+        title: "Utilisation responsable",
+        body: "Fournissez des coordonnées professionnelles exactes et uniquement les renseignements nécessaires. N’envoyez pas de données sur la santé d’autrui, de paiement, de contenu nuisible ni de demandes automatisées abusives. Le site peut limiter les demandes pour préserver sa disponibilité.",
+      },
+    ],
+  },
+  indexable: true,
+});

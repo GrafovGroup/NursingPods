@@ -13,7 +13,11 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  if (!isLocale(locale)) return {title:"Page not found | NursingPods.ca",robots:{index:false,follow:false}};
+  if (!isLocale(locale))
+    return {
+      title: "Page not found | NursingPods.ca",
+      robots: { index: false, follow: false },
+    };
   const c = content[locale];
   return {
     metadataBase: new URL(business.url),

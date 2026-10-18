@@ -35,4 +35,12 @@ test("French lead feedback covers every English state", () => {
   for (const value of Object.values(leadMessages.fr))
     assert.ok(value.length > 0);
 });
-test('page titles and descriptions are unique within each language',()=>{for(const locale of ['en','fr'] as const){assert.equal(new Set(pages.map(p=>p.title[locale])).size,pages.length);assert.equal(new Set(pages.map(p=>p.description[locale])).size,pages.length);}});
+test("page titles and descriptions are unique within each language", () => {
+  for (const locale of ["en", "fr"] as const) {
+    assert.equal(new Set(pages.map((p) => p.title[locale])).size, pages.length);
+    assert.equal(
+      new Set(pages.map((p) => p.description[locale])).size,
+      pages.length,
+    );
+  }
+});

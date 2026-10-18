@@ -8,6 +8,10 @@ export const business = {
   phoneVerified: process.env.NEXT_PUBLIC_PHONE_VERIFIED === "true",
   email: process.env.NEXT_PUBLIC_BUSINESS_EMAIL || "",
   legalName: process.env.NEXT_PUBLIC_LEGAL_NAME || "",
+  mailingAddress: process.env.NEXT_PUBLIC_MAILING_ADDRESS || "",
+  emailVerified: process.env.NEXT_PUBLIC_EMAIL_VERIFIED === "true",
+  retentionDays: process.env.NEXT_PUBLIC_RETENTION_DAYS || "",
+  deliveryProviderLabel: process.env.NEXT_PUBLIC_DELIVERY_PROVIDER_LABEL || "",
   privacyEmail: process.env.NEXT_PUBLIC_PRIVACY_EMAIL || "",
 };
 export const locales = ["en", "fr"] as const;

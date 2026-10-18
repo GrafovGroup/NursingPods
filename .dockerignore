@@ -1,0 +1,9 @@
+.git
+.next
+node_modules
+.env*
+artifacts
+.runtime
+.secrets
+docs
+*.tsbuildinfo

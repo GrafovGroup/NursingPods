@@ -1,0 +1,21 @@
+# Example only. Do not run against production without owner authorization.
+services:
+  web:
+    build:
+      context: ..
+      args:
+        NEXT_PUBLIC_SITE_URL: https://nursingpods.ca
+        NEXT_PUBLIC_PHONE_VERIFIED: "false"
+    env_file: ../.env.production.local
+    ports:
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - inquiry_state:/app/runtime
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+volumes:
+  inquiry_state:

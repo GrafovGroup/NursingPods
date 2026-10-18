@@ -218,3 +218,43 @@ test("filesystem rate limit is atomic under concurrent workers and survives call
     await rm(dir, { recursive: true, force: true });
   }
 });
+test("optional CRM stays disabled without authorization and requires acknowledgement", async () => {
+  const { forwardToCrm } = await import("../../src/lib/leads/crm");
+  const valid = validateLead(data);
+  if (!valid.ok) throw Error("fixture");
+  let calls = 0;
+  const transport: typeof fetch = async () => {
+    calls++;
+    return Response.json({ accepted: true, id: "crm-id" });
+  };
+  assert.equal(
+    (await forwardToCrm(valid.lead, "id", {}, transport)).status,
+    "disabled",
+  );
+  assert.equal(calls, 0);
+  const config = {
+    CRM_WEBHOOK_ENABLED: "true",
+    OUTBOUND_DELIVERY_AUTHORIZED: "true",
+    CRM_WEBHOOK_URL: "https://crm.example.com/hook",
+    CRM_WEBHOOK_SECRET: secret,
+  };
+  assert.equal(
+    (await forwardToCrm(valid.lead, "id", config, transport)).status,
+    "accepted",
+  );
+  await assert.rejects(() =>
+    forwardToCrm(valid.lead, "id", config, async () => Response.json({})),
+  );
+});
+test("CRM failure does not erase verified email acceptance", async () => {
+  const events: string[] = [];
+  const result = await handleInquiry(request(), {
+    ...deps,
+    crm: async () => {
+      throw Error("test failure");
+    },
+    log: (r) => events.push(r.event),
+  });
+  assert.equal(result.status, 202);
+  assert.ok(events.includes("inquiry_crm_forward_failed"));
+});

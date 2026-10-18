@@ -1,3 +1,4 @@
+import { forwardToCrm } from "./crm";
 import { isIP } from "node:net";
 import { randomUUID } from "node:crypto";
 import { leadSettings, type LeadSettings } from "./settings";
@@ -10,6 +11,7 @@ export type HandlerDependencies = {
   rate: typeof takeRateSlot;
   claim: typeof claimSubmission;
   send: typeof sendLead;
+  crm?: typeof forwardToCrm;
   log: (record: { event: string; requestId: string }) => void;
 };
 const defaults: HandlerDependencies = {
@@ -17,6 +19,7 @@ const defaults: HandlerDependencies = {
   rate: takeRateSlot,
   claim: claimSubmission,
   send: sendLead,
+  crm: forwardToCrm,
   log: (record) => console.info(JSON.stringify(record)),
 };
 function reply(
@@ -101,6 +104,13 @@ export async function handleInquiry(
       return reply(409, "duplicate");
     await deps.send(validation.lead, token.nonce, s);
     deps.log({ event: "inquiry_provider_accepted", requestId });
+    if (deps.crm) {
+      try {
+        await deps.crm(validation.lead, token.nonce);
+      } catch {
+        deps.log({ event: "inquiry_crm_forward_failed", requestId });
+      }
+    }
     const res = reply(202, "accepted", {
       redirect:
         validation.lead.locale === "fr" ? "/fr/merci/" : "/en/thank-you/",

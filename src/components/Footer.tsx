@@ -50,6 +50,14 @@ export default function Footer({ locale }: { locale: Locale }) {
         </div>
       </div>
       <div className="footer-bottom">
+        <div className="legal-links">
+          <a href={sectionPath(locale, "privacy")}>
+            {locale === "en" ? "Privacy" : "Confidentialité"}
+          </a>
+          <a href={sectionPath(locale, "terms")}>
+            {locale === "en" ? "Website terms" : "Conditions du site"}
+          </a>
+        </div>
         <span>
           © {new Date().getFullYear()} NursingPods.ca. {c.rights}
         </span>

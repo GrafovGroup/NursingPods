@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { business, type Locale } from "@/lib/config";
 import {
   byId,
@@ -160,6 +161,17 @@ export default function ContentPage({
               </table>
             </div>
           </section>
+        )}
+        {entry?.imagery?.[locale] && (
+          <figure className="section detail-approved-image">
+            <Image
+              src={entry.imagery[locale].src}
+              alt={entry.imagery[locale].alt}
+              width={1200}
+              height={800}
+              sizes="(max-width:768px) 90vw, 900px"
+            />
+          </figure>
         )}
         {page.sections[locale].length > 0 && (
           <div className="section detail-body">

@@ -1,0 +1,17 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"Verified supplier product record",
+  "type":"object",
+  "additionalProperties":false,
+  "required":["id","category","published","supplier","names","evidence","images","review"],
+  "properties":{
+    "id":{"type":"string","pattern":"^[a-z0-9-]+$"},
+    "category":{"enum":["freestanding","modular","portable","accessible","custom","furniture"]},
+    "published":{"type":"boolean","const":false,"description":"This intake schema cannot publish products. Move through editorial verification before adding a public catalogue record."},
+    "supplier":{"type":["string","null"]},
+    "names":{"type":"object","required":["en","fr"],"properties":{"en":{"type":["string","null"]},"fr":{"type":["string","null"]}},"additionalProperties":false},
+    "evidence":{"type":"array","items":{"type":"object","required":["claim","source","reviewedAt"],"properties":{"claim":{"type":"string"},"source":{"type":"string"},"reviewedAt":{"type":["string","null"]}},"additionalProperties":false}},
+    "images":{"type":"array","items":{"type":"object","required":["source","rightsEvidence","assetRegisterId","locale","placement"],"properties":{"source":{"type":"string"},"rightsEvidence":{"type":"string"},"assetRegisterId":{"type":"string"},"locale":{"enum":["en","fr"]},"placement":{"type":"string"}},"additionalProperties":false}},
+    "review":{"type":"object","required":["ownerApproved","technicalApproved","frenchReviewed"],"properties":{"ownerApproved":{"type":"boolean"},"technicalApproved":{"type":"boolean"},"frenchReviewed":{"type":"boolean"}},"additionalProperties":false}
+  }
+}

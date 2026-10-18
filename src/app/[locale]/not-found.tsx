@@ -1,12 +1,14 @@
 "use client";
-import {useEffect} from "react";
+import { useEffect } from "react";
 import { useLocale } from "@/components/LocaleProvider";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { sectionPath } from "@/lib/paths";
 export default function NotFound() {
   const locale = useLocale();
-  useEffect(()=>{document.documentElement.lang=locale==="fr"?"fr-CA":"en-CA";},[locale]);
+  useEffect(() => {
+    document.documentElement.lang = locale === "fr" ? "fr-CA" : "en-CA";
+  }, [locale]);
   return (
     <>
       <Header locale={locale} />
