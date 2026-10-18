@@ -1,0 +1,22 @@
+[
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7e2fe41f-d35d-4373-94c2-f99eea5eed01.png",
+    "asset": "public/images/hero-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/",
+    "placement": "homepage hero",
+    "type": "Original AI architectural visualization; not an actual supplier product or completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8870f40ebd6c68290667077c48493f2adf1e9b467e8e9b8ee71805379fe05df7"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e3cf6d5b-b169-422e-964f-eb165ddb6a4d.png",
+    "asset": "public/images/hero-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/",
+    "placement": "homepage hero",
+    "type": "Original AI architectural visualization; not an actual supplier product or completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "2ca1cb3f964e5ab2a2d01bd6f10f434f897986c4d32bb5c9dc55e27e91b213ca"
+  }
+]

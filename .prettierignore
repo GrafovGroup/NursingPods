@@ -1,0 +1,5 @@
+.next
+node_modules
+pnpm-lock.yaml
+artifacts
+PHASE_1A_CODEX_MASTER_PROMPT.md
