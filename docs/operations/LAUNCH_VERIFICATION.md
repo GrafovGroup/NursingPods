@@ -1,0 +1,13 @@
+# Owner-authorized launch verification
+
+Do not deploy, change DNS, create paid accounts or send messages until the owner authorizes those actions.
+
+1. Complete the environment matrix and public legal/contact details. Public variables are build-time values: rebuild after changes. Keep credentials only in the host's secret settings.
+2. Build a private staging release using the hosting guide. Run `pnpm check`, start the production server, then run `pnpm test:http`, `pnpm test:browser` and `pnpm test:a11y` with delivery disabled. These QA commands deliberately assert that delivery is disabled.
+3. Run `TEST_BASE_URL=https://your-approved-host node scripts/verify-delivery.mjs` for a read-only readiness check. This never submits a form or prints a token.
+4. After explicit authorization for one internal delivery test, enable the approved provider/configuration on private staging. Open a quote form, use an owner-controlled reply address and identify the body as an internal delivery test. Submit once. Verify receipt page, provider acceptance, arrival in the configured internal inbox, reply-to address, locale, consent and complete fields. If CRM is authorized, verify its receipt separately. Provider acceptance is not proof of inbox delivery. Do not use real customer information. Remove the test from inbox/CRM according to the retention policy. Disable intake if delivery fails.
+5. Confirm both locales on a real phone and desktop. Keyboard-test navigation, forms, errors and focus; check VoiceOver or NVDA, zoom and French editorial quality using `docs/qa/ACCESSIBILITY.md`. Verify supplier/service facts against owner evidence.
+6. With launch authorization, follow HOSTING_WHC.md for TLS, redirects, DNS backup and cutover. Verify canonical host, EN/FR routes, sitemap, robots and contact links. Run the readiness probe on production and repeat an explicitly authorized internal delivery check if infrastructure differs.
+7. Search Console is optional: use the owner's Google account, add the domain property, copy Google's exact verification TXT into DNS without replacing existing records, verify and submit `/sitemap.xml`. No account or token has been created by this build.
+8. Analytics is optional and absent by default. Owner chooses provider, account, privacy disclosure and applicable consent configuration before installation. Verify tracking and consent after that separate change; do not publish invented IDs.
+9. Keep a rollback release, environment backup in the host secret store and previous DNS records. Schedule operational cleanup and inbox retention described in MAINTENANCE.md.

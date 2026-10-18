@@ -1,47 +1,41 @@
 # NursingPods.ca
 
-Bilingual Canadian B2B nursing-pod and lactation-space website. Phase 1A implements the brief in `PHASE_1A_CODEX_MASTER_PROMPT.md`.
+Bilingual Canadian B2B nursing-pod and lactation-space website implemented from the GitHub phase runbook. Includes product and solution guides, industries, Canadian location guides, inquiry intake, privacy and terms pages.
 
-## Local development
+## Run locally
 
-Use Node.js 22 LTS or newer and pnpm 11.
+Use Node 24 and pnpm 11.25.0:
 
 ```sh
 pnpm install --frozen-lockfile
 pnpm dev
 ```
 
-Open http://localhost:3000/en/ or http://localhost:3000/fr/.
+Visit `/en/` or `/fr/`. For production checks:
 
 ```sh
-pnpm lint
-pnpm typecheck
-pnpm build
+pnpm check
 pnpm start
-pnpm test
+# In another terminal, with inquiry delivery disabled:
+pnpm exec playwright install chromium
+pnpm test:http
 pnpm test:browser
+pnpm test:a11y
+node scripts/verify-delivery.mjs
 ```
 
-For browser checks, install Chromium once with `pnpm exec playwright install chromium`.
+Set `TEST_BASE_URL` to override the test origin. Browser evidence is saved under ignored `artifacts/`.
 
-The HTTP smoke tests expect a running production server on port 3000; override with `TEST_BASE_URL` if needed.
+## Configuration
 
-## Configuration and deployment
+Copy `.env.example` to `.env.local` for local settings. Public values require rebuilding. Keep secrets out of Git. Read `docs/operations/ENVIRONMENT.md`, `INQUIRY_DELIVERY.md`, `HOSTING_WHC.md` and `LAUNCH_VERIFICATION.md` before enabling intake or deploying. Docker configuration is supplied but was not executed locally because Docker is unavailable.
 
-Copy `.env.example` to `.env.local` if overrides are needed. The default canonical origin is `https://nursingpods.ca`; configure `NEXT_PUBLIC_SITE_URL` for a different production domain. The phone default is supplied by the owner. No email address has been invented.
+Inquiry delivery defaults off. Visitors can download their project brief locally; submission becomes available only after the server validates explicit authorization, provider credentials and required business/privacy settings. Success requires provider acceptance. No external messages have been sent during implementation. Phone and email links require verification flags.
 
-Deploy on a Next.js-compatible Node host using `pnpm build` and `pnpm start`, or import this repository into a compatible managed host. DNS and hosting are not provisioned by this source code. Keep previews private or configure host-level noindex headers. There are no secrets in this repository.
+## Content and operations
 
-The root redirects to `/en/`; `/en/` and `/fr/` are statically generated. Content is centralized in `src/lib/content.ts`, business settings in `src/lib/config.ts`, and geographic planning data in `src/lib/locations.ts`. Tailwind CSS 4 is available alongside the custom design system in `src/app/globals.css`.
+The typed page registry is `src/lib/pages.ts`; catalogue, industries and geographic guides live in `src/lib/`. Routes have translated slugs, canonical URLs and reciprocal language alternates. Location publication is subject to a content-quality gate. Supplier claims require evidence; intake instructions are in `docs/suppliers/`.
 
-## Inquiry behavior
+Two distinct original hero images occupy separate EN/FR placements. Provenance and uniqueness evidence are internal in `docs/asset-register.json` and `docs/image-uniqueness-check.json`. No completed-project claim is implied. Additional photography requires a new unique asset per placement.
 
-The form is a reusable UI with product preselection and localized labels. It never transmits, persists, or reports success. Submission is disabled; visible phone links are the active contact method. Do not set `inquiriesEnabled` to true without implementing and testing a real submission endpoint, server-side validation, spam controls, consent/privacy handling, delivery errors and confirmed delivery. No fake endpoint or mail destination exists.
-
-## Imagery
-
-Two distinct original architectural visualizations are used in separate locale hero placements. They are not verified supplier products or completed installations. See `docs/asset-register.json`, `docs/image-prompts.md` and `docs/image-uniqueness-check.json`. No product inventory, supplier relationship, specification or completed-project claim is implied. The owner requires provenance to remain in internal documentation.
-
-## Expansion
-
-Product, solution and industry sections link to the inquiry UI. No empty catalogue or location routes are published. Add substantial, verified content before introducing additional URLs. The location registry contains all provinces and territories plus metro/municipality foundations; these are geographic planning records, not office or fulfillment claims.
+Start with `TOMORROW_OWNER_CHECKLIST.md` for pending decisions and `FINAL_IMPLEMENTATION_REPORT.md` for phase status and verification limits. No public deployment or DNS change has been performed.
