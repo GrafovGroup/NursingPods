@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { entries, byId } from "@/lib/pages";
 import { notFound } from "next/navigation";
 import { business, isLocale } from "@/lib/config";
 import { content, sectionIds } from "@/lib/content";
@@ -111,7 +112,18 @@ export default async function Home({
                     ⌑
                   </span>
                 </div>
-                <h3>{name}</h3>
+                <h3>
+                  <a
+                    href={
+                      byId(
+                        entries.find((e) => e.copy[locale].title === name)
+                          ?.id || "products",
+                      )!.paths[locale]
+                    }
+                  >
+                    {name}
+                  </a>
+                </h3>
                 <p>{description}</p>
                 <OptionLink option={name} label={c.discuss} />
               </article>
@@ -185,7 +197,18 @@ export default async function Home({
               <article key={name}>
                 <span className="solution-number">0{i + 1}</span>
                 <div>
-                  <h3>{name}</h3>
+                  <h3>
+                    <a
+                      href={
+                        byId(
+                          entries.find((e) => e.copy[locale].title === name)
+                            ?.id || "products",
+                        )!.paths[locale]
+                      }
+                    >
+                      {name}
+                    </a>
+                  </h3>
                   <p>{description}</p>
                   <OptionLink option={name} label={c.discuss} />
                 </div>

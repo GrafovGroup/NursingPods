@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import { sectionPath, type Section } from "@/lib/paths";
 import { business, type Locale } from "@/lib/config";
 import { content, sectionIds } from "@/lib/content";
 export function Brand() {
@@ -15,7 +16,13 @@ export function Brand() {
     </span>
   );
 }
-export default function Header({ locale }: { locale: Locale }) {
+export default function Header({
+  locale,
+  alternatePaths,
+}: {
+  locale: Locale;
+  alternatePaths?: Record<Locale, string>;
+}) {
   const c = content[locale];
   const [open, setOpen] = useState(false);
   const toggle = useRef<HTMLButtonElement>(null);
@@ -57,7 +64,11 @@ export default function Header({ locale }: { locale: Locale }) {
         >
           {c.nav.map((label, i) => (
             <a
-              href={`#${sectionIds[i]}`}
+              href={
+                ["products", "solutions"].includes(sectionIds[i])
+                  ? sectionPath(locale, sectionIds[i] as Section)
+                  : `/${locale}/#${sectionIds[i]}`
+              }
               key={label}
               onClick={() => setOpen(false)}
             >
@@ -66,7 +77,10 @@ export default function Header({ locale }: { locale: Locale }) {
           ))}
           <a
             className="language-switch"
-            href={`/${locale === "en" ? "fr" : "en"}/`}
+            href={
+              alternatePaths?.[locale === "en" ? "fr" : "en"] ||
+              `/${locale === "en" ? "fr" : "en"}/`
+            }
             hrefLang={locale === "en" ? "fr-CA" : "en-CA"}
             lang={locale === "en" ? "fr" : "en"}
             aria-label={
@@ -81,7 +95,7 @@ export default function Header({ locale }: { locale: Locale }) {
           </a>
           <a
             className="button small"
-            href="#contact"
+            href={`/${locale}/#contact`}
             onClick={() => setOpen(false)}
           >
             {c.quote}

@@ -1,0 +1,12 @@
+# Build progress
+
+- Phase 1A: completed and tested; preserved.
+- Phase 1B: completed — lint, typecheck, production build (37 static outputs), 2 unit tests passed.
+- Phase 1C: in progress — industries and safe server-side lead intake.
+- Phase 1D: pending — location architecture and SEO quality gating.
+- Phase 2A: pending — French and accessibility audit.
+- Phase 2B: pending — operations and integration configuration.
+- Phase 2C: pending — comprehensive QA and CI.
+- Phase 3: pending — final report and tomorrow checklist.
+
+Owner-dependent work is collected at the end; no deployment, DNS changes, external messages, fabricated business facts or unverified form success. Phone remains the owner-specified placeholder until verified; live call CTAs will be gated in Phase 1C.
