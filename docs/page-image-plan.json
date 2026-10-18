@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "products",
+    "locale": "en",
+    "scene": "A curated architectural showroom with three entirely different closed private nursing enclosures arranged along a curved circulation aisle, elevated wide composition"
+  },
+  {
+    "id": "products",
+    "locale": "fr",
+    "scene": "An intimate materials gallery featuring an angular timber nursing cabin beside an existing private room entrance, frontal eye-level view"
+  },
+  {
+    "id": "solutions",
+    "locale": "en",
+    "scene": "A carefully furnished lactation room viewed through a wide doorway, lounge chair, side table, task light and storage, warm stone walls"
+  },
+  {
+    "id": "solutions",
+    "locale": "fr",
+    "scene": "An architectural cutaway-style perspective of an adaptable private nursing suite beside a quiet corridor, pale oak cabinets and sage surfaces"
+  },
+  {
+    "id": "freestanding",
+    "locale": "en",
+    "scene": "A single curved cream freestanding nursing pod beside a corporate lobby indoor garden"
+  },
+  {
+    "id": "freestanding",
+    "locale": "fr",
+    "scene": "A rectangular standalone private nursing cabin with deep blue opaque door in a sunlit brick atrium, diagonal overhead view with seating just visible inside"
+  },
+  {
+    "id": "modular",
+    "locale": "en",
+    "scene": "An exploded architectural arrangement of separate wall panels, roof and opaque door forming a modular private lactation booth, refined 3D studio rendering"
+  },
+  {
+    "id": "modular",
+    "locale": "fr",
+    "scene": "Two adjoining modular private nursing enclosures of different widths within an expansive white workplace interior, flush sage panel seams and timber doors"
+  },
+  {
+    "id": "portable",
+    "locale": "en",
+    "scene": "A compact fully enclosed movable lactation booth on a low transport base in a flexible convention room, nearby folded partitions, daylight side view"
+  },
+  {
+    "id": "portable",
+    "locale": "fr",
+    "scene": "A small relocatable private nursing enclosure beside a loading-area-to-event-hall doorway, viewed from rear three-quarter showing handles and demountable panels"
+  },
+  {
+    "id": "accessible",
+    "locale": "en",
+    "scene": "A spacious private nursing-room entrance with broad unobstructed approach, wheelchair parked beside a comfortable armchair inside, overhead oblique view without dimensions"
+  },
+  {
+    "id": "accessible",
+    "locale": "fr",
+    "scene": "A low eye-level view into a generously planned lactation room with clear floor space beside seating, reachable side table, solid privacy door open and uncluttered circulation"
+  },
+  {
+    "id": "custom",
+    "locale": "en",
+    "scene": "A designer worktable with three dimensional scale model of an enclosed nursing pod and physical samples of cork, oak, sage textile and bronze, no legible writing"
+  },
+  {
+    "id": "custom",
+    "locale": "fr",
+    "scene": "A bespoke curved nursing enclosure being considered within an alcove of sculptural commercial interior, ribbed ceramic exterior and soft rose opaque pivot door"
+  },
+  {
+    "id": "rooms",
+    "locale": "en",
+    "scene": "A dedicated existing workplace lactation room with comfortable teal chair, small side table, warm task lamp, closed door, plant and quiet neutral walls"
+  },
+  {
+    "id": "rooms",
+    "locale": "fr",
+    "scene": "A long narrow private breastfeeding room with two zones separated by opaque partitions, oak cabinetry and cream lounge seating, view along a diagonal"
+  },
+  {
+    "id": "design",
+    "locale": "en",
+    "scene": "An architect's unoccupied studio table with blank floor-plan drawing, room model, fabric swatches and drafting instruments for lactation-room design"
+  },
+  {
+    "id": "design",
+    "locale": "fr",
+    "scene": "An unfinished private-room fit-out transitioning from plaster walls to finished walnut cabinetry and sage chair, tools neatly laid on protective cloth, no workers"
+  },
+  {
+    "id": "installation",
+    "locale": "en",
+    "scene": "A compact nursing booth carefully positioned on protective floor covering inside an office, a doorway and clear equipment delivery route visible, no workers"
+  },
+  {
+    "id": "installation",
+    "locale": "fr",
+    "scene": "A tidy installation staging area with wrapped door panel, wall elements and hand trolley beside an empty nursing-room niche, dramatic natural sidelighting"
+  },
+  {
+    "id": "rentals",
+    "locale": "en",
+    "scene": "A private nursing booth integrated into a temporary exhibition lounge with freestanding partitions, empty event furniture and soft pendant lights"
+  },
+  {
+    "id": "rentals",
+    "locale": "fr",
+    "scene": "A compact opaque lactation cabin at an outdoor covered event pavilion with stable level flooring, potted plants and folded transport cases nearby"
+  },
+  {
+    "id": "furniture",
+    "locale": "en",
+    "scene": "Close editorial still life of ergonomic lounge chair, side table, soft task lamp and closed storage cabinet for a lactation room, sage and oak palette"
+  },
+  {
+    "id": "furniture",
+    "locale": "fr",
+    "scene": "Top-down arrangement of private-room furniture: upholstered armchair, small round table, footrest and compact cabinet with generous clear spacing, ivory background"
+  },
+  {
+    "id": "about",
+    "locale": "en",
+    "scene": "Two empty chairs across a design consultation table with nursing-room scale model, warm daylight and textured teal backdrop"
+  },
+  {
+    "id": "about",
+    "locale": "fr",
+    "scene": "A carefully considered interior detail showing a private nursing-room doorway, warm tactile wall finishes and a single comfortable chair, quiet human-centred architecture"
+  },
+  {
+    "id": "contact",
+    "locale": "en",
+    "scene": "Welcoming consultation desk with two visitor chairs, blank notebook and small architectural nursing-pod model, softly lit cream studio"
+  },
+  {
+    "id": "contact",
+    "locale": "fr",
+    "scene": "An inviting commercial reception alcove with a comfortable lounge chair and unoccupied meeting table with blank planning sheets, maple wall panels"
+  },
+  {
+    "id": "quote",
+    "locale": "en",
+    "scene": "Overhead project planning table with blank room sketch, measuring tape, material samples and miniature enclosed nursing booth, editorial flat lay"
+  },
+  {
+    "id": "quote",
+    "locale": "fr",
+    "scene": "Side perspective of a project consultation board with unlettered floor-plan shapes, a room model and stacked finish samples in a calm design office"
+  },
+  {
+    "id": "airports",
+    "locale": "en",
+    "scene": "Private fully opaque nursing pod in a bright airport departure concourse beside large windows with distant airplane tail outside, no signs or people"
+  },
+  {
+    "id": "airports",
+    "locale": "fr",
+    "scene": "Dedicated private lactation-room entrance beside an airport family lounge, curved ceiling, upholstered seats and terminal glazing, nighttime architectural photography"
+  },
+  {
+    "id": "universities",
+    "locale": "en",
+    "scene": "A closed private nursing booth tucked into a quiet university library atrium, book stacks and study desks beyond, morning light"
+  },
+  {
+    "id": "universities",
+    "locale": "fr",
+    "scene": "A warm dedicated lactation room just off a university corridor with timber noticeboard without text and teaching spaces beyond, view from doorway"
+  },
+  {
+    "id": "hospitals",
+    "locale": "en",
+    "scene": "A calm private lactation room near a hospital staff corridor, washable surfaces, comfortable chair, understated pale teal cabinetry, no medical claims or patients"
+  },
+  {
+    "id": "hospitals",
+    "locale": "fr",
+    "scene": "An enclosed private nursing pod in a hospital public family waiting area, soft armchairs and frosted corridor glazing, no signage or patients"
+  },
+  {
+    "id": "offices",
+    "locale": "en",
+    "scene": "An enclosed oak and ivory nursing pod in an open modern corporate workplace with quiet desks and glazing in background"
+  },
+  {
+    "id": "offices",
+    "locale": "fr",
+    "scene": "A dedicated private breastfeeding room on an office floor with textured walls, bronze task light and comfortable chair, view through an opaque solid door"
+  },
+  {
+    "id": "malls",
+    "locale": "en",
+    "scene": "A private nursing booth in a calm shopping-centre family amenity area, wide polished floor and softly blurred storefronts without logos"
+  },
+  {
+    "id": "malls",
+    "locale": "fr",
+    "scene": "A shopping-centre lactation-room entrance beside quiet family seating, cream tiled walls and sage opaque door, high oblique architectural view"
+  },
+  {
+    "id": "government",
+    "locale": "en",
+    "scene": "A discrete private nursing enclosure in a civic building interior with stone columns and public seating, no flags seals signs or people"
+  },
+  {
+    "id": "government",
+    "locale": "fr",
+    "scene": "A practical private lactation room off an administrative building corridor, durable furnishings and warm daylight, solid privacy door"
+  },
+  {
+    "id": "events",
+    "locale": "en",
+    "scene": "An enclosed nursing booth in a convention-centre quiet lounge, distant exhibition partition walls, patterned carpet and warm acoustic panels"
+  },
+  {
+    "id": "events",
+    "locale": "fr",
+    "scene": "A dedicated private nursing room beside an event venue foyer, empty banquet setup visible through distant corridor, terracotta chair and oak table"
+  },
+  {
+    "id": "industrial",
+    "locale": "en",
+    "scene": "A private lactation-room entrance inside a clean employee welfare zone separated from a warehouse by a glazed corridor, no workers"
+  },
+  {
+    "id": "industrial",
+    "locale": "fr",
+    "scene": "An opaque nursing booth within a factory administrative break-area, lockers and distant controlled doorway, clean durable surfaces and soft indirect lighting"
+  },
+  {
+    "id": "hospitality",
+    "locale": "en",
+    "scene": "A private nursing room adjacent to a hotel conference lounge with comfortable upholstered chair and limestone wall finishes, no logos"
+  },
+  {
+    "id": "hospitality",
+    "locale": "fr",
+    "scene": "A closed nursing pod tucked into a boutique-hotel event foyer with arched ceiling and quiet lounge furniture, evening ambient light"
+  },
+  {
+    "id": "transit",
+    "locale": "en",
+    "scene": "A closed private nursing enclosure in a modern rail-terminal passenger lounge, large structural beams and distant train visible through glazing"
+  },
+  {
+    "id": "transit",
+    "locale": "fr",
+    "scene": "An accessible-looking wide approach to a dedicated lactation room in a transit-station family amenity corridor, solid opaque door and warm brick walls"
+  },
+  {
+    "id": "industries",
+    "locale": "en",
+    "scene": "A broad commercial atrium bringing together workplace desks, visitor seating and a private nursing enclosure in separate calm zones"
+  },
+  {
+    "id": "industries",
+    "locale": "fr",
+    "scene": "An architectural study of a private lactation suite between a campus-like corridor and a public waiting lounge, cutaway perspective showing distinct use zones"
+  },
+  {
+    "id": "privacy",
+    "locale": "en",
+    "scene": "A close architectural still life of a solid nursing-room door with subtle occupancy latch and soft diffuse light, no writing, privacy-focused composition"
+  },
+  {
+    "id": "privacy",
+    "locale": "fr",
+    "scene": "A private room interior framed by a partially closed thick timber door and opaque acoustic wall, seating barely visible, calm cream and sage textures"
+  },
+  {
+    "id": "terms",
+    "locale": "en",
+    "scene": "A refined tabletop with blank project folder, architectural scale ruler and room model, commercial planning still life, no readable text"
+  },
+  {
+    "id": "terms",
+    "locale": "fr",
+    "scene": "A neat unoccupied project-review desk with two blank document folders and tactile finish samples beside a window, quiet professional interior"
+  },
+  {
+    "id": "thank-you",
+    "locale": "en",
+    "scene": "A completed private-room planning desk with a neatly closed blank folder and small fresh branch in a ceramic vase"
+  },
+  {
+    "id": "thank-you",
+    "locale": "fr",
+    "scene": "Warm light falling across a comfortable private-room chair and an orderly side table with a closed blank notebook"
+  },
+  {
+    "id": "not-found",
+    "locale": "en",
+    "scene": "A calm architectural hallway splitting into two distinct well-lit corridors, ivory walls and dark teal doors, wayfinding visual without words"
+  },
+  {
+    "id": "not-found",
+    "locale": "fr",
+    "scene": "An empty campus corridor with a small private-room alcove and a clearly visible return path, warm oak and pale stone, no signage"
+  },
+  {
+    "id": "locations",
+    "locale": "en",
+    "title": "Plan a nursing-space project in Canada",
+    "brief": "The location directory helps organize project questions across Canada. It does not represent a network of offices or a promise of local fulfillment. Identify the building, receiving contact, access requirements and timing so supply and installation can be assessed for the actual destination.",
+    "index": 0,
+    "scene": "Regional NursingPods.ca page Plan a nursing-space project in Canada. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: The location directory helps organize project questions across Canada. It does not represent a network of offices or a promise of local fulfillment. Identify the building, receiving contact, access requirements and timing so supply and installation can be assessed for the actual destination.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "locations",
+    "locale": "fr",
+    "title": "Planifiez un espace d’allaitement au Canada",
+    "brief": "Le répertoire aide à organiser les questions de projet au Canada. Il ne représente pas un réseau de bureaux ni une promesse de service local. Indiquez le bâtiment, le contact, les accès et l’échéancier pour évaluer la fourniture et l’installation selon la destination réelle.",
+    "index": 0,
+    "scene": "Regional NursingPods.ca page Planifiez un espace d’allaitement au Canada. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: Le répertoire aide à organiser les questions de projet au Canada. Il ne représente pas un réseau de bureaux ni une promesse de service local. Indiquez le bâtiment, le contact, les accès et l’échéancier pour évaluer la fourniture et l’installation selon la destination réelle.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-on",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Ontario",
+    "brief": "For an Ontario project spanning several municipalities, separate the needs of each building before seeking a common proposal. A downtown office, a campus building and an industrial site may have different routes, access hours and approval contacts. Record the actual municipality and building for each proposed space rather than using a broad regional address. If a shared purchasing team is coordinating the work, identify which decisions are common and which must be confirmed locally.",
+    "index": 1,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Ontario. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: For an Ontario project spanning several municipalities, separate the needs of each building before seeking a common proposal. A downtown office, a campus building and an industrial site may have different routes, access hours and approval contacts. Record the actual municipality and building for each proposed space rather than using a broad regional address. If a shared purchasing team is coordinating the work, identify which decisions are common and which must be confirmed locally.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-on",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Ontario",
+    "brief": "Pour un projet ontarien réparti dans plusieurs municipalités, distinguez les besoins de chaque bâtiment avant de demander une proposition commune. Un bureau au centre-ville, un pavillon et un site industriel peuvent avoir des accès, des horaires et des responsables différents. Indiquez la municipalité et le bâtiment précis plutôt qu’une adresse régionale générale. Si une équipe d’approvisionnement coordonne le projet, séparez les décisions communes des confirmations propres à chaque site.",
+    "index": 1,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Ontario. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: Pour un projet ontarien réparti dans plusieurs municipalités, distinguez les besoins de chaque bâtiment avant de demander une proposition commune. Un bureau au centre-ville, un pavillon et un site industriel peuvent avoir des accès, des horaires et des responsables différents. Indiquez la municipalité et le bâtiment précis plutôt qu’une adresse régionale générale. Si une équipe d’approvisionnement coordonne le projet, séparez les décisions communes des confirmations propres à chaque site.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-qc",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Québec",
+    "brief": "For a Québec project, establish the language required for the brief, proposal, room instructions and handover documents. If sites include Montréal, Laval or Longueuil, list each municipality and building contact separately so delivery and access arrangements are not conflated. A project in Québec City or another market should have its own site review even when furnishings are selected centrally. Confirm the selected product information and the responsibilities for any building work with the appropriate project reviewers.",
+    "index": 2,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Québec. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: For a Québec project, establish the language required for the brief, proposal, room instructions and handover documents. If sites include Montréal, Laval or Longueuil, list each municipality and building contact separately so delivery and access arrangements are not conflated. A project in Québec City or another market should have its own site review even when furnishings are selected centrally. Confirm the selected product information and the responsibilities for any building work with the appropriate project reviewers.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-qc",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Québec",
+    "brief": "Pour un projet au Québec, précisez la langue du brief, de la proposition, des consignes et des documents de remise. Si les sites comprennent Montréal, Laval ou Longueuil, indiquez chaque municipalité et son contact afin de distinguer la livraison et l’accès. Un projet à Québec ou ailleurs doit faire l’objet de sa propre évaluation, même si le mobilier est choisi de façon centralisée. Confirmez les renseignements sur le produit et les responsabilités des travaux avec les personnes compétentes.",
+    "index": 2,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Québec. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Pour un projet au Québec, précisez la langue du brief, de la proposition, des consignes et des documents de remise. Si les sites comprennent Montréal, Laval ou Longueuil, indiquez chaque municipalité et son contact afin de distinguer la livraison et l’accès. Un projet à Québec ou ailleurs doit faire l’objet de sa propre évaluation, même si le mobilier est choisi de façon centralisée. Confirmez les renseignements sur le produit et les responsabilités des travaux avec les personnes compétentes.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-bc",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — British Columbia",
+    "brief": "For British Columbia, include the complete delivery destination rather than assuming a Metro Vancouver routing applies to every site. If the project involves an island, an interior community or several separate buildings, ask for the transport and handover scope for each location. The same product category can involve different handling arrangements depending on the actual access route. Document whether the receiving team can store equipment and whether installation must be coordinated with a particular building work window.",
+    "index": 3,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — British Columbia. angular oak-clad freestanding booth with opaque teal door in a clean industrial employee amenity zone. Planning relevance: For British Columbia, include the complete delivery destination rather than assuming a Metro Vancouver routing applies to every site. If the project involves an island, an interior community or several separate buildings, ask for the transport and handover scope for each location. The same product category can involve different handling arrangements depending on the actual access route. Document whether the receiving team can store equipment and whether installation must be coordinated with a particular building work window.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-bc",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Colombie-Britannique",
+    "brief": "En Colombie-Britannique, fournissez la destination complète sans présumer qu’un trajet dans le Grand Vancouver convient à tous les sites. Pour une île, une communauté intérieure ou plusieurs bâtiments, demandez une portée de transport et de remise propre à chaque lieu. Une même catégorie de produit peut exiger une manutention différente selon l’accès réel. Précisez si l’équipe peut entreposer l’équipement et si l’installation doit respecter une période de travaux particulière.",
+    "index": 3,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Colombie-Britannique. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: En Colombie-Britannique, fournissez la destination complète sans présumer qu’un trajet dans le Grand Vancouver convient à tous les sites. Pour une île, une communauté intérieure ou plusieurs bâtiments, demandez une portée de transport et de remise propre à chaque lieu. Une même catégorie de produit peut exiger une manutention différente selon l’accès réel. Précisez si l’équipe peut entreposer l’équipement et si l’installation doit respecter une période de travaux particulière.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-ab",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Alberta",
+    "brief": "For an Alberta brief, distinguish a city office from a campus, industrial facility or remote work location. The purchasing contact may be different from the person who can authorize access to the proposed room. If Calgary and Edmonton are part of one program, provide separate delivery and site-readiness details rather than treating the project as a single stop. Describe shift access and any contractor procedures early so they can be considered alongside the enclosure or room design.",
+    "index": 4,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Alberta. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: For an Alberta brief, distinguish a city office from a campus, industrial facility or remote work location. The purchasing contact may be different from the person who can authorize access to the proposed room. If Calgary and Edmonton are part of one program, provide separate delivery and site-readiness details rather than treating the project as a single stop. Describe shift access and any contractor procedures early so they can be considered alongside the enclosure or room design.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-ab",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Alberta",
+    "brief": "Pour un projet en Alberta, distinguez un bureau urbain, un campus, une installation industrielle et un lieu de travail éloigné. Le contact aux achats peut différer de la personne qui autorise l’accès à la pièce. Si Calgary et Edmonton font partie du même programme, précisez séparément la livraison et la préparation des sites. Décrivez tôt l’accès par quart et les procédures des entrepreneurs afin de les intégrer au choix de la cabine ou à l’aménagement.",
+    "index": 4,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Alberta. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Pour un projet en Alberta, distinguez un bureau urbain, un campus, une installation industrielle et un lieu de travail éloigné. Le contact aux achats peut différer de la personne qui autorise l’accès à la pièce. Si Calgary et Edmonton font partie du même programme, précisez séparément la livraison et la préparation des sites. Décrivez tôt l’accès par quart et les procédures des entrepreneurs afin de les intégrer au choix de la cabine ou à l’aménagement.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-mb",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Manitoba",
+    "brief": "For Manitoba, separate the proposed room’s requirements from the logistics of reaching the building. A Winnipeg facility and a project in another community may need different receiving contacts and transport arrangements. If the project is part of a multi-site workplace program, record how each space will be operated when administrative staff are not present. Include storage, assembly access and maintenance responsibilities in the brief so the proposal addresses the full lifecycle of the space.",
+    "index": 5,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Manitoba. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: For Manitoba, separate the proposed room’s requirements from the logistics of reaching the building. A Winnipeg facility and a project in another community may need different receiving contacts and transport arrangements. If the project is part of a multi-site workplace program, record how each space will be operated when administrative staff are not present. Include storage, assembly access and maintenance responsibilities in the brief so the proposal addresses the full lifecycle of the space.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-mb",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Manitoba",
+    "brief": "Au Manitoba, distinguez les besoins de la pièce de la logistique pour atteindre le bâtiment. Un établissement de Winnipeg et un projet dans une autre communauté peuvent nécessiter des contacts et des transports différents. Pour un programme multisite, indiquez comment les espaces seront gérés en l’absence du personnel administratif. Incluez l’entreposage, l’accès pour l’assemblage et l’entretien afin que la proposition couvre toute l’utilisation de l’espace.",
+    "index": 5,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Manitoba. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Au Manitoba, distinguez les besoins de la pièce de la logistique pour atteindre le bâtiment. Un établissement de Winnipeg et un projet dans une autre communauté peuvent nécessiter des contacts et des transports différents. Pour un programme multisite, indiquez comment les espaces seront gérés en l’absence du personnel administratif. Incluez l’entreposage, l’accès pour l’assemblage et l’entretien afin que la proposition couvre toute l’utilisation de l’espace.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-sk",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Saskatchewan",
+    "brief": "For Saskatchewan projects, describe whether the space is for one building or a program across several communities. A shared product preference does not remove the need to check the route, services and operating team at each location. If a site has restricted contractor access or shift-based use, include those details before a layout is selected. Ask for delivery, assembly and any locally arranged work to be separated in the proposal so responsibilities remain clear.",
+    "index": 6,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Saskatchewan. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: For Saskatchewan projects, describe whether the space is for one building or a program across several communities. A shared product preference does not remove the need to check the route, services and operating team at each location. If a site has restricted contractor access or shift-based use, include those details before a layout is selected. Ask for delivery, assembly and any locally arranged work to be separated in the proposal so responsibilities remain clear.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-sk",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Saskatchewan",
+    "brief": "Pour les projets en Saskatchewan, précisez s’il s’agit d’un bâtiment ou d’un programme dans plusieurs communautés. Une préférence commune de produit ne remplace pas la vérification de l’accès, des services et de l’équipe de chaque lieu. Si l’accès des entrepreneurs est contrôlé ou si l’utilisation suit les quarts, indiquez-le avant de choisir la disposition. Demandez de distinguer la livraison, l’assemblage et les travaux locaux dans la proposition.",
+    "index": 6,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Saskatchewan. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: Pour les projets en Saskatchewan, précisez s’il s’agit d’un bâtiment ou d’un programme dans plusieurs communautés. Une préférence commune de produit ne remplace pas la vérification de l’accès, des services et de l’équipe de chaque lieu. Si l’accès des entrepreneurs est contrôlé ou si l’utilisation suit les quarts, indiquez-le avant de choisir la disposition. Demandez de distinguer la livraison, l’assemblage et les travaux locaux dans la proposition.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-ns",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Nova Scotia",
+    "brief": "For Nova Scotia, identify the actual building and receiving location, especially where the project spans several facilities. A Halifax or Dartmouth brief can include office, campus, visitor or event uses, each with different opening and cleaning arrangements. For projects elsewhere in the province, request a location-specific logistics review rather than assuming the same delivery scope. If the room must serve both staff and visitors, document how access and assistance will work for each group.",
+    "index": 7,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Nova Scotia. dedicated private room with sage upholstered chair and limestone walls in a shopping centre family lounge. Planning relevance: For Nova Scotia, identify the actual building and receiving location, especially where the project spans several facilities. A Halifax or Dartmouth brief can include office, campus, visitor or event uses, each with different opening and cleaning arrangements. For projects elsewhere in the province, request a location-specific logistics review rather than assuming the same delivery scope. If the room must serve both staff and visitors, document how access and assistance will work for each group.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-ns",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Nouvelle-Écosse",
+    "brief": "En Nouvelle-Écosse, identifiez le bâtiment et le lieu de réception, surtout pour un projet réparti entre plusieurs établissements. À Halifax ou Dartmouth, un brief peut viser des bureaux, un campus, des visiteurs ou des événements, avec des horaires et un entretien différents. Ailleurs dans la province, demandez une évaluation logistique propre au lieu. Si la salle sert le personnel et les visiteurs, décrivez séparément l’accès et l’assistance de chaque groupe.",
+    "index": 7,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Nouvelle-Écosse. enclosed private booth with cork exterior and dark bronze solid door in a clean industrial employee amenity zone. Planning relevance: En Nouvelle-Écosse, identifiez le bâtiment et le lieu de réception, surtout pour un projet réparti entre plusieurs établissements. À Halifax ou Dartmouth, un brief peut viser des bureaux, un campus, des visiteurs ou des événements, avec des horaires et un entretien différents. Ailleurs dans la province, demandez une évaluation logistique propre au lieu. Si la salle sert le personnel et les visiteurs, décrivez séparément l’accès et l’assistance de chaque groupe.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nb",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — New Brunswick",
+    "brief": "For a New Brunswick project, record the preferred languages for the proposal, signs and operating instructions along with the site details. If facilities in Fredericton, Moncton or Saint John share a purchasing process, keep room dimensions and delivery arrangements separate. Identify who can approve materials and who will manage the room after handover. These details help distinguish a consistent project approach from assumptions that every building can use the same layout.",
+    "index": 8,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — New Brunswick. quiet lactation room with curved privacy vestibule and pale ash furniture in a community recreation building. Planning relevance: For a New Brunswick project, record the preferred languages for the proposal, signs and operating instructions along with the site details. If facilities in Fredericton, Moncton or Saint John share a purchasing process, keep room dimensions and delivery arrangements separate. Identify who can approve materials and who will manage the room after handover. These details help distinguish a consistent project approach from assumptions that every building can use the same layout.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nb",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Nouveau-Brunswick",
+    "brief": "Pour un projet au Nouveau-Brunswick, indiquez les langues souhaitées pour la proposition, les affiches et les consignes en plus des détails du site. Si des installations à Fredericton, Moncton ou Saint John partagent les achats, distinguez les dimensions et les livraisons. Identifiez la personne qui approuve les matériaux et celle qui gérera la salle. Ces précisions permettent une approche cohérente sans présumer que tous les bâtiments conviennent au même aménagement.",
+    "index": 8,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Nouveau-Brunswick. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a college student services wing. Planning relevance: Pour un projet au Nouveau-Brunswick, indiquez les langues souhaitées pour la proposition, les affiches et les consignes en plus des détails du site. Si des installations à Fredericton, Moncton ou Saint John partagent les achats, distinguez les dimensions et les livraisons. Identifiez la personne qui approuve les matériaux et celle qui gérera la salle. Ces précisions permettent une approche cohérente sans présumer que tous les bâtiments conviennent au même aménagement.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nl",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Newfoundland and Labrador",
+    "brief": "For Newfoundland and Labrador, give the complete community and delivery address at the start of the brief. Do not treat a project in St. John’s and a project in Labrador as the same logistics scenario. Ask how equipment reaches the site, who receives it and what work remains after delivery. If the project has a fixed opening date, distinguish the desired date from a confirmed schedule and include time for reviewing the actual transport and installation proposal.",
+    "index": 9,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Newfoundland and Labrador. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: For Newfoundland and Labrador, give the complete community and delivery address at the start of the brief. Do not treat a project in St. John’s and a project in Labrador as the same logistics scenario. Ask how equipment reaches the site, who receives it and what work remains after delivery. If the project has a fixed opening date, distinguish the desired date from a confirmed schedule and include time for reviewing the actual transport and installation proposal.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nl",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Terre-Neuve-et-Labrador",
+    "brief": "À Terre-Neuve-et-Labrador, fournissez la communauté et l’adresse complètes dès le début. Un projet à St. John’s et un projet au Labrador ne représentent pas le même scénario logistique. Demandez comment l’équipement arrive, qui le reçoit et quels travaux restent après la livraison. Si une date d’ouverture est visée, distinguez-la d’un échéancier confirmé et prévoyez l’examen de la proposition réelle de transport et d’installation.",
+    "index": 9,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Terre-Neuve-et-Labrador. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: À Terre-Neuve-et-Labrador, fournissez la communauté et l’adresse complètes dès le début. Un projet à St. John’s et un projet au Labrador ne représentent pas le même scénario logistique. Demandez comment l’équipement arrive, qui le reçoit et quels travaux restent après la livraison. Si une date d’ouverture est visée, distinguez-la d’un échéancier confirmé et prévoyez l’examen de la proposition réelle de transport et d’installation.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-pe",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Prince Edward Island",
+    "brief": "For Prince Edward Island, start with the building’s intended use and the period in which the space needs to operate. A permanent workplace room and a temporary visitor amenity call for different maintenance and access arrangements. Include the full delivery location and confirm whether the receiving team can store equipment before setup. Where work is linked to an event or seasonal program, document setup and removal windows separately from the dates of public use.",
+    "index": 10,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Prince Edward Island. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: For Prince Edward Island, start with the building’s intended use and the period in which the space needs to operate. A permanent workplace room and a temporary visitor amenity call for different maintenance and access arrangements. Include the full delivery location and confirm whether the receiving team can store equipment before setup. Where work is linked to an event or seasonal program, document setup and removal windows separately from the dates of public use.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-pe",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Île-du-Prince-Édouard",
+    "brief": "À l’Île-du-Prince-Édouard, commencez par l’usage du bâtiment et la période d’exploitation de l’espace. Une salle permanente au travail et une commodité temporaire pour visiteurs demandent des modalités différentes. Incluez le lieu complet de livraison et vérifiez l’entreposage avant l’installation. Pour un événement ou un programme saisonnier, distinguez les plages d’installation et de retrait des dates d’utilisation publique.",
+    "index": 10,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Île-du-Prince-Édouard. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: À l’Île-du-Prince-Édouard, commencez par l’usage du bâtiment et la période d’exploitation de l’espace. Une salle permanente au travail et une commodité temporaire pour visiteurs demandent des modalités différentes. Incluez le lieu complet de livraison et vérifiez l’entreposage avant l’installation. Pour un événement ou un programme saisonnier, distinguez les plages d’installation et de retrait des dates d’utilisation publique.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-yt",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Yukon",
+    "brief": "For a Yukon inquiry, provide the destination community, site contact and receiving arrangements before comparing enclosure options. A project in Whitehorse and a project in another community require their own logistics assessment. Ask which installation tasks can be supported at the destination and which must be arranged separately. Consider the ability to obtain replacement components and maintenance information as part of the selection process, without assuming local stock or service coverage.",
+    "index": 11,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Yukon. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: For a Yukon inquiry, provide the destination community, site contact and receiving arrangements before comparing enclosure options. A project in Whitehorse and a project in another community require their own logistics assessment. Ask which installation tasks can be supported at the destination and which must be arranged separately. Consider the ability to obtain replacement components and maintenance information as part of the selection process, without assuming local stock or service coverage.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-yt",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Yukon",
+    "brief": "Pour une demande au Yukon, fournissez la communauté, le contact et les modalités de réception avant de comparer les cabines. Un projet à Whitehorse et un projet ailleurs demandent chacun une évaluation logistique. Vérifiez quelles tâches d’installation peuvent être soutenues à destination et lesquelles doivent être organisées séparément. Pensez aux pièces de remplacement et aux consignes d’entretien sans présumer de stock ni de service local.",
+    "index": 11,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Yukon. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Pour une demande au Yukon, fournissez la communauté, le contact et les modalités de réception avant de comparer les cabines. Un projet à Whitehorse et un projet ailleurs demandent chacun une évaluation logistique. Vérifiez quelles tâches d’installation peuvent être soutenues à destination et lesquelles doivent être organisées séparément. Pensez aux pièces de remplacement et aux consignes d’entretien sans présumer de stock ni de service local.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nt",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Northwest Territories",
+    "brief": "For the Northwest Territories, identify the community and the entire receiving plan rather than relying on a territory-wide delivery assumption. A proposal needs to distinguish equipment supply, transport, on-site handling and any work performed by local parties. If the facility has limited storage or restricted access, document that before a unit is selected. Ask how the space will be maintained and who will hold operating information after handover.",
+    "index": 12,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Northwest Territories. angular oak-clad freestanding booth with opaque teal door in a clean industrial employee amenity zone. Planning relevance: For the Northwest Territories, identify the community and the entire receiving plan rather than relying on a territory-wide delivery assumption. A proposal needs to distinguish equipment supply, transport, on-site handling and any work performed by local parties. If the facility has limited storage or restricted access, document that before a unit is selected. Ask how the space will be maintained and who will hold operating information after handover.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nt",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Territoires du Nord-Ouest",
+    "brief": "Pour les Territoires du Nord-Ouest, précisez la communauté et le plan complet de réception plutôt que de présumer une livraison uniforme. La proposition doit distinguer la fourniture, le transport, la manutention et les travaux locaux. Si l’établissement a peu d’entreposage ou un accès restreint, indiquez-le avant la sélection. Vérifiez comment l’espace sera entretenu et qui conservera les renseignements d’exploitation après la remise.",
+    "index": 12,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Territoires du Nord-Ouest. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: Pour les Territoires du Nord-Ouest, précisez la communauté et le plan complet de réception plutôt que de présumer une livraison uniforme. La proposition doit distinguer la fourniture, le transport, la manutention et les travaux locaux. Si l’établissement a peu d’entreposage ou un accès restreint, indiquez-le avant la sélection. Vérifiez comment l’espace sera entretenu et qui conservera les renseignements d’exploitation après la remise.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nu",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Nunavut",
+    "brief": "For Nunavut, begin with the destination community and a discussion of feasible supply and installation arrangements. Do not assume that an enclosure shown on a planning page can be shipped or installed at a particular site. Request a project-specific review of handling, receiving, local work and ongoing upkeep. If a building already has a suitable room, compare a room fit-out with a freestanding option while considering the practical scope that can actually be supported.",
+    "index": 13,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Nunavut. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: For Nunavut, begin with the destination community and a discussion of feasible supply and installation arrangements. Do not assume that an enclosure shown on a planning page can be shipped or installed at a particular site. Request a project-specific review of handling, receiving, local work and ongoing upkeep. If a building already has a suitable room, compare a room fit-out with a freestanding option while considering the practical scope that can actually be supported.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "region-nu",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Nunavut",
+    "brief": "Pour le Nunavut, commencez par la communauté et les possibilités de fourniture et d’installation. Ne présumez pas qu’une cabine présentée sur une page de planification peut être expédiée ou installée à un site donné. Demandez une évaluation de la manutention, de la réception, des travaux locaux et de l’entretien. Si une pièce existe déjà, comparez son aménagement à une cabine autonome selon la portée réellement possible.",
+    "index": 13,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Nunavut. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Pour le Nunavut, commencez par la communauté et les possibilités de fourniture et d’installation. Ne présumez pas qu’une cabine présentée sur une page de planification peut être expédiée ou installée à un site donné. Demandez une évaluation de la manutention, de la réception, des travaux locaux et de l’entretien. Si une pièce existe déjà, comparez son aménagement à une cabine autonome selon la portée réellement possible.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-toronto-gta",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Toronto & the GTA",
+    "brief": "For a Toronto and GTA program, separate municipal addresses from the shared purchasing brief. An office in Toronto, a workplace in Mississauga and a facility in Vaughan can have different loading access, lift bookings and management contacts. For Brampton, Markham, Richmond Hill, Oakville or Burlington, confirm the same site details rather than assuming a single regional delivery plan. If one team is coordinating several spaces, maintain a location worksheet for each building and name the person authorized to approve access.",
+    "index": 14,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Toronto & the GTA. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: For a Toronto and GTA program, separate municipal addresses from the shared purchasing brief. An office in Toronto, a workplace in Mississauga and a facility in Vaughan can have different loading access, lift bookings and management contacts. For Brampton, Markham, Richmond Hill, Oakville or Burlington, confirm the same site details rather than assuming a single regional delivery plan. If one team is coordinating several spaces, maintain a location worksheet for each building and name the person authorized to approve access.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-toronto-gta",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Toronto et le Grand Toronto",
+    "brief": "Pour un programme à Toronto et dans le Grand Toronto, distinguez les adresses municipales du brief d’approvisionnement commun. Un bureau à Toronto, un milieu de travail à Mississauga et un établissement à Vaughan peuvent avoir des accès de livraison, des réservations d’ascenseur et des responsables différents. Pour Brampton, Markham, Richmond Hill, Oakville ou Burlington, confirmez aussi ces détails plutôt que de présumer un seul plan régional. Conservez une fiche par bâtiment et désignez la personne qui autorise l’accès.",
+    "index": 14,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Toronto et le Grand Toronto. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Pour un programme à Toronto et dans le Grand Toronto, distinguez les adresses municipales du brief d’approvisionnement commun. Un bureau à Toronto, un milieu de travail à Mississauga et un établissement à Vaughan peuvent avoir des accès de livraison, des réservations d’ascenseur et des responsables différents. Pour Brampton, Markham, Richmond Hill, Oakville ou Burlington, confirmez aussi ces détails plutôt que de présumer un seul plan régional. Conservez une fiche par bâtiment et désignez la personne qui autorise l’accès.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-vancouver",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Vancouver & Metro Vancouver",
+    "brief": "For Metro Vancouver, identify the actual municipality and building rather than using Vancouver as a catch-all delivery location. A project involving Burnaby, Surrey or Richmond should record each receiving point and the facilities contact who can review placement. If a workplace has multiple floors or shared public areas, compare the user route with the equipment delivery route. Ask whether the proposed installation scope covers every listed building and which preparations remain the responsibility of the site team.",
+    "index": 15,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Vancouver & Metro Vancouver. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: For Metro Vancouver, identify the actual municipality and building rather than using Vancouver as a catch-all delivery location. A project involving Burnaby, Surrey or Richmond should record each receiving point and the facilities contact who can review placement. If a workplace has multiple floors or shared public areas, compare the user route with the equipment delivery route. Ask whether the proposed installation scope covers every listed building and which preparations remain the responsibility of the site team.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-vancouver",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Vancouver et le Grand Vancouver",
+    "brief": "Dans le Grand Vancouver, indiquez la municipalité et le bâtiment réels plutôt que d’utiliser Vancouver comme destination générale. Pour Burnaby, Surrey ou Richmond, consignez chaque point de réception et le contact qui peut examiner l’emplacement. Si le lieu comprend plusieurs étages ou des aires publiques communes, comparez le parcours des usagers à celui de la livraison. Vérifiez si la portée d’installation couvre tous les bâtiments et quelles préparations relèvent de l’équipe sur place.",
+    "index": 15,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Vancouver et le Grand Vancouver. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: Dans le Grand Vancouver, indiquez la municipalité et le bâtiment réels plutôt que d’utiliser Vancouver comme destination générale. Pour Burnaby, Surrey ou Richmond, consignez chaque point de réception et le contact qui peut examiner l’emplacement. Si le lieu comprend plusieurs étages ou des aires publiques communes, comparez le parcours des usagers à celui de la livraison. Vérifiez si la portée d’installation couvre tous les bâtiments et quelles préparations relèvent de l’équipe sur place.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-montreal",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Montréal",
+    "brief": "For Montréal, identify the building entrance used for deliveries and the team responsible for access. If the proposed space is in a multi-tenant property, clarify which decisions belong to the tenant and which require the building operator. Prepare French instructions and handover requirements as part of the project brief rather than adding them after selection. A campus, terminal or office scenario should also identify its own users and operating hours so the room can be assessed in context.",
+    "index": 16,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Montréal. dedicated private room with sage upholstered chair and limestone walls in a shopping centre family lounge. Planning relevance: For Montréal, identify the building entrance used for deliveries and the team responsible for access. If the proposed space is in a multi-tenant property, clarify which decisions belong to the tenant and which require the building operator. Prepare French instructions and handover requirements as part of the project brief rather than adding them after selection. A campus, terminal or office scenario should also identify its own users and operating hours so the room can be assessed in context.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-montreal",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Montréal",
+    "brief": "À Montréal, précisez l’entrée utilisée pour les livraisons et l’équipe responsable de l’accès. Dans un immeuble à plusieurs locataires, distinguez les décisions du locataire de celles de l’exploitant. Intégrez les consignes et documents de remise en français au brief plutôt que de les ajouter après la sélection. Pour un campus, une aérogare ou un bureau, indiquez aussi les usagers et les heures d’exploitation afin d’évaluer la salle dans son contexte.",
+    "index": 16,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Montréal. enclosed private booth with cork exterior and dark bronze solid door in a clean industrial employee amenity zone. Planning relevance: À Montréal, précisez l’entrée utilisée pour les livraisons et l’équipe responsable de l’accès. Dans un immeuble à plusieurs locataires, distinguez les décisions du locataire de celles de l’exploitant. Intégrez les consignes et documents de remise en français au brief plutôt que de les ajouter après la sélection. Pour un campus, une aérogare ou un bureau, indiquez aussi les usagers et les heures d’exploitation afin d’évaluer la salle dans son contexte.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-laval",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Laval",
+    "brief": "For Laval, keep the project’s site address and operating contact distinct from any Montréal-based purchasing office. If the brief concerns a shopping centre, campus or workplace, specify whether the space is for staff, visitors or both. Record who can approve a common-area placement and how cleaning and assistance will be handled during opening hours. A room conversion and a freestanding enclosure should be compared against the same access and day-to-day management requirements before choosing a direction.",
+    "index": 17,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Laval. quiet lactation room with curved privacy vestibule and pale ash furniture in a community recreation building. Planning relevance: For Laval, keep the project’s site address and operating contact distinct from any Montréal-based purchasing office. If the brief concerns a shopping centre, campus or workplace, specify whether the space is for staff, visitors or both. Record who can approve a common-area placement and how cleaning and assistance will be handled during opening hours. A room conversion and a freestanding enclosure should be compared against the same access and day-to-day management requirements before choosing a direction.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-laval",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Laval",
+    "brief": "À Laval, distinguez l’adresse du site et son responsable d’un éventuel bureau d’achat à Montréal. Pour un centre commercial, un campus ou un milieu de travail, précisez si l’espace sert le personnel, les visiteurs ou les deux. Indiquez qui approuve un emplacement dans une aire commune et qui gère le nettoyage et l’assistance. Comparez l’aménagement d’une pièce et une cabine autonome selon les mêmes besoins d’accès et de gestion quotidienne.",
+    "index": 17,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Laval. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a college student services wing. Planning relevance: À Laval, distinguez l’adresse du site et son responsable d’un éventuel bureau d’achat à Montréal. Pour un centre commercial, un campus ou un milieu de travail, précisez si l’espace sert le personnel, les visiteurs ou les deux. Indiquez qui approuve un emplacement dans une aire commune et qui gère le nettoyage et l’assistance. Comparez l’aménagement d’une pièce et une cabine autonome selon les mêmes besoins d’accès et de gestion quotidienne.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-longueuil",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Longueuil & the South Shore",
+    "brief": "For Longueuil and surrounding South Shore projects, list each municipality and the actual building receiving the equipment. If a regional organization is coordinating several sites, separate room requirements, access permissions and installation windows for Longueuil, Brossard or Boucherville. Consider whether the same furniture plan is suitable in each room rather than replicating it automatically. The brief should also identify the local person who will receive instructions and take responsibility for upkeep after handover.",
+    "index": 18,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Longueuil & the South Shore. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: For Longueuil and surrounding South Shore projects, list each municipality and the actual building receiving the equipment. If a regional organization is coordinating several sites, separate room requirements, access permissions and installation windows for Longueuil, Brossard or Boucherville. Consider whether the same furniture plan is suitable in each room rather than replicating it automatically. The brief should also identify the local person who will receive instructions and take responsibility for upkeep after handover.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-longueuil",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Longueuil et la Rive-Sud",
+    "brief": "Pour Longueuil et les projets de la Rive-Sud, indiquez chaque municipalité et le bâtiment qui reçoit l’équipement. Si une organisation coordonne plusieurs lieux, distinguez les besoins des pièces, les permissions et les périodes d’installation à Longueuil, Brossard ou Boucherville. Vérifiez si le mobilier convient à chaque salle plutôt que de le reproduire automatiquement. Le brief doit aussi désigner la personne qui reçoit les consignes et assure l’entretien après la remise.",
+    "index": 18,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Longueuil et la Rive-Sud. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: Pour Longueuil et les projets de la Rive-Sud, indiquez chaque municipalité et le bâtiment qui reçoit l’équipement. Si une organisation coordonne plusieurs lieux, distinguez les besoins des pièces, les permissions et les périodes d’installation à Longueuil, Brossard ou Boucherville. Vérifiez si le mobilier convient à chaque salle plutôt que de le reproduire automatiquement. Le brief doit aussi désigner la personne qui reçoit les consignes et assure l’entretien après la remise.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-ottawa",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Ottawa–Gatineau",
+    "brief": "For an Ottawa–Gatineau program, record the province and full address of every site. A shared administrative team does not mean the same building approvals, trade arrangements or procurement process apply to both destinations. Identify language needs for signs and operating instructions, and distinguish public access from employee-only facilities. For a multi-building project, create a separate delivery and handover checklist for each location while keeping common design priorities in the overall brief.",
+    "index": 19,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Ottawa–Gatineau. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: For an Ottawa–Gatineau program, record the province and full address of every site. A shared administrative team does not mean the same building approvals, trade arrangements or procurement process apply to both destinations. Identify language needs for signs and operating instructions, and distinguish public access from employee-only facilities. For a multi-building project, create a separate delivery and handover checklist for each location while keeping common design priorities in the overall brief.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-ottawa",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Ottawa–Gatineau",
+    "brief": "Pour un programme à Ottawa–Gatineau, indiquez la province et l’adresse complète de chaque site. Une équipe administrative commune ne signifie pas que les approbations, les métiers ou l’approvisionnement sont identiques. Précisez les langues des affiches et des consignes, puis distinguez les installations publiques de celles du personnel. Pour plusieurs bâtiments, préparez une liste de livraison et de remise par lieu, tout en conservant les priorités communes dans le brief général.",
+    "index": 19,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Ottawa–Gatineau. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: Pour un programme à Ottawa–Gatineau, indiquez la province et l’adresse complète de chaque site. Une équipe administrative commune ne signifie pas que les approbations, les métiers ou l’approvisionnement sont identiques. Précisez les langues des affiches et des consignes, puis distinguez les installations publiques de celles du personnel. Pour plusieurs bâtiments, préparez une liste de livraison et de remise par lieu, tout en conservant les priorités communes dans le brief général.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-calgary",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Calgary",
+    "brief": "For a Calgary office project, compare the intended user route with loading and lift access before selecting a pod. If the space is in a leased office, identify the landlord’s role in approving placement and any work affecting building services. For a campus or event facility, replace office assumptions with the actual opening hours and visitor flow. A clear brief should separate the privacy-space requirement from any furniture, electrical or installation work that needs its own scope.",
+    "index": 20,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Calgary. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: For a Calgary office project, compare the intended user route with loading and lift access before selecting a pod. If the space is in a leased office, identify the landlord’s role in approving placement and any work affecting building services. For a campus or event facility, replace office assumptions with the actual opening hours and visitor flow. A clear brief should separate the privacy-space requirement from any furniture, electrical or installation work that needs its own scope.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-calgary",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Calgary",
+    "brief": "Pour un bureau à Calgary, comparez le trajet des usagers avec l’accès de livraison et d’ascenseur avant de choisir une cabine. Dans des locaux loués, précisez le rôle du propriétaire pour l’emplacement et les services du bâtiment. Pour un campus ou un lieu d’événement, utilisez les heures et parcours réels plutôt que les hypothèses d’un bureau. Distinguez le besoin d’espace privé du mobilier et des travaux électriques ou d’installation qui exigent leur propre portée.",
+    "index": 20,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Calgary. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Pour un bureau à Calgary, comparez le trajet des usagers avec l’accès de livraison et d’ascenseur avant de choisir une cabine. Dans des locaux loués, précisez le rôle du propriétaire pour l’emplacement et les services du bâtiment. Pour un campus ou un lieu d’événement, utilisez les heures et parcours réels plutôt que les hypothèses d’un bureau. Distinguez le besoin d’espace privé du mobilier et des travaux électriques ou d’installation qui exigent leur propre portée.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-edmonton",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Edmonton",
+    "brief": "For Edmonton-area facilities, identify whether the room is in an office, public building or controlled operational site. The access process and maintenance owner may differ even within the same organization. If the space must support several shifts, confirm how people reach it when reception or administrative areas are closed. Where the brief includes St. Albert or Sherwood Park, record those destinations explicitly and confirm the delivery and installation arrangements for each site rather than one regional assumption.",
+    "index": 21,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Edmonton. angular oak-clad freestanding booth with opaque teal door in a clean industrial employee amenity zone. Planning relevance: For Edmonton-area facilities, identify whether the room is in an office, public building or controlled operational site. The access process and maintenance owner may differ even within the same organization. If the space must support several shifts, confirm how people reach it when reception or administrative areas are closed. Where the brief includes St. Albert or Sherwood Park, record those destinations explicitly and confirm the delivery and installation arrangements for each site rather than one regional assumption.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-edmonton",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Edmonton",
+    "brief": "Pour les établissements de la région d’Edmonton, précisez s’il s’agit d’un bureau, d’un bâtiment public ou d’un site opérationnel contrôlé. L’accès et l’entretien peuvent varier au sein d’une même organisation. Si l’espace sert plusieurs quarts, confirmez le parcours lorsque la réception ou les bureaux sont fermés. Pour St. Albert ou Sherwood Park, indiquez explicitement la destination et confirmez la livraison et l’installation de chaque site.",
+    "index": 21,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Edmonton. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: Pour les établissements de la région d’Edmonton, précisez s’il s’agit d’un bureau, d’un bâtiment public ou d’un site opérationnel contrôlé. L’accès et l’entretien peuvent varier au sein d’une même organisation. Si l’espace sert plusieurs quarts, confirmez le parcours lorsque la réception ou les bureaux sont fermés. Pour St. Albert ou Sherwood Park, indiquez explicitement la destination et confirmez la livraison et l’installation de chaque site.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-winnipeg",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Winnipeg",
+    "brief": "For a Winnipeg multi-building workplace, begin by mapping where users spend their day and which rooms are realistically available. A central room may be convenient for one group but difficult for another to reach during a break. Review whether distributed rooms or a dedicated enclosure would better match the operating pattern. Ask the facilities team to confirm power, access and cleaning responsibilities, and identify who can receive a shipment if delivery occurs before the room is prepared.",
+    "index": 22,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Winnipeg. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: For a Winnipeg multi-building workplace, begin by mapping where users spend their day and which rooms are realistically available. A central room may be convenient for one group but difficult for another to reach during a break. Review whether distributed rooms or a dedicated enclosure would better match the operating pattern. Ask the facilities team to confirm power, access and cleaning responsibilities, and identify who can receive a shipment if delivery occurs before the room is prepared.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-winnipeg",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Winnipeg",
+    "brief": "Pour un milieu de travail à plusieurs bâtiments à Winnipeg, repérez les déplacements quotidiens et les pièces réellement disponibles. Une salle centrale peut convenir à un groupe et être difficile à atteindre pour un autre pendant une pause. Comparez des salles réparties à une enceinte dédiée selon le fonctionnement réel. Faites confirmer l’alimentation, l’accès et le nettoyage par les installations, puis désignez la personne qui reçoit l’équipement si la pièce n’est pas prête.",
+    "index": 22,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Winnipeg. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Pour un milieu de travail à plusieurs bâtiments à Winnipeg, repérez les déplacements quotidiens et les pièces réellement disponibles. Une salle centrale peut convenir à un groupe et être difficile à atteindre pour un autre pendant une pause. Comparez des salles réparties à une enceinte dédiée selon le fonctionnement réel. Faites confirmer l’alimentation, l’accès et le nettoyage par les installations, puis désignez la personne qui reçoit l’équipement si la pièce n’est pas prête.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-halifax",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Halifax & Dartmouth",
+    "brief": "For Halifax and Dartmouth, distinguish the site’s year-round needs from event or visitor peaks when describing the intended use. A workplace room, campus amenity and public visitor space need different access and assistance arrangements. If several buildings are included, identify the receiving entrance and operations contact for each. Ask whether a permanent fit-out or a temporary arrangement is being proposed and confirm the responsibilities for setup, routine cleaning and any later removal.",
+    "index": 23,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Halifax & Dartmouth. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: For Halifax and Dartmouth, distinguish the site’s year-round needs from event or visitor peaks when describing the intended use. A workplace room, campus amenity and public visitor space need different access and assistance arrangements. If several buildings are included, identify the receiving entrance and operations contact for each. Ask whether a permanent fit-out or a temporary arrangement is being proposed and confirm the responsibilities for setup, routine cleaning and any later removal.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-halifax",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Halifax et Dartmouth",
+    "brief": "Pour Halifax et Dartmouth, distinguez les besoins réguliers des périodes d’événements ou d’achalandage dans votre description. Une salle au travail, sur un campus ou pour visiteurs exige des modalités d’accès et d’aide différentes. Pour plusieurs bâtiments, indiquez l’entrée de livraison et le contact de chacun. Vérifiez si la proposition vise un aménagement permanent ou temporaire, puis confirmez l’installation, le nettoyage courant et un éventuel retrait.",
+    "index": 23,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Halifax et Dartmouth. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Pour Halifax et Dartmouth, distinguez les besoins réguliers des périodes d’événements ou d’achalandage dans votre description. Une salle au travail, sur un campus ou pour visiteurs exige des modalités d’accès et d’aide différentes. Pour plusieurs bâtiments, indiquez l’entrée de livraison et le contact de chacun. Vérifiez si la proposition vise un aménagement permanent ou temporaire, puis confirmez l’installation, le nettoyage courant et un éventuel retrait.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-quebec-city",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Québec City",
+    "brief": "For Québec City, prepare the intended room use and French operating information together so both can be reviewed before selection. If the project also includes Lévis, keep the site addresses and delivery requirements separate. For an existing building, ask the responsible team to assess the actual route, room services and any restrictions before assuming a particular enclosure fits. Identify the people who will approve the proposal, oversee work on site and manage the space after handover.",
+    "index": 24,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Québec City. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: For Québec City, prepare the intended room use and French operating information together so both can be reviewed before selection. If the project also includes Lévis, keep the site addresses and delivery requirements separate. For an existing building, ask the responsible team to assess the actual route, room services and any restrictions before assuming a particular enclosure fits. Identify the people who will approve the proposal, oversee work on site and manage the space after handover.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-quebec-city",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Ville de Québec",
+    "brief": "À Québec, préparez ensemble l’usage prévu et les consignes en français pour les examiner avant la sélection. Si le projet comprend Lévis, distinguez les adresses et les exigences de livraison. Dans un bâtiment existant, faites évaluer le parcours, les services de la pièce et les restrictions avant de présumer qu’une cabine convient. Identifiez les personnes qui approuvent la proposition, supervisent les travaux et gèrent l’espace après la remise.",
+    "index": 24,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Ville de Québec. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: À Québec, préparez ensemble l’usage prévu et les consignes en français pour les examiner avant la sélection. Si le projet comprend Lévis, distinguez les adresses et les exigences de livraison. Dans un bâtiment existant, faites évaluer le parcours, les services de la pièce et les restrictions avant de présumer qu’une cabine convient. Identifiez les personnes qui approuvent la proposition, supervisent les travaux et gèrent l’espace après la remise.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-st-johns",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — St. John’s",
+    "brief": "For a nursing pod in St. John’s or Mount Pearl, separate the equipment arrival date from the date the room can open. A workplace receiving an enclosure needs a protected holding area, a checked doorway route and someone available to inspect the shipment. Compare a freestanding pod with a furnished lactation room before finalizing transport. Record access conditions at Paradise or Conception Bay South separately; the receiving address and the purchasing office may differ.",
+    "index": 25,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — St. John’s. dedicated private room with sage upholstered chair and limestone walls in a shopping centre family lounge. Planning relevance: For a nursing pod in St. John’s or Mount Pearl, separate the equipment arrival date from the date the room can open. A workplace receiving an enclosure needs a protected holding area, a checked doorway route and someone available to inspect the shipment. Compare a freestanding pod with a furnished lactation room before finalizing transport. Record access conditions at Paradise or Conception Bay South separately; the receiving address and the purchasing office may differ.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-st-johns",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — St. John’s",
+    "brief": "Pour une cabine d’allaitement à St. John’s ou Mount Pearl, distinguez l’arrivée de l’équipement de l’ouverture de la salle. Prévoyez une aire de réception protégée, un parcours vérifié et une personne pour inspecter la livraison. Comparez une cabine autonome à une salle meublée avant de fixer le transport. Consignez séparément les accès à Paradise ou Conception Bay South; le lieu de réception peut différer du bureau d’achat.",
+    "index": 25,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — St. John’s. enclosed private booth with cork exterior and dark bronze solid door in a clean industrial employee amenity zone. Planning relevance: Pour une cabine d’allaitement à St. John’s ou Mount Pearl, distinguez l’arrivée de l’équipement de l’ouverture de la salle. Prévoyez une aire de réception protégée, un parcours vérifié et une personne pour inspecter la livraison. Comparez une cabine autonome à une salle meublée avant de fixer le transport. Consignez séparément les accès à Paradise ou Conception Bay South; le lieu de réception peut différer du bureau d’achat.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-moncton",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Moncton & surrounding communities",
+    "brief": "A Moncton lactation-room project serving employees and visitors needs an access plan that works for both groups. For sites in Dieppe or Riverview, identify the language of room instructions and the person who can assist users during each opening period. Compare staffed reception access with independent room access. Include cleaning handover, clear occupancy information and a way to request help without requiring a user to explain personal health details.",
+    "index": 26,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Moncton & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a community recreation building. Planning relevance: A Moncton lactation-room project serving employees and visitors needs an access plan that works for both groups. For sites in Dieppe or Riverview, identify the language of room instructions and the person who can assist users during each opening period. Compare staffed reception access with independent room access. Include cleaning handover, clear occupancy information and a way to request help without requiring a user to explain personal health details.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-moncton",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Moncton et les environs",
+    "brief": "Un projet de salle d’allaitement à Moncton destiné au personnel et aux visiteurs exige un accès adapté aux deux groupes. À Dieppe ou Riverview, précisez la langue des consignes et la personne qui assiste les usagers pendant chaque période d’ouverture. Comparez l’accès par la réception à un accès autonome. Prévoyez la relève du nettoyage, une indication claire d’occupation et une façon de demander de l’aide sans fournir de renseignements médicaux.",
+    "index": 26,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Moncton et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a college student services wing. Planning relevance: Un projet de salle d’allaitement à Moncton destiné au personnel et aux visiteurs exige un accès adapté aux deux groupes. À Dieppe ou Riverview, précisez la langue des consignes et la personne qui assiste les usagers pendant chaque période d’ouverture. Comparez l’accès par la réception à un accès autonome. Prévoyez la relève du nettoyage, une indication claire d’occupation et une façon de demander de l’aide sans fournir de renseignements médicaux.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-saint-john",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Saint John & the Kennebecasis Valley",
+    "brief": "For a Saint John workplace with controlled access, place the nursing-space discussion alongside employee circulation. A room beyond a restricted door may be convenient for one team and difficult for another; compare the actual user routes before selecting a pod. List Rothesay, Quispamsis and Grand Bay-Westfield facilities individually when a shared employer coordinates purchasing. Ask which shifts need access and how assistance remains available outside reception hours.",
+    "index": 27,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Saint John & the Kennebecasis Valley. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: For a Saint John workplace with controlled access, place the nursing-space discussion alongside employee circulation. A room beyond a restricted door may be convenient for one team and difficult for another; compare the actual user routes before selecting a pod. List Rothesay, Quispamsis and Grand Bay-Westfield facilities individually when a shared employer coordinates purchasing. Ask which shifts need access and how assistance remains available outside reception hours.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-saint-john",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Saint John et la vallée de Kennebecasis",
+    "brief": "Pour un milieu de travail à accès contrôlé à Saint John, examinez l’espace d’allaitement avec les parcours du personnel. Une salle derrière une porte contrôlée peut convenir à une équipe et compliquer l’accès d’une autre; comparez les parcours avant le choix. Identifiez séparément les établissements de Rothesay, Quispamsis et Grand Bay-Westfield lors d’un achat commun. Précisez les quarts concernés et l’assistance disponible en dehors des heures de réception.",
+    "index": 27,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Saint John et la vallée de Kennebecasis. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: Pour un milieu de travail à accès contrôlé à Saint John, examinez l’espace d’allaitement avec les parcours du personnel. Une salle derrière une porte contrôlée peut convenir à une équipe et compliquer l’accès d’une autre; comparez les parcours avant le choix. Identifiez séparément les établissements de Rothesay, Quispamsis et Grand Bay-Westfield lors d’un achat commun. Précisez les quarts concernés et l’assistance disponible en dehors des heures de réception.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-fredericton",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Fredericton & surrounding communities",
+    "brief": "For a Fredericton campus or administrative building, plan a lactation room around the daily schedule of the people using it. A bookable room and a walk-in nursing pod have different requirements for keys, occupancy signs and handling an unexpectedly extended visit. If the program includes New Maryland or Oromocto, decide whether booking is shared or managed by each site. Keep personal details out of public calendars and establish who maintains room instructions.",
+    "index": 28,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Fredericton & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: For a Fredericton campus or administrative building, plan a lactation room around the daily schedule of the people using it. A bookable room and a walk-in nursing pod have different requirements for keys, occupancy signs and handling an unexpectedly extended visit. If the program includes New Maryland or Oromocto, decide whether booking is shared or managed by each site. Keep personal details out of public calendars and establish who maintains room instructions.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-fredericton",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Fredericton et les environs",
+    "brief": "Pour un campus ou un bâtiment administratif à Fredericton, adaptez la salle d’allaitement à l’horaire quotidien des usagers. Une salle réservable et une cabine sans réservation présentent des besoins différents pour les clés, l’occupation et les visites prolongées. Si le programme comprend New Maryland ou Oromocto, choisissez une réservation commune ou locale. Évitez les renseignements personnels dans les calendriers publics et désignez le responsable des consignes.",
+    "index": 28,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Fredericton et les environs. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: Pour un campus ou un bâtiment administratif à Fredericton, adaptez la salle d’allaitement à l’horaire quotidien des usagers. Une salle réservable et une cabine sans réservation présentent des besoins différents pour les clés, l’occupation et les visites prolongées. Si le programme comprend New Maryland ou Oromocto, choisissez une réservation commune ou locale. Évitez les renseignements personnels dans les calendriers publics et désignez le responsable des consignes.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-saguenay",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Saguenay",
+    "brief": "A Saguenay nursing-space brief should distinguish the individual building from a city-wide workplace program. Compare user routes in Chicoutimi, Jonquière and La Baie rather than assuming the same floor plan or operating hours suit every location. For a room conversion, document existing lighting, ventilation and power before ordering furnishings. For a pod, review the delivery route and identify any assembly area separately from the space reserved for users.",
+    "index": 29,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Saguenay. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: A Saguenay nursing-space brief should distinguish the individual building from a city-wide workplace program. Compare user routes in Chicoutimi, Jonquière and La Baie rather than assuming the same floor plan or operating hours suit every location. For a room conversion, document existing lighting, ventilation and power before ordering furnishings. For a pod, review the delivery route and identify any assembly area separately from the space reserved for users.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-saguenay",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Saguenay",
+    "brief": "Un descriptif d’espace d’allaitement au Saguenay doit distinguer chaque bâtiment d’un programme municipal élargi. Comparez les parcours à Chicoutimi, Jonquière et La Baie plutôt que de supposer un même plan ou un même horaire partout. Pour convertir une pièce, relevez l’éclairage, la ventilation et les prises avant le choix du mobilier. Pour une cabine, examinez la livraison et distinguez l’aire d’assemblage de l’espace destiné aux usagers.",
+    "index": 29,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Saguenay. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Un descriptif d’espace d’allaitement au Saguenay doit distinguer chaque bâtiment d’un programme municipal élargi. Comparez les parcours à Chicoutimi, Jonquière et La Baie plutôt que de supposer un même plan ou un même horaire partout. Pour convertir une pièce, relevez l’éclairage, la ventilation et les prises avant le choix du mobilier. Pour une cabine, examinez la livraison et distinguez l’aire d’assemblage de l’espace destiné aux usagers.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-sherbrooke",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Sherbrooke & the Eastern Townships",
+    "brief": "A Sherbrooke lactation-room project on a multi-building campus benefits from a walking-route review. Compare the time needed to reach a central room with the option of smaller private spaces closer to classrooms, offices or employee work areas. For separate facilities in Magog, Waterville or Windsor, prepare an individual room inventory. Decide which locations need visitor access and who can keep furnishings and cleaning routines consistent across the program.",
+    "index": 30,
+    "scene": "Landscape architectural visualization of a private lactation room inside a regional university building. A comfortable sage armchair and side table sit beside an opaque oak privacy door, soft ivory walls and a tall narrow window. Quiet morning light, angled view from inside the room, realistic materials, no people, signs, logos or text."
+  },
+  {
+    "id": "metro-sherbrooke",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Sherbrooke et les Cantons-de-l’Est",
+    "brief": "Un projet de salle d’allaitement sur un campus à Sherbrooke gagne à examiner les déplacements. Comparez le trajet vers une salle centrale à de petits espaces privés plus proches des classes, bureaux ou zones de travail. Pour des établissements à Magog, Waterville ou Windsor, dressez un inventaire par pièce. Déterminez les lieux accessibles aux visiteurs et la personne qui harmonise le mobilier et les routines de nettoyage.",
+    "index": 30,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Sherbrooke et les Cantons-de-l’Est. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: Un projet de salle d’allaitement sur un campus à Sherbrooke gagne à examiner les déplacements. Comparez le trajet vers une salle centrale à de petits espaces privés plus proches des classes, bureaux ou zones de travail. Pour des établissements à Magog, Waterville ou Windsor, dressez un inventaire par pièce. Déterminez les lieux accessibles aux visiteurs et la personne qui harmonise le mobilier et les routines de nettoyage.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-trois-rivieres",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Trois-Rivières & surrounding communities",
+    "brief": "For a Trois-Rivières nursing pod serving a shift-based workplace, consider how employees reach the space without crossing work zones unnecessarily. Check whether a quiet room already exists and whether its current use conflicts with regular lactation needs. Treat Bécancour and Shawinigan sites as separate destinations in a regional brief. Include shift access, cleaning between users and a named facilities contact who can review enclosure placement before a proposal is accepted.",
+    "index": 31,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Trois-Rivières & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: For a Trois-Rivières nursing pod serving a shift-based workplace, consider how employees reach the space without crossing work zones unnecessarily. Check whether a quiet room already exists and whether its current use conflicts with regular lactation needs. Treat Bécancour and Shawinigan sites as separate destinations in a regional brief. Include shift access, cleaning between users and a named facilities contact who can review enclosure placement before a proposal is accepted.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-trois-rivieres",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Trois-Rivières et les environs",
+    "brief": "Pour une cabine d’allaitement dans un milieu à quarts de travail à Trois-Rivières, examinez les déplacements sans traversées inutiles des zones de production. Vérifiez si une pièce calme existe et si son usage actuel permet un accès régulier. Traitez les sites de Bécancour et Shawinigan comme des destinations distinctes. Précisez l’accès selon les quarts, le nettoyage et le contact des installations qui examine l’emplacement avant l’acceptation d’une proposition.",
+    "index": 31,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Trois-Rivières et les environs. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Pour une cabine d’allaitement dans un milieu à quarts de travail à Trois-Rivières, examinez les déplacements sans traversées inutiles des zones de production. Vérifiez si une pièce calme existe et si son usage actuel permet un accès régulier. Traitez les sites de Bécancour et Shawinigan comme des destinations distinctes. Précisez l’accès selon les quarts, le nettoyage et le contact des installations qui examine l’emplacement avant l’acceptation d’une proposition.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-drummondville",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Drummondville",
+    "brief": "For a Drummondville facility combining offices and operational areas, identify who needs the nursing room before choosing its location. A private pod near administration should still be reachable by staff whose workday is spent elsewhere in the building. Include Saint-Cyrille-de-Wendover and Saint-Germain-de-Grantham addresses precisely when discussing regional projects. Compare changing-room adjacency, quietness and access control, and assign responsibility for room readiness before delivery.",
+    "index": 32,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Drummondville. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: For a Drummondville facility combining offices and operational areas, identify who needs the nursing room before choosing its location. A private pod near administration should still be reachable by staff whose workday is spent elsewhere in the building. Include Saint-Cyrille-de-Wendover and Saint-Germain-de-Grantham addresses precisely when discussing regional projects. Compare changing-room adjacency, quietness and access control, and assign responsibility for room readiness before delivery.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-drummondville",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Drummondville",
+    "brief": "Pour un établissement de Drummondville réunissant bureaux et zones opérationnelles, identifiez les usagers avant l’emplacement. Une cabine près de l’administration doit rester accessible au personnel qui travaille ailleurs dans le bâtiment. Précisez les adresses de Saint-Cyrille-de-Wendover et Saint-Germain-de-Grantham dans les projets régionaux. Comparez la proximité des vestiaires, le calme et le contrôle d’accès; attribuez la préparation de la pièce avant la livraison.",
+    "index": 32,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Drummondville. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Pour un établissement de Drummondville réunissant bureaux et zones opérationnelles, identifiez les usagers avant l’emplacement. Une cabine près de l’administration doit rester accessible au personnel qui travaille ailleurs dans le bâtiment. Précisez les adresses de Saint-Cyrille-de-Wendover et Saint-Germain-de-Grantham dans les projets régionaux. Comparez la proximité des vestiaires, le calme et le contrôle d’accès; attribuez la préparation de la pièce avant la livraison.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-kingston",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Kingston & surrounding communities",
+    "brief": "For a Kingston nursing-room conversion, begin with the existing room’s competing uses. A meeting space that is repeatedly reassigned cannot provide dependable privacy without an agreed access and booking policy, even if its furnishings are suitable. For programs extending to Amherstview or Gananoque, record which rooms are dedicated and which are shared. Compare the retrofit work needed in each building with a freestanding enclosure and identify the person who protects the agreed use.",
+    "index": 33,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Kingston & surrounding communities. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: For a Kingston nursing-room conversion, begin with the existing room’s competing uses. A meeting space that is repeatedly reassigned cannot provide dependable privacy without an agreed access and booking policy, even if its furnishings are suitable. For programs extending to Amherstview or Gananoque, record which rooms are dedicated and which are shared. Compare the retrofit work needed in each building with a freestanding enclosure and identify the person who protects the agreed use.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-kingston",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Kingston et les environs",
+    "brief": "Pour convertir une salle à Kingston, examinez d’abord ses usages concurrents. Une salle de réunion constamment réaffectée ne peut offrir une intimité fiable sans politique d’accès et de réservation, même si son mobilier convient. Pour les projets à Amherstview ou Gananoque, distinguez les salles dédiées des salles partagées. Comparez les travaux dans chaque bâtiment à une cabine autonome et désignez la personne qui garantit l’usage convenu.",
+    "index": 33,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Kingston et les environs. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: Pour convertir une salle à Kingston, examinez d’abord ses usages concurrents. Une salle de réunion constamment réaffectée ne peut offrir une intimité fiable sans politique d’accès et de réservation, même si son mobilier convient. Pour les projets à Amherstview ou Gananoque, distinguez les salles dédiées des salles partagées. Comparez les travaux dans chaque bâtiment à une cabine autonome et désignez la personne qui garantit l’usage convenu.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-belleville-quinte-west",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Belleville & Quinte West",
+    "brief": "A Belleville–Quinte West lactation-space project may involve purchasing for more than one receiving site. Separate the office that approves the budget from the building where equipment is delivered, assembled and maintained so responsibilities remain clear. For Trenton or Prince Edward County facilities, document the unloading point and the route into the room. Compare a room fit-out with a pod using the same list of privacy, user access and daily cleaning requirements.",
+    "index": 34,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Belleville & Quinte West. dedicated private room with sage upholstered chair and limestone walls in a shopping centre family lounge. Planning relevance: A Belleville–Quinte West lactation-space project may involve purchasing for more than one receiving site. Separate the office that approves the budget from the building where equipment is delivered, assembled and maintained so responsibilities remain clear. For Trenton or Prince Edward County facilities, document the unloading point and the route into the room. Compare a room fit-out with a pod using the same list of privacy, user access and daily cleaning requirements.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-belleville-quinte-west",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Belleville et Quinte West",
+    "brief": "Un projet d’espace d’allaitement à Belleville–Quinte West peut comprendre plusieurs lieux de réception. Distinguez le bureau qui approuve le budget du bâtiment où l’équipement est livré, assemblé et entretenu afin de clarifier les responsabilités. Pour les établissements de Trenton ou du comté de Prince Edward, documentez le déchargement et le parcours vers la pièce. Comparez la pièce aménagée et la cabine avec les mêmes besoins d’intimité, d’accès et de nettoyage.",
+    "index": 34,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Belleville et Quinte West. enclosed private booth with cork exterior and dark bronze solid door in a clean industrial employee amenity zone. Planning relevance: Un projet d’espace d’allaitement à Belleville–Quinte West peut comprendre plusieurs lieux de réception. Distinguez le bureau qui approuve le budget du bâtiment où l’équipement est livré, assemblé et entretenu afin de clarifier les responsabilités. Pour les établissements de Trenton ou du comté de Prince Edward, documentez le déchargement et le parcours vers la pièce. Comparez la pièce aménagée et la cabine avec les mêmes besoins d’intimité, d’accès et de nettoyage.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-peterborough",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Peterborough & the Kawarthas",
+    "brief": "For a Peterborough nursing space serving a public facility, separate family access from employee-only circulation. Review whether users can find the room from the entrance and whether assistance is available without requiring access to a staff office. Include Selwyn, Cavan Monaghan or Lakefield sites by their actual address. Plan signage, room occupancy information and the handover between operating teams; compare those requirements before choosing portable or permanent furnishings.",
+    "index": 35,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Peterborough & the Kawarthas. quiet lactation room with curved privacy vestibule and pale ash furniture in a community recreation building. Planning relevance: For a Peterborough nursing space serving a public facility, separate family access from employee-only circulation. Review whether users can find the room from the entrance and whether assistance is available without requiring access to a staff office. Include Selwyn, Cavan Monaghan or Lakefield sites by their actual address. Plan signage, room occupancy information and the handover between operating teams; compare those requirements before choosing portable or permanent furnishings.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-peterborough",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Peterborough et les Kawarthas",
+    "brief": "Pour un espace d’allaitement dans un établissement public de Peterborough, distinguez l’accès des familles des parcours du personnel. Vérifiez si la salle est facile à trouver depuis l’entrée et si l’aide est accessible sans passer par un bureau réservé. Indiquez l’adresse réelle des sites de Selwyn, Cavan Monaghan ou Lakefield. Planifiez l’orientation, l’indication d’occupation et la relève des équipes; comparez ces besoins avant de choisir un mobilier mobile ou permanent.",
+    "index": 35,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Peterborough et les Kawarthas. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a college student services wing. Planning relevance: Pour un espace d’allaitement dans un établissement public de Peterborough, distinguez l’accès des familles des parcours du personnel. Vérifiez si la salle est facile à trouver depuis l’entrée et si l’aide est accessible sans passer par un bureau réservé. Indiquez l’adresse réelle des sites de Selwyn, Cavan Monaghan ou Lakefield. Planifiez l’orientation, l’indication d’occupation et la relève des équipes; comparez ces besoins avant de choisir un mobilier mobile ou permanent.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-oshawa-durham",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Oshawa & Durham Region",
+    "brief": "For an Oshawa or Durham Region workplace program, compare a central lactation room with spaces closer to each employee group. A single purchasing brief can share furnishing preferences while retaining distinct access routes, opening hours and room contacts. List Whitby, Ajax, Pickering and Clarington buildings separately. Ask each facilities team to identify the proposed room, existing services and delivery window so the quote can distinguish common equipment from site-specific preparation.",
+    "index": 36,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Oshawa & Durham Region. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: For an Oshawa or Durham Region workplace program, compare a central lactation room with spaces closer to each employee group. A single purchasing brief can share furnishing preferences while retaining distinct access routes, opening hours and room contacts. List Whitby, Ajax, Pickering and Clarington buildings separately. Ask each facilities team to identify the proposed room, existing services and delivery window so the quote can distinguish common equipment from site-specific preparation.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-oshawa-durham",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Oshawa et la région de Durham",
+    "brief": "Pour un programme à Oshawa ou dans Durham, comparez une salle centrale à des espaces proches de chaque groupe de personnel. Un achat commun peut partager les préférences de mobilier tout en conservant des accès, horaires et responsables distincts. Listez séparément les bâtiments de Whitby, Ajax, Pickering et Clarington. Chaque équipe doit préciser la pièce, les services existants et la période de livraison pour distinguer l’équipement commun des préparatifs propres au site.",
+    "index": 36,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Oshawa et la région de Durham. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: Pour un programme à Oshawa ou dans Durham, comparez une salle centrale à des espaces proches de chaque groupe de personnel. Un achat commun peut partager les préférences de mobilier tout en conservant des accès, horaires et responsables distincts. Listez séparément les bâtiments de Whitby, Ajax, Pickering et Clarington. Chaque équipe doit préciser la pièce, les services existants et la période de livraison pour distinguer l’équipement commun des préparatifs propres au site.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-hamilton",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Hamilton & surrounding communities",
+    "brief": "A Hamilton nursing-space project needs a clear decision about staff-only or shared public access. Compare placing a room inside a controlled work area with a pod closer to reception, and document who would otherwise need an escort or an additional key. For Burlington, Ancaster, Dundas and Stoney Creek facilities, review the actual building route rather than relying on the regional project name. Record turning points, lift restrictions and who can assess any proposed electrical or building work.",
+    "index": 37,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Hamilton & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: A Hamilton nursing-space project needs a clear decision about staff-only or shared public access. Compare placing a room inside a controlled work area with a pod closer to reception, and document who would otherwise need an escort or an additional key. For Burlington, Ancaster, Dundas and Stoney Creek facilities, review the actual building route rather than relying on the regional project name. Record turning points, lift restrictions and who can assess any proposed electrical or building work.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-hamilton",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Hamilton et les environs",
+    "brief": "Un projet d’espace d’allaitement à Hamilton exige un choix clair entre accès réservé au personnel et accès public partagé. Comparez une salle en zone contrôlée à une cabine près de la réception, puis relevez les besoins d’accompagnement ou de clé. Pour Burlington, Ancaster, Dundas et Stoney Creek, examinez le parcours réel plutôt que le seul nom régional. Relevez les changements de direction, les contraintes d’ascenseur et le responsable de l’évaluation des travaux proposés.",
+    "index": 37,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Hamilton et les environs. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: Un projet d’espace d’allaitement à Hamilton exige un choix clair entre accès réservé au personnel et accès public partagé. Comparez une salle en zone contrôlée à une cabine près de la réception, puis relevez les besoins d’accompagnement ou de clé. Pour Burlington, Ancaster, Dundas et Stoney Creek, examinez le parcours réel plutôt que le seul nom régional. Relevez les changements de direction, les contraintes d’ascenseur et le responsable de l’évaluation des travaux proposés.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-niagara",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — St. Catharines & Niagara",
+    "brief": "For a Niagara hospitality or visitor facility, assess nursing-room access across busy and quieter operating periods. A room used by employees, event guests and day visitors needs clear responsibility for cleaning, assistance and occupancy information. Separate St. Catharines, Niagara Falls, Welland and Thorold locations in the proposal. For temporary events in Niagara-on-the-Lake or elsewhere, confirm setup and removal windows and compare rental availability with a lasting room fit-out.",
+    "index": 38,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — St. Catharines & Niagara. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: For a Niagara hospitality or visitor facility, assess nursing-room access across busy and quieter operating periods. A room used by employees, event guests and day visitors needs clear responsibility for cleaning, assistance and occupancy information. Separate St. Catharines, Niagara Falls, Welland and Thorold locations in the proposal. For temporary events in Niagara-on-the-Lake or elsewhere, confirm setup and removal windows and compare rental availability with a lasting room fit-out.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-niagara",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — St. Catharines et Niagara",
+    "brief": "Pour un établissement d’accueil ou touristique de Niagara, évaluez l’accès à la salle d’allaitement pendant les périodes calmes et achalandées. Une salle pour employés, invités et visiteurs exige des responsabilités claires pour le nettoyage et l’assistance. Distinguez les lieux de St. Catharines, Niagara Falls, Welland et Thorold. Pour un événement à Niagara-on-the-Lake ou ailleurs, confirmez les périodes de montage et de retrait; comparez les possibilités de location à un aménagement durable.",
+    "index": 38,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — St. Catharines et Niagara. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Pour un établissement d’accueil ou touristique de Niagara, évaluez l’accès à la salle d’allaitement pendant les périodes calmes et achalandées. Une salle pour employés, invités et visiteurs exige des responsabilités claires pour le nettoyage et l’assistance. Distinguez les lieux de St. Catharines, Niagara Falls, Welland et Thorold. Pour un événement à Niagara-on-the-Lake ou ailleurs, confirmez les périodes de montage et de retrait; comparez les possibilités de location à un aménagement durable.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-waterloo-region",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Kitchener, Cambridge & Waterloo",
+    "brief": "For a Waterloo Region organization with several offices or campus buildings, evaluate nursing-space access building by building. A room convenient for one department may require another group to leave its workplace, so compare walking routes and access permissions. Distinguish Kitchener, Cambridge, Waterloo, Woolwich and Wilmot sites in a shared purchasing plan. Ask which rooms can be dedicated, how bookings are handled and which furniture or enclosure requirements genuinely need to be consistent.",
+    "index": 39,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Kitchener, Cambridge & Waterloo. angular oak-clad freestanding booth with opaque teal door in a clean industrial employee amenity zone. Planning relevance: For a Waterloo Region organization with several offices or campus buildings, evaluate nursing-space access building by building. A room convenient for one department may require another group to leave its workplace, so compare walking routes and access permissions. Distinguish Kitchener, Cambridge, Waterloo, Woolwich and Wilmot sites in a shared purchasing plan. Ask which rooms can be dedicated, how bookings are handled and which furniture or enclosure requirements genuinely need to be consistent.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-waterloo-region",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Kitchener, Cambridge et Waterloo",
+    "brief": "Pour une organisation de Waterloo comptant plusieurs bureaux ou pavillons, évaluez l’accès bâtiment par bâtiment. Une salle pratique pour un service peut obliger un autre groupe à quitter son lieu de travail; comparez les trajets et permissions. Distinguez Kitchener, Cambridge, Waterloo, Woolwich et Wilmot dans le plan d’achat. Précisez les salles pouvant être dédiées, la réservation et les exigences de mobilier ou de cabine qui doivent réellement être communes.",
+    "index": 39,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Kitchener, Cambridge et Waterloo. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: Pour une organisation de Waterloo comptant plusieurs bureaux ou pavillons, évaluez l’accès bâtiment par bâtiment. Une salle pratique pour un service peut obliger un autre groupe à quitter son lieu de travail; comparez les trajets et permissions. Distinguez Kitchener, Cambridge, Waterloo, Woolwich et Wilmot dans le plan d’achat. Précisez les salles pouvant être dédiées, la réservation et les exigences de mobilier ou de cabine qui doivent réellement être communes.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-brantford",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Brantford & Brant County",
+    "brief": "For a Brantford workplace comparing a nursing pod with a room conversion, start with the available floor area and current circulation. A dedicated enclosure introduces a new object into the building; an existing room may instead require changes to its use and furnishings. For Paris, St. George or Burford sites, document receiving access and room readiness individually. Define what belongs in the supply quote and what the building team will arrange, including cleaning, power review and access instructions.",
+    "index": 40,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Brantford & Brant County. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: For a Brantford workplace comparing a nursing pod with a room conversion, start with the available floor area and current circulation. A dedicated enclosure introduces a new object into the building; an existing room may instead require changes to its use and furnishings. For Paris, St. George or Burford sites, document receiving access and room readiness individually. Define what belongs in the supply quote and what the building team will arrange, including cleaning, power review and access instructions.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-brantford",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Brantford et le comté de Brant",
+    "brief": "Pour un milieu de travail à Brantford comparant cabine et salle aménagée, commencez par l’espace disponible et la circulation. Une cabine ajoute un nouvel élément au bâtiment; une pièce existante peut plutôt nécessiter un changement d’usage et de mobilier. Pour Paris, St. George ou Burford, documentez séparément la réception et la préparation. Définissez les éléments de la soumission et ceux gérés par l’équipe du bâtiment, dont le nettoyage, l’examen des prises et les consignes d’accès.",
+    "index": 40,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Brantford et le comté de Brant. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Pour un milieu de travail à Brantford comparant cabine et salle aménagée, commencez par l’espace disponible et la circulation. Une cabine ajoute un nouvel élément au bâtiment; une pièce existante peut plutôt nécessiter un changement d’usage et de mobilier. Pour Paris, St. George ou Burford, documentez séparément la réception et la préparation. Définissez les éléments de la soumission et ceux gérés par l’équipe du bâtiment, dont le nettoyage, l’examen des prises et les consignes d’accès.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-guelph",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Guelph & surrounding communities",
+    "brief": "A Guelph lactation-room brief should consider the people who will use the space throughout the day, including employees who do not work at a desk. Compare routes from work areas and clarify whether changing clothes or passing controlled doors affects practical access. For Puslinch, Guelph/Eramosa, Fergus and Elora destinations, identify the receiving team and maintenance contact. Ask whether a permanent room or movable enclosure better suits the building’s expected use over time.",
+    "index": 41,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Guelph & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: A Guelph lactation-room brief should consider the people who will use the space throughout the day, including employees who do not work at a desk. Compare routes from work areas and clarify whether changing clothes or passing controlled doors affects practical access. For Puslinch, Guelph/Eramosa, Fergus and Elora destinations, identify the receiving team and maintenance contact. Ask whether a permanent room or movable enclosure better suits the building’s expected use over time.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-guelph",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Guelph et les environs",
+    "brief": "Un descriptif de salle d’allaitement à Guelph doit considérer tous les usagers, y compris le personnel sans poste de bureau. Comparez les parcours depuis les zones de travail et précisez si un changement de tenue ou des portes contrôlées compliquent l’accès. Pour Puslinch, Guelph/Eramosa, Fergus et Elora, identifiez la réception et le responsable de l’entretien. Évaluez si une salle permanente ou une cabine déplaçable convient mieux à l’utilisation future du bâtiment.",
+    "index": 41,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Guelph et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Un descriptif de salle d’allaitement à Guelph doit considérer tous les usagers, y compris le personnel sans poste de bureau. Comparez les parcours depuis les zones de travail et précisez si un changement de tenue ou des portes contrôlées compliquent l’accès. Pour Puslinch, Guelph/Eramosa, Fergus et Elora, identifiez la réception et le responsable de l’entretien. Évaluez si une salle permanente ou une cabine déplaçable convient mieux à l’utilisation future du bâtiment.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-london",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — London & surrounding communities",
+    "brief": "For a London nursing-space program serving both a workplace and public-facing departments, define user groups before choosing finishes. A private staff room and a visitor-accessible breastfeeding space can share comfort goals while needing different access and assistance arrangements. Keep St. Thomas, Strathroy and Middlesex Centre locations distinct in the site schedule. Review whether room booking, cleaning and furniture maintenance can be managed locally or need a shared process across the organization.",
+    "index": 42,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — London & surrounding communities. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: For a London nursing-space program serving both a workplace and public-facing departments, define user groups before choosing finishes. A private staff room and a visitor-accessible breastfeeding space can share comfort goals while needing different access and assistance arrangements. Keep St. Thomas, Strathroy and Middlesex Centre locations distinct in the site schedule. Review whether room booking, cleaning and furniture maintenance can be managed locally or need a shared process across the organization.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-london",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — London et les environs",
+    "brief": "Pour un programme à London visant le personnel et des services publics, définissez les usagers avant les finis. Une salle privée pour le personnel et un espace d’allaitement pour visiteurs peuvent viser le même confort avec des accès et une assistance différents. Distinguez les lieux de St. Thomas, Strathroy et Middlesex Centre dans l’échéancier. Déterminez si la réservation, le nettoyage et l’entretien du mobilier sont gérés localement ou par un processus commun.",
+    "index": 42,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — London et les environs. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: Pour un programme à London visant le personnel et des services publics, définissez les usagers avant les finis. Une salle privée pour le personnel et un espace d’allaitement pour visiteurs peuvent viser le même confort avec des accès et une assistance différents. Distinguez les lieux de St. Thomas, Strathroy et Middlesex Centre dans l’échéancier. Déterminez si la réservation, le nettoyage et l’entretien du mobilier sont gérés localement ou par un processus commun.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-windsor",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Windsor & Essex County",
+    "brief": "A Windsor lactation-space project in a shift-based organization should review the entire working day. Record who unlocks the room, how staff on later shifts obtain assistance and whether the proposed location remains quiet when adjacent operations are active. For Tecumseh, LaSalle, Lakeshore and Amherstburg sites, compare access conditions separately. Distinguish enclosure supply from any electrical assessment, preparation work or assembly, and assign an owner to each task before scheduling delivery.",
+    "index": 43,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Windsor & Essex County. dedicated private room with sage upholstered chair and limestone walls in a shopping centre family lounge. Planning relevance: A Windsor lactation-space project in a shift-based organization should review the entire working day. Record who unlocks the room, how staff on later shifts obtain assistance and whether the proposed location remains quiet when adjacent operations are active. For Tecumseh, LaSalle, Lakeshore and Amherstburg sites, compare access conditions separately. Distinguish enclosure supply from any electrical assessment, preparation work or assembly, and assign an owner to each task before scheduling delivery.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-windsor",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Windsor et le comté d’Essex",
+    "brief": "Un projet d’espace d’allaitement à Windsor dans une organisation à quarts doit couvrir toute la journée. Précisez le déverrouillage, l’assistance aux quarts tardifs et le calme de l’emplacement quand les activités voisines se poursuivent. Pour Tecumseh, LaSalle, Lakeshore et Amherstburg, comparez les accès séparément. Distinguez la cabine de l’évaluation électrique, des préparatifs et de l’assemblage; attribuez chaque tâche avant de fixer la livraison.",
+    "index": 43,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Windsor et le comté d’Essex. enclosed private booth with cork exterior and dark bronze solid door in a clean industrial employee amenity zone. Planning relevance: Un projet d’espace d’allaitement à Windsor dans une organisation à quarts doit couvrir toute la journée. Précisez le déverrouillage, l’assistance aux quarts tardifs et le calme de l’emplacement quand les activités voisines se poursuivent. Pour Tecumseh, LaSalle, Lakeshore et Amherstburg, comparez les accès séparément. Distinguez la cabine de l’évaluation électrique, des préparatifs et de l’assemblage; attribuez chaque tâche avant de fixer la livraison.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-barrie",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Barrie & surrounding communities",
+    "brief": "For a Barrie workplace expecting changes to its floor plan, compare the nursing space’s current position with likely future layouts. A movable option still needs a reviewed destination, suitable services and a plan for keeping the space available during relocation. List Innisfil, Springwater and Orillia buildings individually in regional inquiries. Ask who manages furniture moves, whether routes remain usable and how users are informed when a room’s location or access instructions change.",
+    "index": 44,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Barrie & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a community recreation building. Planning relevance: For a Barrie workplace expecting changes to its floor plan, compare the nursing space’s current position with likely future layouts. A movable option still needs a reviewed destination, suitable services and a plan for keeping the space available during relocation. List Innisfil, Springwater and Orillia buildings individually in regional inquiries. Ask who manages furniture moves, whether routes remain usable and how users are informed when a room’s location or access instructions change.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-barrie",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Barrie et les environs",
+    "brief": "Pour un milieu de travail de Barrie dont le plan peut évoluer, comparez l’emplacement actuel aux aménagements futurs. Une option mobile exige tout de même une destination évaluée, des services adaptés et un plan de continuité pendant son déplacement. Listez séparément les bâtiments d’Innisfil, Springwater et Orillia. Précisez la gestion des déplacements, l’état des parcours et l’information aux usagers lors d’un changement d’emplacement ou de consignes.",
+    "index": 44,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Barrie et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a college student services wing. Planning relevance: Pour un milieu de travail de Barrie dont le plan peut évoluer, comparez l’emplacement actuel aux aménagements futurs. Une option mobile exige tout de même une destination évaluée, des services adaptés et un plan de continuité pendant son déplacement. Listez séparément les bâtiments d’Innisfil, Springwater et Orillia. Précisez la gestion des déplacements, l’état des parcours et l’information aux usagers lors d’un changement d’emplacement ou de consignes.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-greater-sudbury",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Greater Sudbury",
+    "brief": "For a Greater Sudbury nursing-space program across several workplace sites, prioritize reliable access at each building rather than a single shared address. Identify where employees begin and end shifts and whether reaching a central room requires leaving their regular work site. Prepare separate receiving details for Val Caron, Chelmsford and Lively. Decide who checks the room each day, where replacement furnishings can be stored and how maintenance questions reach the correct facilities contact.",
+    "index": 45,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Greater Sudbury. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: For a Greater Sudbury nursing-space program across several workplace sites, prioritize reliable access at each building rather than a single shared address. Identify where employees begin and end shifts and whether reaching a central room requires leaving their regular work site. Prepare separate receiving details for Val Caron, Chelmsford and Lively. Decide who checks the room each day, where replacement furnishings can be stored and how maintenance questions reach the correct facilities contact.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-greater-sudbury",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Grand Sudbury",
+    "brief": "Pour un programme dans plusieurs lieux du Grand Sudbury, privilégiez l’accès fiable dans chaque bâtiment plutôt qu’une seule adresse commune. Identifiez le début et la fin des quarts et vérifiez si une salle centrale oblige à quitter le site habituel. Préparez des détails de réception distincts pour Val Caron, Chelmsford et Lively. Désignez l’inspection quotidienne, le rangement du mobilier de remplacement et le contact des installations pour les questions d’entretien.",
+    "index": 45,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Grand Sudbury. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: Pour un programme dans plusieurs lieux du Grand Sudbury, privilégiez l’accès fiable dans chaque bâtiment plutôt qu’une seule adresse commune. Identifiez le début et la fin des quarts et vérifiez si une salle centrale oblige à quitter le site habituel. Préparez des détails de réception distincts pour Val Caron, Chelmsford et Lively. Désignez l’inspection quotidienne, le rangement du mobilier de remplacement et le contact des installations pour les questions d’entretien.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-thunder-bay",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Thunder Bay & surrounding communities",
+    "brief": "For a Thunder Bay lactation-room project, coordinate receiving and room readiness before confirming an opening date. Document whether equipment can be held securely if the room is not ready, and identify the team responsible for checking it on arrival. For Oliver Paipoonge or Shuniah facilities, include the exact destination and unloading conditions. Compare furnished-room and pod approaches using the same list of access, maintenance and operating responsibilities rather than transport alone.",
+    "index": 46,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Thunder Bay & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: For a Thunder Bay lactation-room project, coordinate receiving and room readiness before confirming an opening date. Document whether equipment can be held securely if the room is not ready, and identify the team responsible for checking it on arrival. For Oliver Paipoonge or Shuniah facilities, include the exact destination and unloading conditions. Compare furnished-room and pod approaches using the same list of access, maintenance and operating responsibilities rather than transport alone.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-thunder-bay",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Thunder Bay et les environs",
+    "brief": "Pour un projet de salle d’allaitement à Thunder Bay, coordonnez la réception et la préparation avant de fixer l’ouverture. Précisez le rangement sécurisé si la pièce n’est pas prête et l’équipe chargée de vérifier l’équipement à l’arrivée. Pour Oliver Paipoonge ou Shuniah, indiquez la destination exacte et le déchargement. Comparez salle meublée et cabine selon les mêmes responsabilités d’accès, d’entretien et d’exploitation, au-delà du transport.",
+    "index": 46,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Thunder Bay et les environs. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: Pour un projet de salle d’allaitement à Thunder Bay, coordonnez la réception et la préparation avant de fixer l’ouverture. Précisez le rangement sécurisé si la pièce n’est pas prête et l’équipe chargée de vérifier l’équipement à l’arrivée. Pour Oliver Paipoonge ou Shuniah, indiquez la destination exacte et le déchargement. Comparez salle meublée et cabine selon les mêmes responsabilités d’accès, d’entretien et d’exploitation, au-delà du transport.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-regina",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Regina & surrounding communities",
+    "brief": "A Regina nursing pod or lactation room should be evaluated against the building’s daily operating pattern. For an administrative workplace, clarify whether employees need private bookings, walk-in access or both, and how the room remains available when meeting space is scarce. For White City, Emerald Park and Pilot Butte projects, record the receiving site separately from the purchaser. Compare lighting, power and ventilation review needs, and agree which responsibilities remain with the building operator.",
+    "index": 47,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Regina & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: A Regina nursing pod or lactation room should be evaluated against the building’s daily operating pattern. For an administrative workplace, clarify whether employees need private bookings, walk-in access or both, and how the room remains available when meeting space is scarce. For White City, Emerald Park and Pilot Butte projects, record the receiving site separately from the purchaser. Compare lighting, power and ventilation review needs, and agree which responsibilities remain with the building operator.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-regina",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Regina et les environs",
+    "brief": "Une cabine ou salle d’allaitement à Regina doit correspondre au fonctionnement quotidien. Dans un bâtiment administratif, précisez la réservation privée, l’accès libre ou leur combinaison, puis la disponibilité quand les salles de réunion manquent. Pour White City, Emerald Park et Pilot Butte, distinguez le lieu de réception de l’acheteur. Comparez les besoins d’examen de l’éclairage, des prises et de la ventilation; convenez des responsabilités de l’exploitant.",
+    "index": 47,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Regina et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Une cabine ou salle d’allaitement à Regina doit correspondre au fonctionnement quotidien. Dans un bâtiment administratif, précisez la réservation privée, l’accès libre ou leur combinaison, puis la disponibilité quand les salles de réunion manquent. Pour White City, Emerald Park et Pilot Butte, distinguez le lieu de réception de l’acheteur. Comparez les besoins d’examen de l’éclairage, des prises et de la ventilation; convenez des responsabilités de l’exploitant.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-saskatoon",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Saskatoon & surrounding communities",
+    "brief": "For a Saskatoon campus or multi-building employer, map who can use each nursing space during ordinary and extended hours. A centrally located room may be easy to maintain but less convenient for people working in another building or behind controlled access. Consider Martensville, Warman and Corman Park facilities separately when discussing a regional program. Compare one shared room with several smaller spaces, including cleaning ownership, occupancy information and the route from each work area.",
+    "index": 48,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Saskatoon & surrounding communities. angular oak-clad freestanding booth with opaque teal door in a clean industrial employee amenity zone. Planning relevance: For a Saskatoon campus or multi-building employer, map who can use each nursing space during ordinary and extended hours. A centrally located room may be easy to maintain but less convenient for people working in another building or behind controlled access. Consider Martensville, Warman and Corman Park facilities separately when discussing a regional program. Compare one shared room with several smaller spaces, including cleaning ownership, occupancy information and the route from each work area.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-saskatoon",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Saskatoon et les environs",
+    "brief": "Pour un campus ou employeur multisite à Saskatoon, déterminez qui utilise chaque espace pendant les heures normales et prolongées. Une salle centrale peut être simple à entretenir, mais moins pratique pour un autre bâtiment ou une zone contrôlée. Évaluez séparément les établissements de Martensville, Warman et Corman Park. Comparez une salle commune à plusieurs espaces, en précisant le nettoyage, l’indication d’occupation et les parcours depuis les zones de travail.",
+    "index": 48,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Saskatoon et les environs. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: Pour un campus ou employeur multisite à Saskatoon, déterminez qui utilise chaque espace pendant les heures normales et prolongées. Une salle centrale peut être simple à entretenir, mais moins pratique pour un autre bâtiment ou une zone contrôlée. Évaluez séparément les établissements de Martensville, Warman et Corman Park. Comparez une salle commune à plusieurs espaces, en précisant le nettoyage, l’indication d’occupation et les parcours depuis les zones de travail.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-lethbridge",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Lethbridge & surrounding communities",
+    "brief": "A Lethbridge lactation-space brief should distinguish a room’s intended users from the team funding the project. If staff and visitors both need access, compare a shared private room with separate access arrangements before selecting furniture or an enclosure. For Coaldale, Coalhurst or Picture Butte sites, prepare a receiving checklist and identify who will manage the room after handover. Ask whether existing services suit the intended use and which changes require a qualified local review.",
+    "index": 49,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Lethbridge & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: A Lethbridge lactation-space brief should distinguish a room’s intended users from the team funding the project. If staff and visitors both need access, compare a shared private room with separate access arrangements before selecting furniture or an enclosure. For Coaldale, Coalhurst or Picture Butte sites, prepare a receiving checklist and identify who will manage the room after handover. Ask whether existing services suit the intended use and which changes require a qualified local review.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-lethbridge",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Lethbridge et les environs",
+    "brief": "Un descriptif d’espace d’allaitement à Lethbridge doit distinguer les usagers de l’équipe qui finance le projet. Si personnel et visiteurs ont besoin d’accès, comparez une salle privée commune à des accès distincts avant le choix du mobilier. Pour Coaldale, Coalhurst ou Picture Butte, préparez la réception et identifiez la gestion après remise. Vérifiez si les services existants conviennent à l’usage et quelles modifications exigent un examen local qualifié.",
+    "index": 49,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Lethbridge et les environs. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Un descriptif d’espace d’allaitement à Lethbridge doit distinguer les usagers de l’équipe qui finance le projet. Si personnel et visiteurs ont besoin d’accès, comparez une salle privée commune à des accès distincts avant le choix du mobilier. Pour Coaldale, Coalhurst ou Picture Butte, préparez la réception et identifiez la gestion après remise. Vérifiez si les services existants conviennent à l’usage et quelles modifications exigent un examen local qualifié.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-red-deer",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Red Deer & surrounding communities",
+    "brief": "For a Red Deer organization coordinating several workplace locations, a shared nursing-space specification should still allow for different rooms. Compare doorways, storage needs and employee routes before assuming that one enclosure layout can be repeated across the program. List Blackfalds, Lacombe and Sylvan Lake destinations separately. Establish a site sign-off for each proposed placement and separate delivery dates from the date a room is checked, cleaned and made available to users.",
+    "index": 50,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Red Deer & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: For a Red Deer organization coordinating several workplace locations, a shared nursing-space specification should still allow for different rooms. Compare doorways, storage needs and employee routes before assuming that one enclosure layout can be repeated across the program. List Blackfalds, Lacombe and Sylvan Lake destinations separately. Establish a site sign-off for each proposed placement and separate delivery dates from the date a room is checked, cleaned and made available to users.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-red-deer",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Red Deer et les environs",
+    "brief": "Pour une organisation de Red Deer coordonnant plusieurs lieux, une description commune doit permettre des pièces différentes. Comparez les portes, le rangement et les parcours du personnel avant de reproduire le même aménagement partout. Listez séparément Blackfalds, Lacombe et Sylvan Lake. Prévoyez une validation de chaque emplacement et distinguez la livraison de la date où la salle est vérifiée, nettoyée et mise à disposition.",
+    "index": 50,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Red Deer et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Pour une organisation de Red Deer coordonnant plusieurs lieux, une description commune doit permettre des pièces différentes. Comparez les portes, le rangement et les parcours du personnel avant de reproduire le même aménagement partout. Listez séparément Blackfalds, Lacombe et Sylvan Lake. Prévoyez une validation de chaque emplacement et distinguez la livraison de la date où la salle est vérifiée, nettoyée et mise à disposition.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-kelowna",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Kelowna & the Central Okanagan",
+    "brief": "A Kelowna nursing-room project for a visitor-facing property needs a clear handover between reception and facilities staff. Decide how users find the room, who responds if it needs attention and whether employee access must remain available during busy visitor periods. For West Kelowna, Lake Country and Peachland sites, document each building’s access and opening hours. Compare a permanent room with temporary event requirements, and confirm any rental or installation scope for the actual address.",
+    "index": 51,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Kelowna & the Central Okanagan. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: A Kelowna nursing-room project for a visitor-facing property needs a clear handover between reception and facilities staff. Decide how users find the room, who responds if it needs attention and whether employee access must remain available during busy visitor periods. For West Kelowna, Lake Country and Peachland sites, document each building’s access and opening hours. Compare a permanent room with temporary event requirements, and confirm any rental or installation scope for the actual address.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-kelowna",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Kelowna et l’Okanagan central",
+    "brief": "Un projet de salle d’allaitement à Kelowna dans un lieu d’accueil exige une relève claire entre réception et installations. Précisez l’orientation, l’assistance et la disponibilité pour le personnel durant les périodes achalandées. Pour West Kelowna, Lake Country et Peachland, documentez chaque accès et horaire. Comparez la salle permanente aux besoins événementiels et confirmez la portée de location ou d’installation selon l’adresse réelle.",
+    "index": 51,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Kelowna et l’Okanagan central. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: Un projet de salle d’allaitement à Kelowna dans un lieu d’accueil exige une relève claire entre réception et installations. Précisez l’orientation, l’assistance et la disponibilité pour le personnel durant les périodes achalandées. Pour West Kelowna, Lake Country et Peachland, documentez chaque accès et horaire. Comparez la salle permanente aux besoins événementiels et confirmez la portée de location ou d’installation selon l’adresse réelle.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-kamloops",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Kamloops & surrounding communities",
+    "brief": "For a Kamloops workplace or campus, evaluate the distance between the proposed lactation room and the people using it. A room with comfortable furniture can still be impractical if it requires a long trip, an escort or access through another team’s workspace. Include Rayleigh, Barnhartvale or Sun Peaks destinations precisely in the brief. Review the route for delivery separately from everyday user access and confirm who will oversee assembly, cleaning and the room’s operating instructions.",
+    "index": 52,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Kamloops & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a shopping centre family lounge. Planning relevance: For a Kamloops workplace or campus, evaluate the distance between the proposed lactation room and the people using it. A room with comfortable furniture can still be impractical if it requires a long trip, an escort or access through another team’s workspace. Include Rayleigh, Barnhartvale or Sun Peaks destinations precisely in the brief. Review the route for delivery separately from everyday user access and confirm who will oversee assembly, cleaning and the room’s operating instructions.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-kamloops",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Kamloops et les environs",
+    "brief": "Pour un milieu de travail ou campus à Kamloops, évaluez la distance entre la salle et les usagers. Un mobilier confortable ne suffit pas si le trajet est long, exige un accompagnement ou traverse l’espace d’une autre équipe. Précisez les destinations de Rayleigh, Barnhartvale ou Sun Peaks. Examinez la livraison séparément de l’accès quotidien et désignez la supervision de l’assemblage, du nettoyage et des consignes d’utilisation.",
+    "index": 52,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Kamloops et les environs. enclosed private booth with cork exterior and dark bronze solid door in a clean industrial employee amenity zone. Planning relevance: Pour un milieu de travail ou campus à Kamloops, évaluez la distance entre la salle et les usagers. Un mobilier confortable ne suffit pas si le trajet est long, exige un accompagnement ou traverse l’espace d’une autre équipe. Précisez les destinations de Rayleigh, Barnhartvale ou Sun Peaks. Examinez la livraison séparément de l’accès quotidien et désignez la supervision de l’assemblage, du nettoyage et des consignes d’utilisation.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-chilliwack",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Chilliwack & surrounding communities",
+    "brief": "For a Chilliwack nursing-space project, compare the practical implications of reassigning a room with adding a pod. Reassignment may require an agreed dedicated use; a pod instead needs a checked footprint, delivery route and access to suitable building services. For Sardis, Agassiz or Harrison Hot Springs projects, identify the exact site and the operating team. Clarify whether the space serves staff, guests or both, and document cleaning and assistance arrangements for each user group.",
+    "index": 53,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Chilliwack & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a community recreation building. Planning relevance: For a Chilliwack nursing-space project, compare the practical implications of reassigning a room with adding a pod. Reassignment may require an agreed dedicated use; a pod instead needs a checked footprint, delivery route and access to suitable building services. For Sardis, Agassiz or Harrison Hot Springs projects, identify the exact site and the operating team. Clarify whether the space serves staff, guests or both, and document cleaning and assistance arrangements for each user group.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-chilliwack",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Chilliwack et les environs",
+    "brief": "Pour un projet à Chilliwack, comparez la réaffectation d’une pièce à l’ajout d’une cabine. La pièce peut exiger un usage dédié convenu; la cabine nécessite un emplacement, une livraison et des services du bâtiment évalués. Pour Sardis, Agassiz ou Harrison Hot Springs, identifiez le site et l’équipe. Précisez si l’espace sert le personnel, les invités ou les deux, puis les modalités de nettoyage et d’assistance de chaque groupe.",
+    "index": 53,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Chilliwack et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a college student services wing. Planning relevance: Pour un projet à Chilliwack, comparez la réaffectation d’une pièce à l’ajout d’une cabine. La pièce peut exiger un usage dédié convenu; la cabine nécessite un emplacement, une livraison et des services du bâtiment évalués. Pour Sardis, Agassiz ou Harrison Hot Springs, identifiez le site et l’équipe. Précisez si l’espace sert le personnel, les invités ou les deux, puis les modalités de nettoyage et d’assistance de chaque groupe.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-abbotsford-mission",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Abbotsford & Mission",
+    "brief": "For an Abbotsford–Mission nursing-room program, keep the requirements of each receiving building visible in the proposal. A common finish selection can simplify purchasing, but circulation, privacy and room services still need to be checked at each site. If the scope includes Matsqui or Aldergrove, identify the municipality and actual address rather than relying on a regional label. Review whether staff need access outside office hours and how the room is handed over between shifts.",
+    "index": 54,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Abbotsford & Mission. angular oak-clad freestanding booth with opaque teal door in a university study atrium. Planning relevance: For an Abbotsford–Mission nursing-room program, keep the requirements of each receiving building visible in the proposal. A common finish selection can simplify purchasing, but circulation, privacy and room services still need to be checked at each site. If the scope includes Matsqui or Aldergrove, identify the municipality and actual address rather than relying on a regional label. Review whether staff need access outside office hours and how the room is handed over between shifts.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-abbotsford-mission",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Abbotsford et Mission",
+    "brief": "Pour un programme de salles d’allaitement à Abbotsford–Mission, gardez visibles les exigences de chaque bâtiment. Des finis communs peuvent simplifier l’achat, mais la circulation, l’intimité et les services doivent être vérifiés sur chaque site. Si le projet comprend Matsqui ou Aldergrove, précisez la municipalité et l’adresse réelle. Vérifiez l’accès hors des heures de bureau et la relève de la salle entre les quarts de travail.",
+    "index": 54,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Abbotsford et Mission. rounded ivory nursing cabin with inset solid maple door in a quiet corporate office mezzanine. Planning relevance: Pour un programme de salles d’allaitement à Abbotsford–Mission, gardez visibles les exigences de chaque bâtiment. Des finis communs peuvent simplifier l’achat, mais la circulation, l’intimité et les services doivent être vérifiés sur chaque site. Si le projet comprend Matsqui ou Aldergrove, précisez la municipalité et l’adresse réelle. Vérifiez l’accès hors des heures de bureau et la relève de la salle entre les quarts de travail.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-victoria",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Victoria & the Capital Region",
+    "brief": "For a Victoria nursing-space project in an existing office or public building, compare the proposed room with its surrounding circulation. Identify whether a visitor can reach it independently and whether privacy depends on changes to the door, glazing or room use. List Saanich, Langford, Colwood, Esquimalt, Oak Bay and Sidney sites separately in a regional program. Coordinate receiving arrangements and any onward transport with the actual destination, then confirm who signs off on room readiness.",
+    "index": 55,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Victoria & the Capital Region. dedicated private room with sage upholstered chair and limestone walls in a public library family amenity corridor. Planning relevance: For a Victoria nursing-space project in an existing office or public building, compare the proposed room with its surrounding circulation. Identify whether a visitor can reach it independently and whether privacy depends on changes to the door, glazing or room use. List Saanich, Langford, Colwood, Esquimalt, Oak Bay and Sidney sites separately in a regional program. Coordinate receiving arrangements and any onward transport with the actual destination, then confirm who signs off on room readiness.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-victoria",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Victoria et la région de la capitale",
+    "brief": "Pour un projet à Victoria dans un bureau ou bâtiment public existant, comparez la salle aux circulations voisines. Vérifiez l’accès autonome des visiteurs et les changements de porte, de vitrage ou d’usage nécessaires à l’intimité. Distinguez Saanich, Langford, Colwood, Esquimalt, Oak Bay et Sidney. Coordonnez la réception et le transport jusqu’à la destination réelle, puis confirmez qui valide la préparation de la salle.",
+    "index": 55,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Victoria et la région de la capitale. enclosed private booth with cork exterior and dark bronze solid door in a municipal administrative building. Planning relevance: Pour un projet à Victoria dans un bureau ou bâtiment public existant, comparez la salle aux circulations voisines. Vérifiez l’accès autonome des visiteurs et les changements de porte, de vitrage ou d’usage nécessaires à l’intimité. Distinguez Saanich, Langford, Colwood, Esquimalt, Oak Bay et Sidney. Coordonnez la réception et le transport jusqu’à la destination réelle, puis confirmez qui valide la préparation de la salle.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-nanaimo",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Nanaimo & surrounding communities",
+    "brief": "For a Nanaimo lactation room or nursing pod, make receiving and installation separate items in the project schedule. A shipment reaching the property does not by itself confirm that it can be moved through the building or that the chosen room is ready. For Lantzville, Parksville and Ladysmith destinations, confirm the final delivery address and the person receiving the equipment. Compare storage, unpacking and assembly needs, then establish a check of privacy and user access before opening the space.",
+    "index": 56,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Nanaimo & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a hospital staff welfare area. Planning relevance: For a Nanaimo lactation room or nursing pod, make receiving and installation separate items in the project schedule. A shipment reaching the property does not by itself confirm that it can be moved through the building or that the chosen room is ready. For Lantzville, Parksville and Ladysmith destinations, confirm the final delivery address and the person receiving the equipment. Compare storage, unpacking and assembly needs, then establish a check of privacy and user access before opening the space.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-nanaimo",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Nanaimo et les environs",
+    "brief": "Pour une salle ou cabine d’allaitement à Nanaimo, séparez réception et installation dans l’échéancier. L’arrivée à la propriété ne confirme ni le passage dans le bâtiment ni la préparation de la pièce choisie. Pour Lantzville, Parksville et Ladysmith, confirmez l’adresse finale et la personne qui reçoit. Comparez le rangement, le déballage et l’assemblage, puis prévoyez une vérification de l’intimité et de l’accès avant l’ouverture.",
+    "index": 56,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Nanaimo et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a shopping centre family lounge. Planning relevance: Pour une salle ou cabine d’allaitement à Nanaimo, séparez réception et installation dans l’échéancier. L’arrivée à la propriété ne confirme ni le passage dans le bâtiment ni la préparation de la pièce choisie. Pour Lantzville, Parksville et Ladysmith, confirmez l’adresse finale et la personne qui reçoit. Comparez le rangement, le déballage et l’assemblage, puis prévoyez une vérification de l’intimité et de l’accès avant l’ouverture.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-charlottetown",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Charlottetown & surrounding communities",
+    "brief": "For a Charlottetown nursing-space project, consider both the daily workplace use and any visitor-facing schedule. A room that supports staff throughout the year may need different access instructions when the building hosts events or receives additional guests. For Stratford and Cornwall sites, prepare individual room and receiving details. Agree on furnishings, cleaning responsibility and signage before delivery, and keep temporary event requirements distinct from the permanent workplace arrangement.",
+    "index": 57,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Charlottetown & surrounding communities. angular oak-clad freestanding booth with opaque teal door in a clean industrial employee amenity zone. Planning relevance: For a Charlottetown nursing-space project, consider both the daily workplace use and any visitor-facing schedule. A room that supports staff throughout the year may need different access instructions when the building hosts events or receives additional guests. For Stratford and Cornwall sites, prepare individual room and receiving details. Agree on furnishings, cleaning responsibility and signage before delivery, and keep temporary event requirements distinct from the permanent workplace arrangement.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-charlottetown",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Charlottetown et les environs",
+    "brief": "Pour un projet à Charlottetown, considérez l’usage quotidien du personnel et l’horaire d’accueil. Une salle utilisée toute l’année peut nécessiter des consignes différentes lorsque le bâtiment accueille des événements ou davantage de visiteurs. Pour Stratford et Cornwall, préparez les détails propres à chaque pièce et réception. Convenez du mobilier, du nettoyage et de la signalisation avant livraison; distinguez les besoins événementiels de l’aménagement permanent.",
+    "index": 57,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Charlottetown et les environs. rounded ivory nursing cabin with inset solid maple door in a community recreation building. Planning relevance: Pour un projet à Charlottetown, considérez l’usage quotidien du personnel et l’horaire d’accueil. Une salle utilisée toute l’année peut nécessiter des consignes différentes lorsque le bâtiment accueille des événements ou davantage de visiteurs. Pour Stratford et Cornwall, préparez les détails propres à chaque pièce et réception. Convenez du mobilier, du nettoyage et de la signalisation avant livraison; distinguez les besoins événementiels de l’aménagement permanent.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-whitehorse",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Whitehorse & surrounding communities",
+    "brief": "A Whitehorse nursing-room brief should include a practical receiving and maintenance plan from the start. Compare the selected enclosure or furnishings with the building’s access route and identify how missing components or later service questions will be handled. For Marsh Lake or Mount Lorne destinations, confirm transport and local work for the actual address before setting dates. Consider a room fit-out alongside a pod, documenting which services already exist and which preparations remain necessary.",
+    "index": 58,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Whitehorse & surrounding communities. dedicated private room with sage upholstered chair and limestone walls in a college student services wing. Planning relevance: A Whitehorse nursing-room brief should include a practical receiving and maintenance plan from the start. Compare the selected enclosure or furnishings with the building’s access route and identify how missing components or later service questions will be handled. For Marsh Lake or Mount Lorne destinations, confirm transport and local work for the actual address before setting dates. Consider a room fit-out alongside a pod, documenting which services already exist and which preparations remain necessary.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-whitehorse",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Whitehorse et les environs",
+    "brief": "Un descriptif de salle d’allaitement à Whitehorse doit comprendre la réception et l’entretien dès le départ. Comparez la cabine ou le mobilier au parcours du bâtiment et précisez la gestion des composants manquants ou des demandes de service ultérieures. Pour Marsh Lake ou Mount Lorne, confirmez le transport et les travaux locaux selon l’adresse avant de fixer les dates. Comparez pièce aménagée et cabine en documentant les services existants et les préparatifs nécessaires.",
+    "index": 58,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Whitehorse et les environs. enclosed private booth with cork exterior and dark bronze solid door in a university study atrium. Planning relevance: Un descriptif de salle d’allaitement à Whitehorse doit comprendre la réception et l’entretien dès le départ. Comparez la cabine ou le mobilier au parcours du bâtiment et précisez la gestion des composants manquants ou des demandes de service ultérieures. Pour Marsh Lake ou Mount Lorne, confirmez le transport et les travaux locaux selon l’adresse avant de fixer les dates. Comparez pièce aménagée et cabine en documentant les services existants et les préparatifs nécessaires.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-yellowknife",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Yellowknife & surrounding communities",
+    "brief": "For a Yellowknife nursing-space project, bring the receiving team and room operator into the same planning discussion. Review how equipment reaches the final room, where it can be inspected and who will manage the space after the installation team leaves. For Ndilǫ or Dettah sites, confirm arrangements directly for the destination rather than assuming a city-wide scope. Include cleaning, replacement furnishings and access instructions in the handover, and assess availability before committing to timing.",
+    "index": 59,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Yellowknife & surrounding communities. quiet lactation room with curved privacy vestibule and pale ash furniture in a quiet corporate office mezzanine. Planning relevance: For a Yellowknife nursing-space project, bring the receiving team and room operator into the same planning discussion. Review how equipment reaches the final room, where it can be inspected and who will manage the space after the installation team leaves. For Ndilǫ or Dettah sites, confirm arrangements directly for the destination rather than assuming a city-wide scope. Include cleaning, replacement furnishings and access instructions in the handover, and assess availability before committing to timing.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-yellowknife",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Yellowknife et les environs",
+    "brief": "Pour un projet à Yellowknife, réunissez la réception et la gestion de la salle dans la même discussion. Examinez l’acheminement, le lieu d’inspection et la responsabilité de l’espace après le départ de l’équipe d’installation. Pour les sites de Ndilǫ ou Dettah, confirmez les modalités propres à la destination. Incluez le nettoyage, le mobilier de remplacement et les consignes dans la remise; évaluez la disponibilité avant de fixer l’échéancier.",
+    "index": 59,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Yellowknife et les environs. rectangular private nursing cabin with matte sage panelled walls and opaque cream door in a public library family amenity corridor. Planning relevance: Pour un projet à Yellowknife, réunissez la réception et la gestion de la salle dans la même discussion. Examinez l’acheminement, le lieu d’inspection et la responsabilité de l’espace après le départ de l’équipe d’installation. Pour les sites de Ndilǫ ou Dettah, confirmez les modalités propres à la destination. Incluez le nettoyage, le mobilier de remplacement et les consignes dans la remise; évaluez la disponibilité avant de fixer l’échéancier.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-iqaluit",
+    "locale": "en",
+    "title": "Nursing Pods & Lactation Rooms — Iqaluit",
+    "brief": "For an Iqaluit nursing room or pod, define transport, receiving and assembly responsibilities before selecting an opening date. Compare the equipment dimensions with the actual building route and identify a protected place for inspection and temporary storage. If the facility is in Apex, state the precise site rather than a general Iqaluit destination. Ask how furnishings, maintenance information and replacement needs will be supported, and compare converting an existing room with bringing in a complete enclosure.",
+    "index": 60,
+    "scene": "Regional NursingPods.ca page Nursing Pods & Lactation Rooms — Iqaluit. angular oak-clad freestanding booth with opaque teal door in a municipal administrative building. Planning relevance: For an Iqaluit nursing room or pod, define transport, receiving and assembly responsibilities before selecting an opening date. Compare the equipment dimensions with the actual building route and identify a protected place for inspection and temporary storage. If the facility is in Apex, state the precise site rather than a general Iqaluit destination. Ask how furnishings, maintenance information and replacement needs will be supported, and compare converting an existing room with bringing in a complete enclosure.. Wide diagonal composition, daylight. No recognisable local landmarks."
+  },
+  {
+    "id": "metro-iqaluit",
+    "locale": "fr",
+    "title": "Cabines et salles d’allaitement — Iqaluit",
+    "brief": "Pour une salle ou cabine à Iqaluit, définissez le transport, la réception et l’assemblage avant la date d’ouverture. Comparez les dimensions de l’équipement au parcours réel et identifiez un lieu protégé pour l’inspection et le rangement temporaire. Si l’établissement se trouve à Apex, précisez le site plutôt qu’une destination générale à Iqaluit. Examinez le mobilier, l’entretien et le remplacement; comparez la conversion d’une pièce à l’arrivée d’une cabine complète.",
+    "index": 60,
+    "scene": "Regional NursingPods.ca page Cabines et salles d’allaitement — Iqaluit. rounded ivory nursing cabin with inset solid maple door in a hospital staff welfare area. Planning relevance: Pour une salle ou cabine à Iqaluit, définissez le transport, la réception et l’assemblage avant la date d’ouverture. Comparez les dimensions de l’équipement au parcours réel et identifiez un lieu protégé pour l’inspection et le rangement temporaire. Si l’établissement se trouve à Apex, précisez le site plutôt qu’une destination générale à Iqaluit. Examinez le mobilier, l’entretien et le remplacement; comparez la conversion d’une pièce à l’arrivée d’une cabine complète.. Intimate eye-level composition with layered depth and evening light. No recognisable local landmarks."
+  }
+]

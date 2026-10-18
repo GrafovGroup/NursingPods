@@ -1,8 +1,9 @@
 {
-  "scope": "Accessible images under /Users/grafov/Documents/ChatGPT",
-  "checked_images": 1866,
-  "near_duplicate_candidates": [],
-  "unreadable_images": [],
-  "limitations": "Remote sites and inventories outside the local sibling-project directory were not accessible or verified. Perceptual hashing screens candidates; it does not prove portfolio-wide uniqueness.",
-  "within_site_distance": 133
+  "date": "2026-10-18T16:13:51.405Z",
+  "scope": "Current NursingPods assets and accessible public/assets/static/images directories under the shared ChatGPT workspace; no claim for inaccessible or remote-only inventories.",
+  "currentImages": 185,
+  "otherImages": 1280,
+  "exact": [],
+  "similar": [],
+  "unreadable": []
 }

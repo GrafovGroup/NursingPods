@@ -1,3 +1,4 @@
+import { expandedMetroBriefs } from "./metro-expansion";
 import type { Localized, ContentSection } from "./catalogue/types";
 export type LocationEntry = {
   id: string;
@@ -431,6 +432,14 @@ const metros: MetroBrief[] = [
       "Richmond",
       "Coquitlam",
       "North Vancouver",
+      "West Vancouver",
+      "New Westminster",
+      "Port Coquitlam",
+      "Port Moody",
+      "Delta",
+      "Langley",
+      "White Rock",
+      "Maple Ridge",
     ],
     focus: {
       en: "For Metro Vancouver, identify the actual municipality and building rather than using Vancouver as a catch-all delivery location. A project involving Burnaby, Surrey or Richmond should record each receiving point and the facilities contact who can review placement. If a workplace has multiple floors or shared public areas, compare the user route with the equipment delivery route. Ask whether the proposed installation scope covers every listed building and which preparations remain the responsibility of the site team.",
@@ -454,7 +463,16 @@ const metros: MetroBrief[] = [
     province: "qc",
     slugs: { en: "montreal", fr: "montreal" },
     name: { en: "Montréal", fr: "Montréal" },
-    places: ["Montréal", "Saint-Laurent", "Dorval", "Pointe-Claire"],
+    places: [
+      "Montréal",
+      "Saint-Laurent",
+      "Dorval",
+      "Pointe-Claire",
+      "Dollard-des-Ormeaux",
+      "Kirkland",
+      "Terrebonne",
+      "Repentigny",
+    ],
     focus: {
       en: "For Montréal, identify the building entrance used for deliveries and the team responsible for access. If the proposed space is in a multi-tenant property, clarify which decisions belong to the tenant and which require the building operator. Prepare French instructions and handover requirements as part of the project brief rather than adding them after selection. A campus, terminal or office scenario should also identify its own users and operating hours so the room can be assessed in context.",
       fr: "À Montréal, précisez l’entrée utilisée pour les livraisons et l’équipe responsable de l’accès. Dans un immeuble à plusieurs locataires, distinguez les décisions du locataire de celles de l’exploitant. Intégrez les consignes et documents de remise en français au brief plutôt que de les ajouter après la sélection. Pour un campus, une aérogare ou un bureau, indiquez aussi les usagers et les heures d’exploitation afin d’évaluer la salle dans son contexte.",
@@ -477,7 +495,7 @@ const metros: MetroBrief[] = [
     province: "qc",
     slugs: { en: "laval", fr: "laval" },
     name: { en: "Laval", fr: "Laval" },
-    places: ["Laval"],
+    places: ["Laval", "Rosemère", "Boisbriand", "Blainville", "Sainte-Thérèse"],
     focus: {
       en: "For Laval, keep the project’s site address and operating contact distinct from any Montréal-based purchasing office. If the brief concerns a shopping centre, campus or workplace, specify whether the space is for staff, visitors or both. Record who can approve a common-area placement and how cleaning and assistance will be handled during opening hours. A room conversion and a freestanding enclosure should be compared against the same access and day-to-day management requirements before choosing a direction.",
       fr: "À Laval, distinguez l’adresse du site et son responsable d’un éventuel bureau d’achat à Montréal. Pour un centre commercial, un campus ou un milieu de travail, précisez si l’espace sert le personnel, les visiteurs ou les deux. Indiquez qui approuve un emplacement dans une aire commune et qui gère le nettoyage et l’assistance. Comparez l’aménagement d’une pièce et une cabine autonome selon les mêmes besoins d’accès et de gestion quotidienne.",
@@ -546,7 +564,7 @@ const metros: MetroBrief[] = [
     province: "ab",
     slugs: { en: "calgary", fr: "calgary" },
     name: { en: "Calgary", fr: "Calgary" },
-    places: ["Calgary", "Airdrie"],
+    places: ["Calgary", "Airdrie", "Cochrane", "Okotoks", "Chestermere"],
     focus: {
       en: "For a Calgary office project, compare the intended user route with loading and lift access before selecting a pod. If the space is in a leased office, identify the landlord’s role in approving placement and any work affecting building services. For a campus or event facility, replace office assumptions with the actual opening hours and visitor flow. A clear brief should separate the privacy-space requirement from any furniture, electrical or installation work that needs its own scope.",
       fr: "Pour un bureau à Calgary, comparez le trajet des usagers avec l’accès de livraison et d’ascenseur avant de choisir une cabine. Dans des locaux loués, précisez le rôle du propriétaire pour l’emplacement et les services du bâtiment. Pour un campus ou un lieu d’événement, utilisez les heures et parcours réels plutôt que les hypothèses d’un bureau. Distinguez le besoin d’espace privé du mobilier et des travaux électriques ou d’installation qui exigent leur propre portée.",
@@ -569,7 +587,16 @@ const metros: MetroBrief[] = [
     province: "ab",
     slugs: { en: "edmonton", fr: "edmonton" },
     name: { en: "Edmonton", fr: "Edmonton" },
-    places: ["Edmonton", "St. Albert", "Sherwood Park"],
+    places: [
+      "Edmonton",
+      "St. Albert",
+      "Sherwood Park",
+      "Spruce Grove",
+      "Stony Plain",
+      "Leduc",
+      "Fort Saskatchewan",
+      "Beaumont",
+    ],
     focus: {
       en: "For Edmonton-area facilities, identify whether the room is in an office, public building or controlled operational site. The access process and maintenance owner may differ even within the same organization. If the space must support several shifts, confirm how people reach it when reception or administrative areas are closed. Where the brief includes St. Albert or Sherwood Park, record those destinations explicitly and confirm the delivery and installation arrangements for each site rather than one regional assumption.",
       fr: "Pour les établissements de la région d’Edmonton, précisez s’il s’agit d’un bureau, d’un bâtiment public ou d’un site opérationnel contrôlé. L’accès et l’entretien peuvent varier au sein d’une même organisation. Si l’espace sert plusieurs quarts, confirmez le parcours lorsque la réception ou les bureaux sont fermés. Pour St. Albert ou Sherwood Park, indiquez explicitement la destination et confirmez la livraison et l’installation de chaque site.",
@@ -592,7 +619,14 @@ const metros: MetroBrief[] = [
     province: "mb",
     slugs: { en: "winnipeg", fr: "winnipeg" },
     name: { en: "Winnipeg", fr: "Winnipeg" },
-    places: ["Winnipeg"],
+    places: [
+      "Winnipeg",
+      "Headingley",
+      "East St. Paul",
+      "West St. Paul",
+      "Oakbank",
+      "Selkirk",
+    ],
     focus: {
       en: "For a Winnipeg multi-building workplace, begin by mapping where users spend their day and which rooms are realistically available. A central room may be convenient for one group but difficult for another to reach during a break. Review whether distributed rooms or a dedicated enclosure would better match the operating pattern. Ask the facilities team to confirm power, access and cleaning responsibilities, and identify who can receive a shipment if delivery occurs before the room is prepared.",
       fr: "Pour un milieu de travail à plusieurs bâtiments à Winnipeg, repérez les déplacements quotidiens et les pièces réellement disponibles. Une salle centrale peut convenir à un groupe et être difficile à atteindre pour un autre pendant une pause. Comparez des salles réparties à une enceinte dédiée selon le fonctionnement réel. Faites confirmer l’alimentation, l’accès et le nettoyage par les installations, puis désignez la personne qui reçoit l’équipement si la pièce n’est pas prête.",
@@ -615,7 +649,14 @@ const metros: MetroBrief[] = [
     province: "ns",
     slugs: { en: "halifax-dartmouth", fr: "halifax-dartmouth" },
     name: { en: "Halifax & Dartmouth", fr: "Halifax et Dartmouth" },
-    places: ["Halifax", "Dartmouth", "Bedford"],
+    places: [
+      "Halifax",
+      "Dartmouth",
+      "Bedford",
+      "Lower Sackville",
+      "Cole Harbour",
+      "Timberlea",
+    ],
     focus: {
       en: "For Halifax and Dartmouth, distinguish the site’s year-round needs from event or visitor peaks when describing the intended use. A workplace room, campus amenity and public visitor space need different access and assistance arrangements. If several buildings are included, identify the receiving entrance and operations contact for each. Ask whether a permanent fit-out or a temporary arrangement is being proposed and confirm the responsibilities for setup, routine cleaning and any later removal.",
       fr: "Pour Halifax et Dartmouth, distinguez les besoins réguliers des périodes d’événements ou d’achalandage dans votre description. Une salle au travail, sur un campus ou pour visiteurs exige des modalités d’accès et d’aide différentes. Pour plusieurs bâtiments, indiquez l’entrée de livraison et le contact de chacun. Vérifiez si la proposition vise un aménagement permanent ou temporaire, puis confirmez l’installation, le nettoyage courant et un éventuel retrait.",
@@ -638,7 +679,13 @@ const metros: MetroBrief[] = [
     province: "qc",
     slugs: { en: "quebec-city", fr: "ville-de-quebec" },
     name: { en: "Québec City", fr: "Ville de Québec" },
-    places: ["Québec", "Lévis"],
+    places: [
+      "Québec",
+      "Lévis",
+      "L’Ancienne-Lorette",
+      "Saint-Augustin-de-Desmaures",
+      "Beaupré",
+    ],
     focus: {
       en: "For Québec City, prepare the intended room use and French operating information together so both can be reviewed before selection. If the project also includes Lévis, keep the site addresses and delivery requirements separate. For an existing building, ask the responsible team to assess the actual route, room services and any restrictions before assuming a particular enclosure fits. Identify the people who will approve the proposal, oversee work on site and manage the space after handover.",
       fr: "À Québec, préparez ensemble l’usage prévu et les consignes en français pour les examiner avant la sélection. Si le projet comprend Lévis, distinguez les adresses et les exigences de livraison. Dans un bâtiment existant, faites évaluer le parcours, les services de la pièce et les restrictions avant de présumer qu’une cabine convient. Identifiez les personnes qui approuvent la proposition, supervisent les travaux et gèrent l’espace après la remise.",
@@ -657,6 +704,36 @@ const metros: MetroBrief[] = [
     },
   },
 ];
+const frenchMetroSlugs: Record<string, string> = {
+  "greater-sudbury": "grand-sudbury",
+  "waterloo-region": "region-waterloo",
+  "oshawa-durham": "oshawa-region-durham",
+  "belleville-quinte-west": "belleville-quinte-ouest",
+};
+for (const m of expandedMetroBriefs)
+  metros.push({
+    id: m.id,
+    province: m.province,
+    slugs: { en: m.id, fr: frenchMetroSlugs[m.id] || m.id },
+    name: m.name,
+    places: m.places,
+    focus: {
+      en: m.scenario.en + " " + m.decision.en,
+      fr: m.scenario.fr + " " + m.decision.fr,
+    },
+    questions: {
+      en: [
+        "Who will use the space, and during which operating hours?",
+        `Which site in ${m.places.slice(0, 3).join(", ")} needs its own receiving plan?`,
+        "Which room services and access requirements need a site review?",
+      ],
+      fr: [
+        "Qui utilisera l’espace et pendant quelles heures?",
+        `Quel site parmi ${m.places.slice(0, 3).join(", ")} exige son propre plan de réception?`,
+        "Quels services et besoins d’accès exigent une évaluation des lieux?",
+      ],
+    },
+  });
 for (const m of metros)
   locationEntries.push({
     id: `metro-${m.id}`,

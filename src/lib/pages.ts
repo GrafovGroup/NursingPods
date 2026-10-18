@@ -277,14 +277,29 @@ for (const location of locationEntries) {
     parentId: location.parentId,
     paths: { en: path("en"), fr: path("fr") },
     title: {
-      en: `Nursing-space planning — ${location.name.en}`,
-      fr: `Planification d’espaces d’allaitement — ${location.name.fr}`,
+      en: `Nursing Pods & Lactation Rooms — ${location.name.en}`,
+      fr: `Cabines et salles d’allaitement — ${location.name.fr}`,
     },
     description: {
-      en: `Prepare a project in ${location.name.en}: review building access, intended users, receiving arrangements and the responsibilities to confirm in a proposal.`,
-      fr: `Préparez un projet — ${location.name.fr} : examinez l’accès, les usagers, la réception et les responsabilités à confirmer dans une proposition.`,
+      en: `Explore nursing pods, workplace lactation rooms and private breastfeeding spaces in ${location.name.en} and surrounding communities. Plan your space and request a quote.`,
+      fr: `Explorez les cabines, salles et espaces privés d’allaitement — ${location.name.fr} et les environs. Planifiez votre projet et demandez une soumission.`,
     },
-    sections: location.sections,
+    sections: {
+      en: [
+        ...location.sections.en,
+        {
+          title: `Compare nursing pods and lactation rooms in ${location.name.en}`,
+          body: `An existing private room can be furnished for breastfeeding or expressing milk, while a freestanding nursing pod creates an enclosed space within a larger interior. For ${location.name.en}, compare the actual room, user route and daily operating needs before choosing either approach. Ask about layout, furniture, privacy, delivery and installation coordination as separate parts of your quote. Availability and site work depend on the project location and requirements.`,
+        },
+      ],
+      fr: [
+        ...location.sections.fr,
+        {
+          title: `Comparer les cabines et salles d’allaitement — ${location.name.fr}`,
+          body: `Une pièce privée existante peut être aménagée pour allaiter ou exprimer du lait; une cabine autonome crée un espace fermé dans un intérieur plus vaste. Pour ${location.name.fr}, comparez la pièce, le parcours et les besoins quotidiens avant de choisir. Distinguez l’aménagement, le mobilier, l’intimité, la livraison et la coordination de l’installation dans votre soumission. La disponibilité et les travaux dépendent du lieu et des exigences du projet.`,
+        },
+      ],
+    },
     related: ["freestanding", "rooms", "installation"],
     indexable: locationQuality(location),
   });

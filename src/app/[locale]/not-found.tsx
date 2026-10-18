@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import { useEffect } from "react";
 import { useLocale } from "@/components/LocaleProvider";
 import Header from "@/components/Header";
@@ -32,6 +33,19 @@ export default function NotFound() {
             {locale === "en" ? "Explore products" : "Explorer les produits"}
           </a>
         </div>
+        <figure className="page-visual">
+          <Image
+            src={`/images/pages/not-found-${locale}.webp`}
+            alt={
+              locale === "en"
+                ? "A calm architectural space with a clear path forward."
+                : "Un espace architectural calme avec un parcours dégagé."
+            }
+            width={1200}
+            height={800}
+            sizes="(max-width: 768px) 92vw, 1100px"
+          />
+        </figure>
       </main>
       <Footer locale={locale} />
     </>

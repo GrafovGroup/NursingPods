@@ -10,3 +10,7 @@ All implementation phases are prepared. These are the remaining owner inputs, in
 6. **Final approval on your devices:** review French wording, quote/download flows and the manual screen-reader/keyboard checklist in `docs/qa/ACCESSIBILITY.md`. Follow `docs/operations/LAUNCH_VERIFICATION.md` for staging, the authorized internal inbox test and final domain checks. Search Console and analytics are optional owner account decisions in that guide.
 
 Resume instruction: “Use TOMORROW_OWNER_CHECKLIST.md; here are my decisions. Complete the authorized setup and verification.” The site is deployed at https://nursingpods.ca. External inquiry delivery remains disabled until the required inputs and delivery test are complete.
+
+## Logo selection
+
+Choose from the **five prepared NursingPods.ca logo options** in `design/logo-options/index.html`: Shelter, Nest, Doorway, Embrace or Leaf. After selection, refine the mark and prepare final vector/favicon assets before replacing the current website identity.

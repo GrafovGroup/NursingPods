@@ -18,5 +18,1835 @@
     "type": "Original AI architectural visualization; not an actual supplier product or completed installation",
     "tool": "built-in image_gen",
     "sha256": "2ca1cb3f964e5ab2a2d01bd6f10f434f897986c4d32bb5c9dc55e27e91b213ca"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-15d08ffb-5787-4331-b312-690044e185dc.png",
+    "asset": "public/images/pages/about-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/about/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f45e99cacdbd0e2d7da0cec0973d0429582e1c6e013499b358b40d0f5862f1c4"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-5483deed-99a3-4bc9-a811-e1625a4c2471.png",
+    "asset": "public/images/pages/about-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/a-propos/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f30dbf02d40d7f0a0f1cf3d42471d960044637490e7d7a888ef84f23ab70cfc8"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-248233d9-3541-4d4b-a0dc-4a0e568ff263.png",
+    "asset": "public/images/pages/accessible-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/products/accessible-nursing-pods/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "151c8d4b7d47e6cc37d77977a3b14322c6cb1946702289b5895c6479c2e18e68"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-22cd70d0-c41e-44fa-8137-1de4865b10c0.png",
+    "asset": "public/images/pages/accessible-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/produits/cabines-allaitement-accessibles/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f6e8b37acffb41ac350f0d13ce10c00e739ef00b350d404aaa8aac3aee68087e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-59cf8f92-1059-4dc9-a7ad-0204ac9a4c6d.png",
+    "asset": "public/images/pages/airports-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/airports/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3bdb64d810af4db805505a1ad37e2485d1dbd1375800bd8ddc0ef6a21658a454"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-bbb35db1-b24a-4d0a-bf40-fa3131eaaf51.png",
+    "asset": "public/images/pages/airports-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/aeroports/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "06fb64ac09bdca3030c3f68b49dec8f306928595a376aa08bd484419ff143170"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-89d50f3d-ef96-48d4-b784-5f79201bbd29.png",
+    "asset": "public/images/pages/contact-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/contact/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "a75a57f694d0dcf99ab8b917402b110d17f286b5626c1c08fdbb55b488b94fec"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-91b6b0be-7adf-4ecc-8b32-82a799fd7ac1.png",
+    "asset": "public/images/pages/contact-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/contact/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "e49c4bbdd60e04a059bc577dda8b26f635758223167ef1cbbaccce25ad5bebba"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e52ee44d-32ea-4d0d-8f4d-690037561cd9.png",
+    "asset": "public/images/pages/custom-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/products/custom-nursing-pods/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9798ac9138d80f37b35dd4abcbe0950fddf6b5b789e3b74b3aba42866f3f7ef5"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-494fc77c-10c6-4f19-ad81-74504ead37c2.png",
+    "asset": "public/images/pages/custom-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/produits/cabines-allaitement-sur-mesure/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d203c3eef6400c5f6cf8b22f63999036d60fde1c2d9fd5cb19d3ab822cc311b3"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-62eba7e5-bab6-47cc-a358-3d5a0a38b870.png",
+    "asset": "public/images/pages/design-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/solutions/nursing-room-design-fit-out/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "dd7d0a05074e1a864275d63015de45dc5867a710dba9a500a424a49504b492fe"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-3324700a-5751-4bf7-8949-f4a747516b54.png",
+    "asset": "public/images/pages/design-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/solutions/conception-amenagement-salles-allaitement/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9c920bd7a68f9d468632601063248b8e1992e9c1a82ea52d57d4fafbd33211fe"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f089b0b2-c090-45b3-9a20-279093bc1279.png",
+    "asset": "public/images/pages/events-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/event-venues/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4a7cb8869abfb847b2b8c7c184c8809330b2dc15f9761c81ef1ff11fbd1f67d0"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-01a10423-a3ec-4118-aad9-661327d6ec9b.png",
+    "asset": "public/images/pages/events-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/lieux-evenements/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "1eba8d174c26cdb7c47d21b6ee31cc3858fab635ae291f9441de73fb934cbd7a"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-95efc04a-5be3-4ffc-9909-026c79f7d6ac.png",
+    "asset": "public/images/pages/freestanding-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/products/freestanding-nursing-pods/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0fd3f307002dce032fbf0437c2f845e57af962abdb8686ecba6466d83ddb5ca9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-848e893c-8a57-402f-a0b8-bfa7d443fb45.png",
+    "asset": "public/images/pages/freestanding-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/produits/cabines-allaitement-autonomes/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "dd39c4510c96116c5e781ad6c76a683a267f1ea9cfdb49374dc6e14c2dc7841a"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8cded50b-6115-46fa-846b-37678cd25ac8.png",
+    "asset": "public/images/pages/furniture-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/solutions/furniture-accessories/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "938d6fdc02ebcbbf59c25ebed9033323ecc223ebadf7f98effdc625481d92b70"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b0cd0d23-a776-4755-be8c-88cf39bbd7e3.png",
+    "asset": "public/images/pages/furniture-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/solutions/mobilier-accessoires/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0801b601498c16d9084abc8a0800d50463d1c9bcaefd125b699f93207af256e6"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-87d8a322-90c3-451a-97ae-03d5b8b7b494.png",
+    "asset": "public/images/pages/global-not-found-neutral.webp",
+    "website": "NursingPods.ca",
+    "page": "/404/",
+    "placement": "system page visual",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d3c446af496e2f3d8950cd1b0179bf8d483516b4148b42138aae74d9ce036752"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-9029541e-f5bc-44af-982c-ff40df62f561.png",
+    "asset": "public/images/pages/government-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/government-buildings/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7c2c146233d65f3110e7249998aefcd1825ea1a5a532b7fdd5cea8368ecb8325"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-5b9900b6-6d65-4e26-a99e-b6c6fb29bba2.png",
+    "asset": "public/images/pages/government-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/edifices-gouvernementaux/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4204ad264dded06411cc0668ea60a26cfb21a869ae91d80960841dd177cdc836"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-522b9ccb-0d8a-4f73-bfe5-b398effb7a6f.png",
+    "asset": "public/images/pages/hospitality-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/hotels-hospitality/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "aaf6012b7e838c1d159e3a2605887deb9d4e85798196190cd88efca346f18f5e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-123592c3-ed0f-41d6-b07d-324ea69e9d41.png",
+    "asset": "public/images/pages/hospitality-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/hotels-accueil/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8651bf4cd8e685e3896e815180c7c5d1748958b5f39dd9884a128b1ab6b76571"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8d703ce1-1400-4c2f-b0df-ace8d7b6276b.png",
+    "asset": "public/images/pages/hospitals-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/hospitals/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "e08066ff29a0c8451f39a8f135a9bd5e8333ce05ef9a83f6e18a5d343ecf11a3"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-fa86395b-f234-42d5-84b3-10388ca4ed9b.png",
+    "asset": "public/images/pages/hospitals-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/hopitaux/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "884e193aa924342e6398b1fcb28fbd021cabbcc2dbd465b554d816640a0d7d00"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-31d6179d-ea2a-449b-90b7-28b074478b10.png",
+    "asset": "public/images/pages/industrial-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/industrial-facilities/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7203b88920a31a5933ec1bcfd8f56a2ec375171e9f39ef48d429d20fb948fcab"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-0dd37606-f050-4009-b16a-1e8de47ca341.png",
+    "asset": "public/images/pages/industrial-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/installations-industrielles/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d85161e8406a244ba5e0735637ea1ce07e35670e59727c29d21bc83fc814f6d2"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e66dbc83-96fa-474e-974c-7d277648254c.png",
+    "asset": "public/images/pages/industries-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ccd4f3d7c9ce39650e09b10550f32999915b4609d663d5cc2caeb216ff711e4c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b53c40c8-391d-413e-a5ed-2f98e638b931.png",
+    "asset": "public/images/pages/industries-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3b0ccc059aaea4e970c1fb28f0ee45bec1cc83b1cea0f6b81f032f9ab0a7377d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-637f954f-ce06-429b-ad45-991bd2402d6e.png",
+    "asset": "public/images/pages/installation-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/solutions/installation-coordination/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7d61c78fb98ea6be03ebc525ac68820d1064ee92d8f5130adb7e0e5d606db140"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7b6e4854-36be-41f8-ae58-1d2c254b5260.png",
+    "asset": "public/images/pages/installation-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/solutions/coordination-installation/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9cab02fc88db9427457ff8fddda7d988258ebf444774e4210848e936c6d1b140"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b43a4aa2-8008-45fa-b240-d2f87b438dff.png",
+    "asset": "public/images/pages/locations-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0c749bb1b6f0343be3abc351e9435ec9c4b705b6ca6a50797e13f95969bdfbd3"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7f812a29-babe-46fb-ac44-5374fa7e8b73.png",
+    "asset": "public/images/pages/locations-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "408a71b509e267e604f78c1d29da7b62398b7588f6aa1a5f9d227bdb78dcf829"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-53f66eb8-da42-4f97-bae9-ba0c2a136cbb.png",
+    "asset": "public/images/pages/malls-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/shopping-centres/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3434dd06198fb3605e001ad4cff4f4d7d5496acd9c35ce6d6c3a8674ce375f01"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-00f6c927-25b3-4735-8df4-985dec147d93.png",
+    "asset": "public/images/pages/malls-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/centres-commerciaux/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "780021962e3ddbd4a9cc545799e869537f1469a50228c696786afc4c009295f2"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-1f0371de-beb5-4d6b-8682-05a1c2cc76c8.png",
+    "asset": "public/images/pages/metro-abbotsford-mission-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/abbotsford-mission/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b0ed9dfaefc0b236ff88c827b4aef8a5007473d4af0a8365bc8456204261679c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-48dcd3cd-b8c0-4dcb-8751-cd5e1c87b9cb.png",
+    "asset": "public/images/pages/metro-abbotsford-mission-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/abbotsford-mission/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8781a19dfa371a188b917b995b8d7c960fa7f811e41b70a814535759f71c5b0e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-a4847bca-9b27-4f55-bd26-63a7b7b233bc.png",
+    "asset": "public/images/pages/metro-barrie-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/barrie/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8b3f8922b192d8edb8306c4e635e2aa8321e9fb753bf90f644fae38bab71cd74"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-408dbe03-59da-488a-a585-0bd753ae35c6.png",
+    "asset": "public/images/pages/metro-barrie-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/barrie/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b36a3f126e248f857a84641bf58584904843d1a3b0bc4e7f790ac61ef29b5296"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-05133073-55cf-42df-99fb-9cff11c704dc.png",
+    "asset": "public/images/pages/metro-belleville-quinte-west-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/belleville-quinte-west/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "57d6f6b9b19b0ae5055eadcb67d4dc618080e5d7d6f1facfca0636e1172e8a10"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e95b0f20-2244-4f27-86bd-a5698bc137b8.png",
+    "asset": "public/images/pages/metro-belleville-quinte-west-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/belleville-quinte-ouest/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d70c0a13da3cb8031ab7738ad9716d6fd151b78e9af05e99b2365806a3a900fb"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b7d101d0-0484-4868-81f4-c1025d5c052f.png",
+    "asset": "public/images/pages/metro-brantford-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/brantford/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f0a34312d2b796e46690ba4bcbdb733ef86df140bcba7b79b2d729b4161e58c8"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-cdcd1ae2-08c4-4fef-b589-201b3e39b746.png",
+    "asset": "public/images/pages/metro-brantford-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/brantford/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4b40c20621dbfbc79ba4541c5ddb54d3ea106a77f8a2be76b00181d235335d96"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-98be8c23-04cc-471c-a02a-d09e1234b236.png",
+    "asset": "public/images/pages/metro-calgary-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/alberta/calgary/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5fb9f6a5be4931a55d28cc7a8ba9cbd2d8dc01fd99ccf1a04e4c02a364063d61"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2cf3f43a-8dcb-46e1-8b01-a4b3409a38ca.png",
+    "asset": "public/images/pages/metro-calgary-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/alberta/calgary/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "477fec291adef447b984205a494450503a27e42e9bc44650440669c3628271b0"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7f0e910b-d7c2-48b0-91a3-b4dec2bdf593.png",
+    "asset": "public/images/pages/metro-charlottetown-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/prince-edward-island/charlottetown/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "e4f6b20adffda84a56b677e15bf29e397a8416bd1713ed9acb858d6a751a953e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-6dea08f8-f0ab-4b89-a2d3-148719ad4a26.png",
+    "asset": "public/images/pages/metro-charlottetown-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ile-du-prince-edouard/charlottetown/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "04227ed5ac641ffa30dc67ab03987e4d69a103dfc9cca8c88acc5134312e7489"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-d62ae34f-a545-4eab-8320-66e043af1160.png",
+    "asset": "public/images/pages/metro-chilliwack-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/chilliwack/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "165a99b025d12a43d5f17d012eb16ad2d2f8ff65be363681f24b8c328c50777c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-90590cd0-a783-40e6-bff3-306cafab62ed.png",
+    "asset": "public/images/pages/metro-chilliwack-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/chilliwack/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "dde032c6c1a8c399e1ca9aa1c6364f69e23c8fba4269b24d28a9fd062e47cdf9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2438d041-9da7-4e40-8bce-ce3b43918101.png",
+    "asset": "public/images/pages/metro-drummondville-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/drummondville/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "95a2796cce369d04be1ee658968017fe19878825649c1d172302cabb4e973227"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-d10fcb73-ed1d-4f0f-8716-d2f8bdeccd12.png",
+    "asset": "public/images/pages/metro-drummondville-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/drummondville/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ff7a634c3ff27161e5b7f893be8133fdefa3e815e7a10ce82aa1d2532f168019"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7597bdf7-f96e-4645-bb3d-6612c3234246.png",
+    "asset": "public/images/pages/metro-edmonton-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/alberta/edmonton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "102d98d86bc759f76ebbe12db3423da32be7cf491b392dc030e0c0c8a7f5da91"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-896a6a0c-017b-4fa6-a446-fe5cc0188b1e.png",
+    "asset": "public/images/pages/metro-edmonton-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/alberta/edmonton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "eb0575c09b84278b6f22d7bf1c049d7ad6c19b21bbea02dda992be81744ed778"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-0a3a3c4b-29e3-4d1f-9a8d-8672a00f2413.png",
+    "asset": "public/images/pages/metro-fredericton-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/new-brunswick/fredericton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "929aff7b2b6d03193db1a4b113f8bf33992e5e1db088409b36e7c02f5fed1aa3"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-76e9dfa7-4ef4-455d-8a3c-50ddf05d3be9.png",
+    "asset": "public/images/pages/metro-fredericton-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nouveau-brunswick/fredericton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5d180f6d9bb1d8409bf9d380cee3e51cd3d67f19c7601eb88dabb0759d1bce7d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-a4726be7-882d-4ec1-980f-3f074e6a069f.png",
+    "asset": "public/images/pages/metro-greater-sudbury-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/greater-sudbury/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "c4a3e1fdd0fc41e8f0df85166958fae5b85608153f1a6fe92b1fa76ed9ab5b49"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-9ab0ea67-472a-4434-85e9-e7722d9b6d0c.png",
+    "asset": "public/images/pages/metro-greater-sudbury-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/grand-sudbury/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "435848a436b479063acd5951689ffe7c83f993df62984cb399d49e685251640f"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-0bdce683-3a82-46ae-8367-369ca9050e61.png",
+    "asset": "public/images/pages/metro-guelph-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/guelph/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d2725d2653f152e90fc7c48e4f19763575a8d6f9da59d71ea20256f12b312d30"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ea158644-2af3-42e0-8379-805de29b798d.png",
+    "asset": "public/images/pages/metro-guelph-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/guelph/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0253468ea7462534a05c50c4fa8d7c368ba5587daa749b090e3977999c5f8abe"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-d901b2f6-299d-4c2c-8ef6-1b754e4c9cb6.png",
+    "asset": "public/images/pages/metro-halifax-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/nova-scotia/halifax-dartmouth/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "eee12f8687aa67f6c73785f3dda6dfbf1d9c27e07e8611f3464ca05536e2cfa9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-fe0d0beb-12b8-4307-b1d2-5719963d5074.png",
+    "asset": "public/images/pages/metro-halifax-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nouvelle-ecosse/halifax-dartmouth/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f8950f9993491afed6512d50d7feae455836541ad27489929d2fba32616ce71b"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-d920cb73-8899-409f-8491-412aa33c3744.png",
+    "asset": "public/images/pages/metro-hamilton-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/hamilton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "c648bda29d073538e74e71b3a7acb628c96686933b0b0842c54f74e1bfc75a64"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-c6d26376-e580-4c33-9d2b-b41bf715dba5.png",
+    "asset": "public/images/pages/metro-hamilton-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/hamilton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0f50d8b428a123645618a86e8863abb3c10b9b50ec7bf34527393e1406d1798a"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ab9047a6-bc94-4df7-bb4b-cfb7b5cc50dc.png",
+    "asset": "public/images/pages/metro-iqaluit-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/nunavut/iqaluit/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "171da48dee009c125d214b539f43fb6532a9d385e80baa4aee8869a29a00e748"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-5fc4d8d6-ffa3-4fd1-a016-513c91c9f2d5.png",
+    "asset": "public/images/pages/metro-iqaluit-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nunavut/iqaluit/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8bb1fe32297683796d773df25e62267312b81ddc271c16cbcc571c6919f5edb9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-c4d92cda-4188-4396-b63e-e82c173e42b1.png",
+    "asset": "public/images/pages/metro-kamloops-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/kamloops/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f49545a90d96d9aec5eda0b048a6c16ff517f68faa381b7bf77b47795ccc5740"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ce1fb7e3-e1df-4172-8518-561989e28864.png",
+    "asset": "public/images/pages/metro-kamloops-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/kamloops/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b3cb11fbb189ac6ba34a3454bd98539bfe016413f7f368cfe23806cef8a6488b"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-04556d3b-4526-4177-b9a1-d61743f1b8ef.png",
+    "asset": "public/images/pages/metro-kelowna-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/kelowna/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "17be12079da38f10de292f58a0d96965b811154d37b523d53117ba95241adf96"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f9f24eb3-2a87-4428-adc4-f3ba2fdbdc3d.png",
+    "asset": "public/images/pages/metro-kelowna-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/kelowna/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ef025f49d86fae50d6eed223759afea55f5143e43b9521d0fc311bd5447f4cdf"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-a1e2853c-158d-4d76-9107-6cebba7a748c.png",
+    "asset": "public/images/pages/metro-kingston-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/kingston/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b55b5841f57c854fa949e4bce73e04bf4ee388d0cec3c24760d93c3f88b06b56"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-15684d9f-1d61-4d7c-9ac6-96ce0298bcf0.png",
+    "asset": "public/images/pages/metro-kingston-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/kingston/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "66077c3325f8dc15535d17d262f407381f6d6daaa6c9b87194c700a892b8dfb8"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-3521ff98-c6ef-4534-9a30-7b6895ab6a02.png",
+    "asset": "public/images/pages/metro-laval-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/laval/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "770025664823fcb1e034bc38c0fd200ddc3817bb1991a669b15835eaafc230b7"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-d36ff47e-f56b-41b8-88e6-1fa3e9c9d3b9.png",
+    "asset": "public/images/pages/metro-laval-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/laval/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "cee095b4fbc0528dadbc04a6a105500fd503a6bb67bc72265b6a18cccc3b052a"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8df90859-ae1f-4097-b23d-dce9159754fb.png",
+    "asset": "public/images/pages/metro-lethbridge-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/alberta/lethbridge/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "c7274554c3991e10f7f8fcebcff40498a149b962fa33bf4487a4b21bef6bc977"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-09b60bab-67e2-4c14-927f-2fccd58a1775.png",
+    "asset": "public/images/pages/metro-lethbridge-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/alberta/lethbridge/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "96f975bdc7ea74ab036eb8fbe4879cf5a8bcb99d384d671f187a1c561697ea21"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-296dd8e3-01b4-4276-9904-5feab6f46465.png",
+    "asset": "public/images/pages/metro-london-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/london/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "c5765e236bccacfb8d9620655ba1bf98ccbde07d899583ab8baa381036fdb792"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f41583a0-b8c4-44de-8aa4-b9ca3780c2a0.png",
+    "asset": "public/images/pages/metro-london-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/london/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "cd396ef921cb1d43e3f128a92c51d92e1231a98dbae1c5d2ca2f8af79828bba3"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ba239410-0e39-463a-9bca-848c9fbe3bb9.png",
+    "asset": "public/images/pages/metro-longueuil-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/longueuil-south-shore/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ac9dd8ee530a5efbfae3b44673de94ae3d0817e8dc1e201b10d9099f23fcdc65"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-c6088ec2-f17f-4038-865f-85ba25c5632c.png",
+    "asset": "public/images/pages/metro-longueuil-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/longueuil-rive-sud/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "a504693ff068b5ce85486a81e3e2eb638cd84b68890f70723816221ad509af7e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-00498aa6-4244-441d-9893-a2f26ee9f123.png",
+    "asset": "public/images/pages/metro-moncton-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/new-brunswick/moncton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4b6c5777bb1e09a078a4dad33c899d70a6114c286f7884e0e7716ec7c3da16bb"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2107f09e-5fb9-414a-b747-8e1736359adb.png",
+    "asset": "public/images/pages/metro-moncton-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nouveau-brunswick/moncton/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "03b1932b0e722fd6ce8fb0ee4e506f4e5c4d11327cf839ee9013de8f280d28df"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7919e908-5493-4df6-9862-90a1a29a83ba.png",
+    "asset": "public/images/pages/metro-montreal-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/montreal/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "609dc710c29de6bdc5554b93c5bdaeb84a63c1770db1d3b1197f4b61b9b95eb8"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e3498e26-c7e0-4f05-a77a-c1587759a955.png",
+    "asset": "public/images/pages/metro-montreal-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/montreal/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b510347a8558c3cd6aab9edbbd87adc42f96180ffcade742711c011f304fda06"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-a1014f9f-2f59-46e3-b604-8f5874936ada.png",
+    "asset": "public/images/pages/metro-nanaimo-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/nanaimo/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "1b0babf2cc4c3340b6cf82a3235e47ce3b580ef9d90147e16e9dcd6e418db865"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7e1dedec-28ee-4505-a8f7-22967190003d.png",
+    "asset": "public/images/pages/metro-nanaimo-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/nanaimo/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8d8b20915038282caa92ae5c211e19999197d284f24c6994de4ccded243de890"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-254c0805-8e1d-44ab-9bfe-4b249813fcd1.png",
+    "asset": "public/images/pages/metro-niagara-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/niagara/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "54f2a6d59908996afdc9c8d72e4b32618d3595f443f151a641cbcb54f8f573d8"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b4b74918-5480-4a83-b7e1-2229169ae130.png",
+    "asset": "public/images/pages/metro-niagara-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/niagara/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "1a00b414d0307b6415005558bacba55a653c4ce3aa299768525cfb7232232bc5"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-23de952d-a8f0-4f36-955b-1a2b07c37279.png",
+    "asset": "public/images/pages/metro-oshawa-durham-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/oshawa-durham/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f7b8cb094f2f728698533b2927fbbc1fdfbb9bf22761db968c214b95d30dc476"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-36cbfe3d-c24d-4c88-b898-0ac069f5bd0f.png",
+    "asset": "public/images/pages/metro-oshawa-durham-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/oshawa-region-durham/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "a209bfdbe993fb46a340db17d7c7b0499b8f4baac9327f65496c5203fb2d44a8"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e3b497d8-8585-4d2a-bde7-b92c502624fd.png",
+    "asset": "public/images/pages/metro-ottawa-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/ottawa-gatineau/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "41f45cf27bf4762322d3cdb939c35d7814e2d5dc9f0fc1e1e8195d7411ff049c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-162637c3-717b-416d-8fd3-401b43a7fc12.png",
+    "asset": "public/images/pages/metro-ottawa-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/ottawa-gatineau/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9d06adc0b6c0c78be649647d5dbd674d2c62e0485bb1a2ee013192004180fe04"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-6edb57b4-5b98-427f-99d0-9da39c984158.png",
+    "asset": "public/images/pages/metro-peterborough-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/peterborough/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "e0305ada6f66b98417551ff50d0266e89f88ae1bfd498f896b23104bca5d44f4"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-013ef09f-0f9a-41d0-9e0c-aaa11d9ff3d1.png",
+    "asset": "public/images/pages/metro-peterborough-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/peterborough/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "601fb88a4a03a42aa90222f4b0013d67e575aee165607f0494f9476d0f5fd460"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-cb40b7fe-d072-4b6a-9bdd-ef5ecccd490a.png",
+    "asset": "public/images/pages/metro-quebec-city-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/quebec-city/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4f0588b80d0229e9e2fa8bfec9ded9be138535ff4c08c3c9359d829d8b58344c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-c76e1ac6-b6fe-4d6b-be0b-cf901a07884c.png",
+    "asset": "public/images/pages/metro-quebec-city-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/ville-de-quebec/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "1f36adde57574143132a13f36fc80a4a6ff66597edba1d830b038666c7f2aec2"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-92006110-fa6d-4029-ab85-d0ebfbc0cb8e.png",
+    "asset": "public/images/pages/metro-red-deer-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/alberta/red-deer/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "359921033fc0f71ee60ff9bc46eadedccbfc72a3e7e6bfa72be95d810e6397b2"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-63277439-558d-4ec3-8122-193b345dd518.png",
+    "asset": "public/images/pages/metro-red-deer-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/alberta/red-deer/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5926a8996a649cf3b0a855dcaff985e10094e226f0ed2450ac5e50a4b9fa2c60"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-9b80d539-fb5b-4e2e-8ff1-8f53c369127c.png",
+    "asset": "public/images/pages/metro-regina-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/saskatchewan/regina/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "a689a0319d07b55ef80ac9e4e2ac6560feffe5530d3789323cac00faa9c0ec24"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-85027e2e-4b3b-418a-a412-21efaeed89a6.png",
+    "asset": "public/images/pages/metro-regina-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/saskatchewan/regina/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ebabd41126f582298e6ed8dc57eb3e2394a6f75eab254f9697c256a720163e6e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-1cfbedef-199b-4334-8ef2-c4e507b3965d.png",
+    "asset": "public/images/pages/metro-saguenay-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/saguenay/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9c428984e130c21d43c5a015bfd54e9f87ac2476cf8c3367e75083856d4b81cc"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-3f2c2de3-8a8d-4d76-be32-c26674e1ac1e.png",
+    "asset": "public/images/pages/metro-saguenay-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/saguenay/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3da2283fdac4d363d16ae1d2f55ddc69414291ca3d844cf55efdc36bc0ccdede"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-07ce6a73-ecde-4c58-b7a0-1d5fc2271d21.png",
+    "asset": "public/images/pages/metro-saint-john-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/new-brunswick/saint-john/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "800430d22bee97213c276697f21d42cbc4d093f5fa8506f5dfaa8ddcb449795e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-1fa08f76-8216-4689-a8b6-f6d1dfb515b1.png",
+    "asset": "public/images/pages/metro-saint-john-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nouveau-brunswick/saint-john/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "20d937a829f45f8105c4fc3180847c3b4643485a27f93fef16478aadd2fa927f"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-62750e10-91d9-49d6-b508-6cbce3f0358c.png",
+    "asset": "public/images/pages/metro-saskatoon-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/saskatchewan/saskatoon/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "438ba8a14f84b3a4d992a2470c39e396aa7441b59953c0e9db27869d23f50d83"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-fc7b6f7d-bdbc-4644-b051-a3f485b22ba9.png",
+    "asset": "public/images/pages/metro-saskatoon-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/saskatchewan/saskatoon/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "e9e3660793bf16951da6f1d6cb1a6ca9e0d4573c14535f7263f7cacbbccd8b08"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b2776515-72cb-4bd3-948f-f6d0d64824d8.png",
+    "asset": "public/images/pages/metro-sherbrooke-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/sherbrooke/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "bccce3058e5a8da4fe4a536ce3a529f824407ed05fb5ed3c376d925b40f9d061"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7a6bef12-aee9-4ad5-b939-831e081d9e26.png",
+    "asset": "public/images/pages/metro-sherbrooke-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/sherbrooke/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "2a5404a01e9a1a42d0d875adf64782ced753161f6aa9c3cf8d0a7bd170f7a045"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-3b1ab6ba-aa10-4cb2-8977-e00bfd7f1c17.png",
+    "asset": "public/images/pages/metro-st-johns-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/newfoundland-labrador/st-johns/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5c4019623309f28a5c4b6968fb3b3f33aee05411642800d6687ef2795cf8c921"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e2958bab-56e7-400a-b641-3f5526097e8b.png",
+    "asset": "public/images/pages/metro-st-johns-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/terre-neuve-labrador/st-johns/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3363eda2b89ca612f53a483b065240aad7d308edde0f9361d670e60abd8ced90"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e8b79c05-338a-4cca-a5cf-06b20e222187.png",
+    "asset": "public/images/pages/metro-thunder-bay-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/thunder-bay/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0057a771ffa12ee8d176999e45e51ffa1023e950e7f07f7629a1c09d30aee3ac"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-02862d7a-973f-4f03-a32d-bd1c4b30c50b.png",
+    "asset": "public/images/pages/metro-thunder-bay-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/thunder-bay/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b42ce418f68e906389087f6f8f2677985bda5ab07f71bf7e00d47254bb781513"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-3d8e31d7-ac21-4428-8892-b60de80501f3.png",
+    "asset": "public/images/pages/metro-toronto-gta-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/toronto-gta/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "a6562f44b127730f5855043f13af856bcbbe3ee148fd2699aa52949e132c259a"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-6944a050-8d73-4362-bb59-8526243e9cc1.png",
+    "asset": "public/images/pages/metro-toronto-gta-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/toronto-grand-toronto/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "64349d27499c05076c3f8b2d07de37af832548621724be7ff0ea5a37475c6456"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8b3705f3-38fe-4515-aa88-895606f68496.png",
+    "asset": "public/images/pages/metro-trois-rivieres-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/trois-rivieres/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "43dd64eb995d0ca714825adc2cc081e9894c44a7a3acd5df1bb3e48212501a3e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-60e5b8eb-44c4-4a82-ac72-89116e21ef97.png",
+    "asset": "public/images/pages/metro-trois-rivieres-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/trois-rivieres/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "18a77bf183a953f3534e30564e83890aa1a5dec74ed5d7e5c55d1ce311e7511c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-10a0bafc-284c-4b5d-8b11-b47166191e9f.png",
+    "asset": "public/images/pages/metro-vancouver-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/vancouver-metro/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5471d37915d7e56a34206531b0411c98fe93c3e1b7c3875f2394c132e05433d9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-230c38e5-f485-4bb7-9da7-6f20a8a66324.png",
+    "asset": "public/images/pages/metro-vancouver-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/grand-vancouver/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "14f4ded45a7f137145d236bff10e6c7396ffc0e9e510ced5fd2e339f010b2072"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-1df820f2-a991-4ec1-b9f6-8b6a78e8879e.png",
+    "asset": "public/images/pages/metro-victoria-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/victoria/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ddc9aa907022b3364d5a9ba7d8382291cf47e5c26c3aa25105106745917ba79e"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-14489c24-14b1-4855-9a08-5ed826507af1.png",
+    "asset": "public/images/pages/metro-victoria-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/victoria/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3db76c5d18ed187b7894f5b750586843132e2ad78b1eca1d3420cf10aed1ac13"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-3555b990-6bcb-499e-8132-44b02dbe830c.png",
+    "asset": "public/images/pages/metro-waterloo-region-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/waterloo-region/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "aa275bf15bccaedc51f850ed43d559af39ead19cb46ccf3c733c800e8076b109"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-5f412f0d-d0d1-4ced-bd90-17a5f45da573.png",
+    "asset": "public/images/pages/metro-waterloo-region-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/region-waterloo/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "06f32b7dd364d50bd478b747eb6d0b03c2bb13dda4fa95b3b00cfff276e4bf33"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-e17fb962-2a81-45b2-8048-96807816c485.png",
+    "asset": "public/images/pages/metro-whitehorse-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/yukon/whitehorse/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "986ce1fe811949324d2972d908bbcdddc5e3839053f796f11f1cf578226f3a1b"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-156c7a75-8f08-481a-917c-f8c18a5b717c.png",
+    "asset": "public/images/pages/metro-whitehorse-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/yukon/whitehorse/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "711c22250449f2c015f6e9cd1b261c3298917d8a285584aca97aa9727aa860f7"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-c93aa452-0073-47a1-a18a-f465e220081d.png",
+    "asset": "public/images/pages/metro-windsor-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/windsor/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "51d41d3f877367d10bb508fcc5bf08307097647e86c62e17af8d7e1a8af4f702"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-6da204e3-e3f0-4191-ab92-1f1b8e3dffaf.png",
+    "asset": "public/images/pages/metro-windsor-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/windsor/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9404020b40000f818dbe305ad5917471c572c9bacd23b6a4a30546b9476b4f6c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ea53f7c0-ef4a-4864-9729-56e5c19d63b6.png",
+    "asset": "public/images/pages/metro-winnipeg-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/manitoba/winnipeg/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "da0a0ef26225b45ccf1c5a16ce7439b19372ee94063b2cd048ecfdee60e4cfc7"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2b87c255-9921-41ed-869e-4849983ea40f.png",
+    "asset": "public/images/pages/metro-winnipeg-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/manitoba/winnipeg/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ba876e05b9e87871c7da3220cf72abe4d5323c35c0527d881bb7ac97942405dc"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2d6bb935-05d7-4694-8fe6-751a910b8609.png",
+    "asset": "public/images/pages/metro-yellowknife-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/northwest-territories/yellowknife/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "fe2e90ede9df5d4d06f0f43901d17c23fe3816c5cd39042c37f994be6ad8802d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-de8c97c8-4a5f-4669-9016-1f6efd1a0258.png",
+    "asset": "public/images/pages/metro-yellowknife-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/territoires-nord-ouest/yellowknife/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9746c8bbdb682fb46fec41ee72b081af00f80d0b9fca1cb9cba6945df3c4ee88"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ecf356cf-51dd-477f-8112-4a25e8dab720.png",
+    "asset": "public/images/pages/modular-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/products/modular-lactation-pods/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4c811dd19a0d041dc38a3d6ec7170b248d58252c83403723abc650c5f688425b"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8d2a8d54-ad2c-444f-b608-cbf32d84c1b1.png",
+    "asset": "public/images/pages/modular-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/produits/cabines-allaitement-modulaires/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b819a57b98d7503ebc638b027f8bd5f44f0b092a772c8cb40042f68849bba535"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-fcd8b539-96a5-47a5-ad0d-6c8f3165ca26.png",
+    "asset": "public/images/pages/not-found-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/404/",
+    "placement": "system page visual",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "c9d0c7d22363295a8e87bba924c6a5b1a8fbc4e8cce63496d78283dacfe795d9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b48ac613-5b9d-46f1-bc70-987113cd7e9c.png",
+    "asset": "public/images/pages/not-found-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/404/",
+    "placement": "system page visual",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ce55891a422c7b1478c2919545dae52a329d9cff6531690ab03d0b1ae87f6138"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-df57c59d-dd18-439a-a57e-b1c219b25c92.png",
+    "asset": "public/images/pages/offices-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/corporate-offices/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ad0eb06da382f420bd4ad1ef35db61e7e99b2a119733daa3ff661da47c62fd6f"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-405ef73b-90f9-4e38-af4a-8bc11927a040.png",
+    "asset": "public/images/pages/offices-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/bureaux-entreprise/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "06c8f5601d774ff587edca48cfa479699eb1675712e62b2184991d4fea322a6d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-0708fbeb-1c8e-48cd-8283-f05e44691f63.png",
+    "asset": "public/images/pages/portable-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/products/portable-nursing-pods/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f27488e25dfea67a52ad70f44f452db7d99af313179ca03909d173c175f02eb4"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7eb4e7ea-df2e-4621-a1a9-95426a2da824.png",
+    "asset": "public/images/pages/portable-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/produits/cabines-allaitement-mobiles/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d5b3982c91d4f05fa96b16f510a2ff75c03716b5e987afab3249bb2468b34bf4"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-29101e5c-74ea-480e-bb35-14808ba412ed.png",
+    "asset": "public/images/pages/privacy-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/privacy/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3f38244b9ca1bf066ee8217ce8d5148caa6725bb52e992db0eb236d4c01566fc"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2ac469ce-d5fd-4d3a-8f9e-2c889befb745.png",
+    "asset": "public/images/pages/privacy-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/confidentialite/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "59845a9858066a201cd3f242ee23249a4824fd252ee9d7f5ae8bb1ebbf6514ad"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-40745c9a-5d5f-44e9-ab6c-f1cc10136a4c.png",
+    "asset": "public/images/pages/products-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/products/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b083d3cf613c2712b99600934448626a5e5ff4281b160b58ce93e7ace1b8a053"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-41720ce4-fe5f-46a3-997b-a8f61d5351c9.png",
+    "asset": "public/images/pages/products-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/produits/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5d8006666583b73dadcf4cbac9daec7264cebfd11c5a006e785bf6f23ae91429"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-049788b8-a038-412f-8e5a-dce59d8ec0a8.png",
+    "asset": "public/images/pages/quote-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/request-a-quote/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0610f312fc26f999e9592cbdf0e56e4ab7ccab194e2cc5de549aaff4934ccb7d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-cd4c1677-32ef-4949-8ed0-5c0249d54c28.png",
+    "asset": "public/images/pages/quote-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/demander-une-soumission/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7610941f3de3478165b3fda6e80fcd5bf61900a4e49c61c48f417be20c179a55"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-4f5a5939-cbde-4067-bddb-f073c9282a9a.png",
+    "asset": "public/images/pages/region-ab-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/alberta/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0c41d39ef7e37ba3eaec363ba793804605059823addcaf4a3438234e43ab767a"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-c7661b1a-0b2d-4667-8420-af3a16594e1a.png",
+    "asset": "public/images/pages/region-ab-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/alberta/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "3ead8c1b5de11138e4b6f766893845857dca1c5987ada7e8cf631f580aa4e991"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-cb45ea2a-4689-417e-a44e-debb63faede7.png",
+    "asset": "public/images/pages/region-bc-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/british-columbia/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "64a8b29c2ba7459955b5f4275b0c815c300f104d5a4a1c2cb8c1dd5692b36378"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-43eb08af-49a5-4ec5-9d62-19239ceb5eae.png",
+    "asset": "public/images/pages/region-bc-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/colombie-britannique/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "a2d585d9ef6115bced74b596c6c1957853f27763f6b6d877abda1d228a38a060"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-0b55f326-a8f1-4255-883f-590f5de0fe8a.png",
+    "asset": "public/images/pages/region-mb-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/manitoba/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d3a64d701e550e870a3b3a5f288b06b7e0f70c186327cb83cb16f58bbdfc0dc3"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f6e951b7-1cc4-4472-bf3a-eaee83ec9237.png",
+    "asset": "public/images/pages/region-mb-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/manitoba/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "d2210970f18205fd40996bcbfaf5d0d41224406c56a010c89cf65fb0f0b00459"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-418d93cd-2627-4345-bfbc-5a968d90d89c.png",
+    "asset": "public/images/pages/region-nb-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/new-brunswick/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "08ccd94a341f7389dc35c1ef42e8badac2c4f2ffca821beb13fd83cc85ed1aa5"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f37d2956-b9af-451b-8756-8a4478639b51.png",
+    "asset": "public/images/pages/region-nb-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nouveau-brunswick/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ef44a2bcf1016c0ad96078502edbb27edf4210892307f0b4bda93795bf84a18d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-11cc48a0-217e-4dd0-8adc-05da6951b248.png",
+    "asset": "public/images/pages/region-nl-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/newfoundland-labrador/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "2396b569e51d1e27004247244286c2b2824e5f93573ad9aad9d73ecfd0155f21"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-9660778b-2e9a-4c58-ad83-d96e3fed53e6.png",
+    "asset": "public/images/pages/region-nl-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/terre-neuve-labrador/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4f72aa86b40b7c926710e8a969d312e5fdb96ce1225e403fc1fb24bbb0457dee"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-1e62d8e3-c9e3-4258-b7ff-6ac930ff6d52.png",
+    "asset": "public/images/pages/region-ns-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/nova-scotia/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "6140b36b2518f9905ed340250994416c84b300d640feb3cd434c93555715c182"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-10644ec8-cdce-4bf2-adaf-d694a1a3895c.png",
+    "asset": "public/images/pages/region-ns-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nouvelle-ecosse/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "37b39a698fc78793342aa04dc9ff7dde1a67a3eb07ebf8c16375421eda2ec462"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-6a8d8029-f146-4d6d-a3e9-cb23bbddc53b.png",
+    "asset": "public/images/pages/region-nt-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/northwest-territories/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7039592ef3a6d700b033f9c8cb16569e3190374ce4e10dee4df1cf3759c26ebf"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-b52892b0-96e2-4d1f-9ed6-069ee7ea15e3.png",
+    "asset": "public/images/pages/region-nt-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/territoires-nord-ouest/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "22c8cc3853234a16dbaa4c4c2332678e559b702b47d462ff1ae0b613b5d9bcd7"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8d86e142-e9ce-4c43-b832-73ed68ce6b77.png",
+    "asset": "public/images/pages/region-nu-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/nunavut/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "5fc1e7c0fd1991274af1068a230a4866838c9b542f144dd7e704cb96b72e07be"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-5ba88752-4e91-442a-b00c-d63d16a333e6.png",
+    "asset": "public/images/pages/region-nu-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/nunavut/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "71b472fac8d8c80b33f67252d42af2e6c105278e2105020e99161acaed9b62ac"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f31bdd9f-b6e3-4d88-9c0f-658d6508b4fc.png",
+    "asset": "public/images/pages/region-on-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/ontario/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9746edf6b1279161a38d676f95fe651cc08b0936096cf07796613d856b16f283"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-0a3cc99d-3a2f-4d83-b0d7-647b9d52ac71.png",
+    "asset": "public/images/pages/region-on-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ontario/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ccde3dab51b5538a5e8136c18cbe921d48084c8a391e898f4c569dcf51950ef1"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-58c1bc67-10d7-4719-a7c0-c1a77860cb64.png",
+    "asset": "public/images/pages/region-pe-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/prince-edward-island/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "be57f23873aadaaa0fbd3d39135aa04c4df4e36e83c02e4089e9a9032dabb8e2"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2122d4fc-642a-441a-a62e-12ed91ad6cde.png",
+    "asset": "public/images/pages/region-pe-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/ile-du-prince-edouard/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7178be7deed153e8a53baa9187210f16d6482a17dfc37c687143cd3c45ca0894"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2a3bcd12-f55b-4064-aecd-cbbba2347d82.png",
+    "asset": "public/images/pages/region-qc-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/quebec/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "69f235693d48d7945322a5ff4b993fe53f820a99e3c75797f0d867c334fba937"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-8c958e43-9056-4224-87df-199b4e0cac65.png",
+    "asset": "public/images/pages/region-qc-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/quebec/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9df2192fce8359f82707a303ac9c90515dbc82808b2a5ce2ba360a8cce9010cf"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-ecd65c27-46d3-4088-91a7-b96f8454e479.png",
+    "asset": "public/images/pages/region-sk-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/saskatchewan/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "9fb08bd88dd2af583cb09f7dab00fd7c100256b0efe87e031c0a959d13babf31"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-4e03e89d-321d-4af0-bf42-dee144f431ef.png",
+    "asset": "public/images/pages/region-sk-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/saskatchewan/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "ff445fad0886ba9dcd1e2fb516fda2ca249497545f4968e4e4f99863c7fc6180"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-20abf4b5-a844-44b2-9259-8a3c036dd0e9.png",
+    "asset": "public/images/pages/region-yt-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/locations/yukon/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "1b9f25f49d4b4b215f8112d1e2e99c8ec7cdf7399a0405468481e6a8dece3715"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-00b2a4ae-ff7c-427a-afb1-bf03e567bee3.png",
+    "asset": "public/images/pages/region-yt-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/regions/yukon/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "6700d6d739be0f9420a600dddb3eb6d21d81c399a67bb759738bb0ffbeff7290"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-be919c67-4690-4100-86e2-808bace7ae8c.png",
+    "asset": "public/images/pages/rentals-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/solutions/nursing-pod-rentals/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7c951d186aa1b26873b9289e79b5098104e66508f1ee6cfd574ffbdff8701378"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-06895f95-8d8f-4ee8-bda7-e6999855084f.png",
+    "asset": "public/images/pages/rentals-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/solutions/location-cabines-allaitement/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8c4d983c2b472f07738387b79ae7af3b227bcee1c37603d89db5a4f324fbc0ab"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-6e260a60-70f5-49df-980a-1e2924edfb4a.png",
+    "asset": "public/images/pages/rooms-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/solutions/workplace-lactation-rooms/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8fc7180011c4b423c85186f8360d402d01526917981033134354075d69531bb9"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-aa5d177d-fb22-4854-804f-87b0a5a123c8.png",
+    "asset": "public/images/pages/rooms-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/solutions/salles-allaitement-au-travail/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "516cc5311c69271f802bd0b3ba400e3385a1a15873ae15d77ed9b2e261f80a35"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-43c21d6d-9011-428d-bbf5-9089af200793.png",
+    "asset": "public/images/pages/solutions-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/solutions/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "4459c9d466ffbd5bcdfebcd5b18f20f11970992655d4311eb93b63983f8e129f"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-96109774-795f-4a71-b04d-9a0cae16df35.png",
+    "asset": "public/images/pages/solutions-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/solutions/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "694f6a4841e0fcb5823ed15e0937e90cbc56dda05bf78add1bc2a0832a96574c"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-665aa21f-dea3-464a-864d-8a259f20e215.png",
+    "asset": "public/images/pages/terms-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/terms/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "0d0cced1d0553666717301761fe4b11149c40e54a8404104c3c7e99e7eba7837"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-1ac6c3bd-54e5-4a87-8bd1-b65b0e9fd760.png",
+    "asset": "public/images/pages/terms-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/conditions/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "7561034e45585138d121da56e5c0caf14b0468f1aa8096886d584d139ea28cb2"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-cce1f0e5-54f1-4ece-93ad-261f41141b15.png",
+    "asset": "public/images/pages/thank-you-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/thank-you/",
+    "placement": "system page visual",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "f10fa8b838a742815f00cbbd1458ca1108309f2e33f1069ba0dc99c974642185"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2c2a74b5-710b-491a-a191-a82682cc0acf.png",
+    "asset": "public/images/pages/thank-you-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/merci/",
+    "placement": "system page visual",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "cf3024245c2a036ac2f062654b7c3f205a8c88c5f2725a2068b26aae50bf188d"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-f2e6e5c4-f242-4892-8864-4e5f7991f29a.png",
+    "asset": "public/images/pages/transit-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/transit-facilities/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "8907a4c247a82f9997ad65e53b75dd0c5fe47d172d755ce96115e84b939fd048"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-55b27e1f-dcc4-49da-92e2-bf3a55e3072e.png",
+    "asset": "public/images/pages/transit-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/installations-transport/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "39e18549b88cc4929ad90343fc007cf8d2a3ae0b369b30035f19ab796bb2d9ef"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-7db65c13-50b7-4ea3-839b-d04b18c126d3.png",
+    "asset": "public/images/pages/universities-en.webp",
+    "website": "NursingPods.ca",
+    "page": "/en/industries/universities/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "b1f2b12d1eeaf05c08b9987597ff1b9f5e4334a279f796043da22c20cb2740c5"
+  },
+  {
+    "source": "/Users/grafov/.codex/generated_images/01a14db5-e5a8-7530-9b2a-dd9b7c5eadae/exec-2ce945cb-5c2c-4b8e-b6e9-e7e3f59fee42.png",
+    "asset": "public/images/pages/universities-fr.webp",
+    "website": "NursingPods.ca",
+    "page": "/fr/secteurs/universites/",
+    "placement": "detail page hero",
+    "type": "Original architectural visualization; not a supplier product photograph or a completed installation",
+    "tool": "built-in image_gen",
+    "sha256": "00a7977725e9fe5be1f8d2ca44c1975a27cd4d45d00605965d6ebef9db2a8ec7"
   }
 ]

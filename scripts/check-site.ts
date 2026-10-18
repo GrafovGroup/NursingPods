@@ -35,6 +35,15 @@ async function inspect(route: (typeof routes)[number]) {
     assert.equal(response.status, 200, route.path);
     const html = await response.text();
     htmls.set(route.path, html);
+    assert.match(html, /<img[^>]+alt="[^"]+"/, "page has a meaningful image");
+    for (const match of html.matchAll(/<img[^>]+src="([^"]+)"/g)) {
+      const imageUrl = new URL(decode(match[1]), base);
+      assert.equal(
+        (await fetch(imageUrl)).status,
+        200,
+        `Image missing: ${imageUrl.pathname}`,
+      );
+    }
     assert.match(html, new RegExp(`<html lang="${route.locale}-CA"`));
     assert.equal((html.match(/<h1[ >]/g) || []).length, 1, "exactly one H1");
     assert.ok(

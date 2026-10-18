@@ -55,3 +55,61 @@ test("every page has equivalent unique routes and valid parent/related targets",
     for (const id of p.related || []) assert.ok(byId(id), id);
   }
 });
+
+test("national coverage includes every 2021 CMA plus all additional capitals", () => {
+  const ids = new Set(locationEntries.map((l) => l.id));
+  const required = [
+    "st-johns",
+    "halifax",
+    "moncton",
+    "saint-john",
+    "fredericton",
+    "saguenay",
+    "quebec-city",
+    "sherbrooke",
+    "trois-rivieres",
+    "drummondville",
+    "montreal",
+    "ottawa",
+    "kingston",
+    "belleville-quinte-west",
+    "peterborough",
+    "oshawa-durham",
+    "toronto-gta",
+    "hamilton",
+    "niagara",
+    "waterloo-region",
+    "brantford",
+    "guelph",
+    "london",
+    "windsor",
+    "barrie",
+    "greater-sudbury",
+    "thunder-bay",
+    "winnipeg",
+    "regina",
+    "saskatoon",
+    "lethbridge",
+    "calgary",
+    "red-deer",
+    "edmonton",
+    "kelowna",
+    "kamloops",
+    "chilliwack",
+    "abbotsford-mission",
+    "vancouver",
+    "victoria",
+    "nanaimo",
+    "charlottetown",
+    "whitehorse",
+    "yellowknife",
+    "iqaluit",
+  ];
+  for (const id of required)
+    assert.ok(ids.has(`metro-${id}`), `Missing major market: ${id}`);
+  for (const l of locationEntries.filter((l) => l.kind === "metro"))
+    assert.ok(
+      l.municipalities.length >= 2,
+      `Missing surrounding community: ${l.id}`,
+    );
+});

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 import { leadSettings } from "@/lib/leads/settings";
@@ -35,6 +36,19 @@ export default async function ThankYou({ locale }: { locale: Locale }) {
         <a className="button" href={`/${locale}/`}>
           {locale === "en" ? "Return home" : "Retour à l’accueil"}
         </a>
+        <figure className="page-visual">
+          <Image
+            src={`/images/pages/thank-you-${locale}.webp`}
+            alt={
+              locale === "en"
+                ? "A calm architectural space with a clear path forward."
+                : "Un espace architectural calme avec un parcours dégagé."
+            }
+            width={1200}
+            height={800}
+            sizes="(max-width: 768px) 92vw, 1100px"
+          />
+        </figure>
       </main>
       <Footer locale={locale} />
     </>

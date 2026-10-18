@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import "./globals.css";
 export const metadata = {
@@ -22,6 +23,15 @@ export default function GlobalNotFound() {
               Accueil en français
             </Link>
           </div>
+          <figure className="page-visual">
+            <Image
+              src="/images/pages/global-not-found-neutral.webp"
+              alt="A bright corridor leading back to a welcoming atrium."
+              width={1200}
+              height={800}
+              sizes="92vw"
+            />
+          </figure>
         </main>
       </body>
     </html>

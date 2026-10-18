@@ -1613,3 +1613,48 @@ table a {
   margin: 8px 0 15px;
   font-size: 14px;
 }
+
+.page-visual {
+  margin: 0 auto;
+  padding-top: 0;
+  padding-bottom: clamp(36px, 6vw, 80px);
+}
+.page-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 640px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.detail-hero-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(28px, 4vw, 64px);
+  align-items: center;
+}
+.detail-hero-copy {
+  min-width: 0;
+}
+.detail-hero-layout h1 {
+  font-size: clamp(34px, 3.7vw, 58px);
+}
+.detail-hero-image {
+  margin: 0;
+  min-width: 0;
+}
+.detail-hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 3px;
+}
+@media (max-width: 900px) {
+  .detail-hero-layout {
+    grid-template-columns: 1fr;
+  }
+  .detail-hero-image {
+    max-width: 680px;
+  }
+}

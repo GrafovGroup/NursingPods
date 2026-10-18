@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { pageImagery } from "@/lib/page-imagery";
 import { business, type Locale } from "@/lib/config";
 import {
   byId,
@@ -19,6 +20,7 @@ export default function ContentPage({
   page: PageRecord;
   locale: Locale;
 }) {
+  const visual = pageImagery(page, locale);
   const quoteHref = ["quote", "contact"].includes(page.id)
     ? "#project-form"
     : `${sectionPath(locale, "quote")}?interest=${encodeURIComponent(page.id)}`;
@@ -68,12 +70,29 @@ export default function ContentPage({
               ))}
             </ol>
           </nav>
-          <p className="eyebrow">{sectionNames[locale][page.section]}</p>
-          <h1>{page.title[locale]}</h1>
-          <p className="detail-intro">{page.description[locale]}</p>
-          <a className="button" href={quoteHref}>
-            {locale === "en" ? "Request a quote" : "Demander une soumission"} ↗
-          </a>
+          <div className="detail-hero-layout">
+            <div className="detail-hero-copy">
+              <p className="eyebrow">{sectionNames[locale][page.section]}</p>
+              <h1>{page.title[locale]}</h1>
+              <p className="detail-intro">{page.description[locale]}</p>
+              <a className="button" href={quoteHref}>
+                {locale === "en"
+                  ? "Request a quote"
+                  : "Demander une soumission"}{" "}
+                ↗
+              </a>
+            </div>
+            <figure className="detail-hero-image">
+              <Image
+                src={visual.src}
+                alt={visual.alt}
+                width={visual.width}
+                height={visual.height}
+                sizes="(max-width: 900px) 90vw, 48vw"
+                priority
+              />
+            </figure>
+          </div>
         </div>
         {["quote", "contact"].includes(page.id) && (
           <section id="project-form" className="section quote-section">
