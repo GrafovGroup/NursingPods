@@ -1,10 +1,12 @@
 import Image from "next/image";
+import Footer from "@/components/Footer";
+import { sectionPath } from "@/lib/paths";
 import { entries, byId } from "@/lib/pages";
 import { notFound } from "next/navigation";
 import { business, isLocale } from "@/lib/config";
-import { content, sectionIds } from "@/lib/content";
+import { content } from "@/lib/content";
 import { provinces, regions } from "@/lib/locations";
-import Header, { Brand } from "@/components/Header";
+import Header from "@/components/Header";
 import InquiryForm from "@/components/InquiryForm";
 import OptionLink from "@/components/OptionLink";
 import { SectionHeading, Arrow } from "@/components/Sections";
@@ -24,7 +26,7 @@ export default async function Home({
         "@id": `${business.url}/#organization`,
         name: business.name,
         url: business.url,
-        telephone: business.phone,
+        ...(business.phoneVerified ? { telephone: business.phone } : {}),
       },
       {
         "@type": "WebSite",
@@ -57,7 +59,7 @@ export default async function Home({
             <h1>{c.headline}</h1>
             <p className="hero-intro">{c.intro}</p>
             <div className="hero-actions">
-              <a className="button" href="#contact">
+              <a className="button" href={sectionPath(locale, "quote")}>
                 {c.quote}
                 <Arrow />
               </a>
@@ -152,7 +154,25 @@ export default async function Home({
           </SectionHeading>
           <div className="industry-grid">
             {c.industries.map((industry, i) => (
-              <a href="#contact" key={industry}>
+              <a
+                href={
+                  byId(
+                    [
+                      "airports",
+                      "transit",
+                      "universities",
+                      "hospitals",
+                      "offices",
+                      "malls",
+                      "government",
+                      "events",
+                      "industrial",
+                      "hospitality",
+                    ][i],
+                  )!.paths[locale]
+                }
+                key={industry}
+              >
                 <span className="industry-number" aria-hidden="true">
                   {String(i + 1).padStart(2, "0")}
                 </span>
@@ -182,7 +202,7 @@ export default async function Home({
             >
               {c.solutionsIntro}
             </SectionHeading>
-            <a className="button" href="#contact">
+            <a className="button" href={sectionPath(locale, "quote")}>
               {c.quote}
               <Arrow />
             </a>
@@ -222,7 +242,7 @@ export default async function Home({
           </SectionHeading>
           <div className="region-list">
             {regions.map((r) => (
-              <a key={r.id} href="#contact">
+              <a key={r.id} href={sectionPath(locale, "quote")}>
                 {r[locale]}
                 <Arrow />
               </a>
@@ -260,54 +280,18 @@ export default async function Home({
             <SectionHeading eyebrow={c.contactEyebrow} title={c.contactTitle}>
               {c.contactIntro}
             </SectionHeading>
-            <a className="contact-phone" href={`tel:${business.phone}`}>
-              {business.phoneDisplay}
-              <Arrow />
-            </a>
+            {business.phoneVerified && (
+              <a className="contact-phone" href={`tel:${business.phone}`}>
+                {business.phoneDisplay}
+                <Arrow />
+              </a>
+            )}
             <p className="contact-tagline">{c.tagline}</p>
           </div>
           <InquiryForm locale={locale} />
         </section>
       </main>
-      <footer className="site-footer">
-        <div className="footer-main">
-          <div>
-            <a href={`/${locale}/`}>
-              <Brand />
-            </a>
-            <p>{c.footerText}</p>
-          </div>
-          <nav
-            aria-label={
-              locale === "en"
-                ? "Footer navigation"
-                : "Navigation de pied de page"
-            }
-          >
-            {c.nav.map((n, i) => (
-              <a key={n} href={`#${sectionIds[i]}`}>
-                {n}
-              </a>
-            ))}
-          </nav>
-          <div>
-            <p className="eyebrow">{c.footerContact}</p>
-            <a className="footer-phone" href={`tel:${business.phone}`}>
-              {business.phoneDisplay}
-            </a>
-            <a className="text-link" href="#contact">
-              {c.quote}
-              <Arrow />
-            </a>
-          </div>
-        </div>
-        <div className="footer-bottom">
-          <span>
-            © {new Date().getFullYear()} NursingPods.ca. {c.rights}
-          </span>
-          <a href="#top">{c.backTop} ↑</a>
-        </div>
-      </footer>
+      <Footer locale={locale} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{

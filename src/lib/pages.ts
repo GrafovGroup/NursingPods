@@ -1,3 +1,4 @@
+import { industries } from "./industries";
 import type { Locale } from "./config";
 import { catalogue } from "./catalogue/data";
 import { solutions } from "./catalogue/solutions";
@@ -127,3 +128,110 @@ for (const section of ["about", "contact", "quote"] as const)
         : { en: [], fr: [] },
     indexable: true,
   });
+// Industry scenarios are planning guidance, not claims of completed client work.
+for (const industry of industries)
+  pages.push({
+    id: industry.id,
+    section: "industries",
+    parentId: "industries",
+    paths: {
+      en: itemPath("en", "industries", industry.slugs.en),
+      fr: itemPath("fr", "industries", industry.slugs.fr),
+    },
+    title: industry.title,
+    description: industry.summary,
+    sections: {
+      en: industry.needs.en.map((body, i) => ({
+        title: [
+          "Define who the space serves",
+          "Plan daily use",
+          "Coordinate the site",
+        ][i],
+        body,
+        ...(i === 2 ? { bullets: industry.questions.en } : {}),
+      })),
+      fr: industry.needs.fr.map((body, i) => ({
+        title: [
+          "Précisez les usagers",
+          "Planifiez l’utilisation quotidienne",
+          "Coordonnez les lieux",
+        ][i],
+        body,
+        ...(i === 2 ? { bullets: industry.questions.fr } : {}),
+      })),
+    },
+    related: industry.related,
+    indexable: true,
+  });
+pages.push({
+  id: "industries",
+  section: "industries",
+  paths: {
+    en: sectionPath("en", "industries"),
+    fr: sectionPath("fr", "industries"),
+  },
+  title: {
+    en: "Nursing spaces for every setting",
+    fr: "Des espaces d’allaitement pour chaque milieu",
+  },
+  description: {
+    en: "Explore project considerations for workplaces, campuses and public facilities. Each setting has its own access, operating and purchasing needs.",
+    fr: "Explorez les éléments à considérer pour les milieux de travail, campus et lieux publics. Chaque secteur a ses propres besoins d’accès, d’exploitation et d’achat.",
+  },
+  sections: { en: [], fr: [] },
+  indexable: true,
+});
+for (const entry of entries) {
+  const page = byId(entry.id)!;
+  page.related = [
+    ...(page.related || []),
+    ...industries
+      .filter((i) => i.related.includes(entry.id))
+      .slice(0, 2)
+      .map((i) => i.id),
+  ];
+}
+pages.push({
+  id: "privacy",
+  section: "privacy",
+  paths: { en: sectionPath("en", "privacy"), fr: sectionPath("fr", "privacy") },
+  title: {
+    en: "Privacy and project information",
+    fr: "Confidentialité et renseignements sur les projets",
+  },
+  description: {
+    en: "Understand the difference between preparing a local project brief and sending an inquiry.",
+    fr: "Comprenez la différence entre préparer un descriptif local et envoyer une demande.",
+  },
+  sections: {
+    en: [
+      {
+        title: "Preparing a project brief",
+        body: "Typing in the form keeps the information in the current browser tab. Downloading a project brief creates a text file on your device; it does not send an inquiry. You control where that downloaded file is stored and who receives it.",
+      },
+      {
+        title: "Sending an inquiry",
+        body: "When the send function is available, an inquiry uses your business contact details and project requirements to request a response. Consent is separate from marketing. Do not include personal health information, payment details or information about another person.",
+      },
+      {
+        title: "Site technology",
+        body: "The site uses no advertising trackers or analytics scripts. Hosting infrastructure may retain operational request logs. A short-lived, secure confirmation cookie is used only after the delivery service accepts an inquiry; it contains no contact details.",
+      },
+    ],
+    fr: [
+      {
+        title: "Préparer un descriptif de projet",
+        body: "Les renseignements saisis restent dans l’onglet courant. Le téléchargement crée un fichier texte sur votre appareil; il n’envoie pas de demande. Vous décidez où conserver ce fichier et à qui le transmettre.",
+      },
+      {
+        title: "Envoyer une demande",
+        body: "Lorsque la fonction d’envoi est disponible, la demande utilise vos coordonnées professionnelles et vos besoins pour obtenir une réponse. Le consentement est distinct du marketing. N’incluez pas de données sur la santé, de paiement ou sur une autre personne.",
+      },
+      {
+        title: "Technologie du site",
+        body: "Le site n’utilise aucun traceur publicitaire ni script d’analyse. L’hébergement peut conserver des journaux techniques. Un témoin sécurisé de courte durée est utilisé seulement après l’acceptation d’une demande par le service de transmission; il ne contient pas de coordonnées.",
+      },
+    ],
+  },
+  indexable: true,
+});

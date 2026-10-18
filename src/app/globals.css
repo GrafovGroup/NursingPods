@@ -1466,3 +1466,73 @@ table a {
 .quote-section .inquiry-form {
   border: 1px solid var(--line);
 }
+.inquiry-form h2 {
+  font-size: 30px;
+}
+.honeypot {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.consent-label {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  font-size: 12px;
+  margin-top: 24px;
+}
+.consent-label input {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  margin-top: 3px;
+  accent-color: var(--teal);
+}
+.consent-label a {
+  text-decoration: underline;
+}
+.form-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+}
+.form-actions .button {
+  flex: 1 1 200px;
+  margin: 0;
+  font-size: 10px;
+}
+.button.outline {
+  background: transparent;
+  color: var(--teal);
+}
+.form-feedback {
+  font-size: 13px;
+  margin-top: 14px;
+}
+.field-error {
+  display: block;
+  color: #8d2727;
+  font-size: 12px;
+  margin-top: 6px;
+}
+.error-summary {
+  border: 2px solid #8d2727;
+  padding: 18px;
+  margin-bottom: 20px;
+}
+.error-summary h3 {
+  font-size: 17px;
+}
+.error-summary ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+.error-summary a {
+  text-decoration: underline;
+}
+.form-grid [aria-invalid="true"] {
+  border-color: #8d2727;
+}

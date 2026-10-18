@@ -2,8 +2,8 @@
 
 - Phase 1A: completed and tested; preserved.
 - Phase 1B: completed — lint, typecheck, production build (37 static outputs), 2 unit tests passed.
-- Phase 1C: in progress — industries and safe server-side lead intake.
-- Phase 1D: pending — location architecture and SEO quality gating.
+- Phase 1C: completed — lint, production build, typecheck and 11 unit/security tests passed.
+- Phase 1D: in progress — location architecture and SEO quality gating.
 - Phase 2A: pending — French and accessibility audit.
 - Phase 2B: pending — operations and integration configuration.
 - Phase 2C: pending — comprehensive QA and CI.

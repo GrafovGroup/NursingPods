@@ -65,7 +65,13 @@ export default function Header({
           {c.nav.map((label, i) => (
             <a
               href={
-                ["products", "solutions"].includes(sectionIds[i])
+                [
+                  "products",
+                  "solutions",
+                  "industries",
+                  "about",
+                  "contact",
+                ].includes(sectionIds[i])
                   ? sectionPath(locale, sectionIds[i] as Section)
                   : `/${locale}/#${sectionIds[i]}`
               }
@@ -90,12 +96,14 @@ export default function Header({
             {locale === "en" ? "FR" : "EN"}
             <span aria-hidden="true"> ↗</span>
           </a>
-          <a className="nav-call" href={`tel:${business.phone}`}>
-            {c.call}
-          </a>
+          {business.phoneVerified && (
+            <a className="nav-call" href={`tel:${business.phone}`}>
+              {c.call}
+            </a>
+          )}
           <a
             className="button small"
-            href={`/${locale}/#contact`}
+            href={sectionPath(locale, "quote")}
             onClick={() => setOpen(false)}
           >
             {c.quote}

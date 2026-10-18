@@ -22,9 +22,13 @@ export default function Footer({ locale }: { locale: Locale }) {
             <a
               key={n}
               href={
-                ["products", "solutions", "about", "contact"].includes(
-                  sectionIds[i],
-                )
+                [
+                  "products",
+                  "solutions",
+                  "industries",
+                  "about",
+                  "contact",
+                ].includes(sectionIds[i])
                   ? sectionPath(locale, sectionIds[i] as Section)
                   : `/${locale}/#${sectionIds[i]}`
               }
@@ -35,9 +39,11 @@ export default function Footer({ locale }: { locale: Locale }) {
         </nav>
         <div>
           <p className="eyebrow">{c.footerContact}</p>
-          <a className="footer-phone" href={`tel:${business.phone}`}>
-            {business.phoneDisplay}
-          </a>
+          {business.phoneVerified && (
+            <a className="footer-phone" href={`tel:${business.phone}`}>
+              {business.phoneDisplay}
+            </a>
+          )}
           <a className="text-link" href={sectionPath(locale, "quote")}>
             {c.quote} ↗
           </a>

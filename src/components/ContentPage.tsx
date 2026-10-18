@@ -17,6 +17,9 @@ export default function ContentPage({
   page: PageRecord;
   locale: Locale;
 }) {
+  const quoteHref = ["quote", "contact"].includes(page.id)
+    ? "#project-form"
+    : `${sectionPath(locale, "quote")}?interest=${encodeURIComponent(page.id)}`;
   const entry = entries.find((e) => e.id === page.entryId);
   const children = pages.filter((p) => p.parentId === page.id);
   const parent = page.parentId ? byId(page.parentId) : undefined;
@@ -61,15 +64,12 @@ export default function ContentPage({
           <p className="eyebrow">{sectionNames[locale][page.section]}</p>
           <h1>{page.title[locale]}</h1>
           <p className="detail-intro">{page.description[locale]}</p>
-          <a
-            className="button"
-            href={`${sectionPath(locale, "quote")}?interest=${encodeURIComponent(page.id)}`}
-          >
+          <a className="button" href={quoteHref}>
             {locale === "en" ? "Request a quote" : "Demander une soumission"} ↗
           </a>
         </div>
         {["quote", "contact"].includes(page.id) && (
-          <section className="section quote-section">
+          <section id="project-form" className="section quote-section">
             <InquiryForm locale={locale} />
           </section>
         )}
@@ -242,10 +242,7 @@ export default function ContentPage({
               ? "Bring your space, priorities and questions into the conversation."
               : "Parlons de votre espace, de vos priorités et de vos questions."}
           </p>
-          <a
-            className="button"
-            href={`${sectionPath(locale, "quote")}?interest=${encodeURIComponent(page.id)}`}
-          >
+          <a className="button" href={quoteHref}>
             {locale === "en" ? "Request a quote" : "Demander une soumission"} ↗
           </a>
         </section>
